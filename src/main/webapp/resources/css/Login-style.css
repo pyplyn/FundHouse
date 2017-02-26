@@ -75,11 +75,11 @@ input[type="password"] {
     background-size: 28px;
 }
 .w3layouts-main span {
-    font-size: 16px;
+    font-size: 14px;
     color: #fff;
     float: left;
     width: 32%;
-	margin-top: 8px;
+	margin-top: 0px;
 	font-family: 'Roboto', sans-serif;
 }
 .w3layouts-main h6 {

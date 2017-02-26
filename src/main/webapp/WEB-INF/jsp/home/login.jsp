@@ -92,9 +92,9 @@
 					onfocus="this.value = '';"
 					onblur="if (this.value == '') {this.value = 'password';}" /> <span><input
 					type="checkbox" />Remember Me</span>
-				<h6>
+				<h4>
 					<a href="#">Forgot Password?</a>
-				</h6>
+				</h4>
 				<div class="clear"></div>
 				<input type="submit" value="login" name="login">
 			</form>
