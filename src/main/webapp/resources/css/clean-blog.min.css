@@ -117,8 +117,8 @@ hr.small {
 	.navbar-custom.is-fixed {
 		position: fixed;
 		top: -61px;
-		background-color: rgba(255, 255, 255, .9);
-		border-bottom: 1px solid #f2f2f2;
+		background-color: #192f53;
+		border-bottom:#192f53   ;
 		-webkit-transition: -webkit-transform .3s;
 		-moz-transition: -moz-transform .3s;
 		transition: transform .3s

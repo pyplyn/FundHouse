@@ -27,8 +27,8 @@
 <title>Found House</title>
 </head>
 <body>
-	<!-- Navigation -->
 	<nav class="navbar navbar-default navbar-custom navbar-fixed-top ">
+
 	<div class="container-fluid">
 		<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header page-scroll">
@@ -37,7 +37,15 @@
 				<span class="sr-only">Toggle navigation</span> Menu <i
 					class="fa fa-bars"></i>
 			</button>
-			<a class="navbar-brand" href="index.html">Start Bootstrap</a>
+
+
+			<div class="col-md-2"
+				style="padding-bottom: 0px; width: 140px; height: 10px;">
+				<img class="img-responsive  pull-left "
+					src=<c:url value="resources/images/FUNDHOUSE_LOGO.png"></c:url>>
+			</div>
+
+
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
@@ -45,18 +53,30 @@
 			id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="${pageContext.request.contextPath}">Home</a></li>
-
 				<li><a href="howItWorks">HOW IT WORKS</a></li>
 				<li><a href="investors">INVESTROS</a></li>
 				<li><a href="borrowers">BORROWERS</a></li>
 				<li><a href="blogs">BLOGS</a></li>
 				<li><a href="aboutUs">ABOUT US</a></li>
-				<li><a href="signUp">SING UP</a></li>
+				<li class="dropdown"><a class="dropdown-toggle"
+					data-toggle="dropdown" href="#">signUp<b class="caret"></b></a>
+					<ul class="dropdown-menu">
+						<li><a href="#">Investor</a></li>
+						<li><a href="#">Borrower</a></li>
+
+					</ul></li>
+
 				<li><a href="login">Login</a></li>
+
+			</ul>
 		</div>
+
+
 		<!-- /.navbar-collapse -->
 	</div>
-	<!-- /.container --> </nav>
+
+	</nav>
+
 	<div>investors</div>
 </body>
 </html>

@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400);
+@import url(http://fonts.googleapis.com/css?family=Bitter:400);
+
+
+footer {
+	background-color:#001528;
+    color:#ddd;
+    margin-top: 0px;
+    margin-bottom:0px;
+    min-height:100px;
+    
+  
+}
+
+footer .nav>li>a {
+    padding: 3px;
+    color: #f44d3c;
+}
+
+footer .nav>li>a:hover {
+    background-color:transparent;
+	color:#fff;
+}

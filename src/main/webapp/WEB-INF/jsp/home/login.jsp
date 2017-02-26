@@ -16,10 +16,12 @@
 
 <link href=<c:url value="/resources/css/clean-blog.min.css"/>
 	rel="stylesheet" type="text/css" />
+<link href=<c:url value="/resources/css/Login-style.css"/>
+	rel="stylesheet" type="text/css" />
 
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-	<script
+<script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src=<c:url value="/resources/js/clean-blog.min.js"/>
 	type="text/javascript"></script>
@@ -27,8 +29,8 @@
 <title>Found House</title>
 </head>
 <body>
-	<!-- Navigation -->
 	<nav class="navbar navbar-default navbar-custom navbar-fixed-top ">
+
 	<div class="container-fluid">
 		<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header page-scroll">
@@ -37,7 +39,15 @@
 				<span class="sr-only">Toggle navigation</span> Menu <i
 					class="fa fa-bars"></i>
 			</button>
-			<a class="navbar-brand" href="index.html">Start Bootstrap</a>
+
+
+			<div class="col-md-2"
+				style="padding-bottom: 0px; width: 140px; height: 10px;">
+				<img class="img-responsive  pull-left "
+					src=<c:url value="resources/images/FUNDHOUSE_LOGO.png"></c:url>>
+			</div>
+
+
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
@@ -45,18 +55,56 @@
 			id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="${pageContext.request.contextPath}">Home</a></li>
-
 				<li><a href="howItWorks">HOW IT WORKS</a></li>
 				<li><a href="investors">INVESTROS</a></li>
 				<li><a href="borrowers">BORROWERS</a></li>
 				<li><a href="blogs">BLOGS</a></li>
 				<li><a href="aboutUs">ABOUT US</a></li>
-				<li><a href="signUp">SING UP</a></li>
+				<li class="dropdown"><a class="dropdown-toggle"
+					data-toggle="dropdown" href="#">signUp<b class="caret"></b></a>
+					<ul class="dropdown-menu">
+						<li><a href="#">Investor</a></li>
+						<li><a href="#">Borrower</a></li>
+
+					</ul></li>
+
 				<li><a href="login">Login</a></li>
+
+			</ul>
 		</div>
+
+
 		<!-- /.navbar-collapse -->
 	</div>
-	<!-- /.container --> </nav>
-	<div>Login</div>
+
+	</nav>
+
+	
+	
+	<div class="main-w3l">
+		<div class="w3layouts-main">
+			<h2>Login Now</h2>
+			<form action="#" method="post">
+				<input value="E-MAIL" name="Email" type="email" required=""
+					onfocus="this.value = '';"
+					onblur="if (this.value == '') {this.value = 'E-Mail';}" /> <input
+					value="PASSWORD" name="Password" type="password" required=""
+					onfocus="this.value = '';"
+					onblur="if (this.value == '') {this.value = 'password';}" /> <span><input
+					type="checkbox" />Remember Me</span>
+				<h6>
+					<a href="#">Forgot Password?</a>
+				</h6>
+				<div class="clear"></div>
+				<input type="submit" value="login" name="login">
+			</form>
+		</div>
+	</div>
+	
+	
+	
+	
+	
+	
 </body>
 </html>
