@@ -48,12 +48,13 @@
 
 		</div>
 
+
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse"
 			id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="#">BORROWERS</a></li>
-				<li class="active"><a href="investorProfile">PROFILE</a></li>
+				<li class="active"><a href="profile">PROFILE</a></li>
 				
 				<!-- Split String -->
 				<c:set var="dataParts" value="${fn:split(userInfo.userName, '@')}" />

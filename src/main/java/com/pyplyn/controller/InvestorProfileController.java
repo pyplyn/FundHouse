@@ -8,7 +8,7 @@ public class InvestorProfileController {
 
 	
 	
-	@RequestMapping(value="investor/investorProfile") 
+	@RequestMapping(value="profile") 
 	public String init()
 	{
 		System.out.println("InvestorsController_Inti-->GET ");	
