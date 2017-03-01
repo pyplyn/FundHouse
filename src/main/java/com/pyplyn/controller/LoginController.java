@@ -27,8 +27,8 @@ public class LoginController {
 		if (login.getUserName().equals("pyplyn.fpsocial@gmail.com")
 				&& login.getPassword().equals("P@55word")) {
 
-			return new ModelAndView("redirect:profile", "userInfo",
-					login);	
+			return new ModelAndView("investor/investorProfile", "userInfo",
+					login);
 
 		}
 		return new ModelAndView("error/error");
