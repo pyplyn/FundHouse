@@ -2082,4 +2082,28 @@
 {
 	margin-bottom: 50px;
 }
+div .footer-botom
+{
+	padding-top:40px;
+}
+.tab-content .tab-pane ul li  .fa
+{
+	color: #3c8dbc;
+	margin-right: 5px;
+}
+.tab-content .tab-pane ul li  
+{
+	font-size: 17px;
+	margin-left: 20px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+	
+}
+.tab-content .tab-pane p
+{
+	font-size: 17px;
+	margin: 13px;
+	line-height: 1.5;
+}
 }

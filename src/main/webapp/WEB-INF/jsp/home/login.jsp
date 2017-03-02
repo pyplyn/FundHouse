@@ -37,9 +37,8 @@
 	padding-top: 5%;
 	padding-left: 20px;
 	padding-right: 20px;
-	background-image:url(<c:url value="/resources/images/main-slide-1.jpg"/>);
+	background-image: url(<c:url value="/resources/images/main-slide-1.jpg"/>);
 	min-height: 600px;
-	
 }
 
 .access-section .form-box .form-box-inner {
@@ -53,7 +52,6 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	padding: 40px;
-	
 }
 
 access-section .divider {
@@ -96,7 +94,8 @@ access-section .divider {
 	color: #999999;
 }
 </style>
-<title>Fund House</title></head>
+<title>Fund House</title>
+</head>
 <!--  -->
 <body class="hold-transition skin-blue layout-top-nav">
 	<div class="wrapper">
@@ -130,8 +129,8 @@ access-section .divider {
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown">SIGN UP <span class="caret"></span></a>
 						<ul class="dropdown-menu " role="menu">
-							<li><a href="#">Investor</a></li>
-							<li><a href="#">Borrower</a></li>
+							<li><a href="signupinvestor">Investor</a></li>
+							<li><a href="signupborrower">Borrower</a></li>
 
 						</ul></li>
 					<li><a href="login">LOGIN</a></li>
@@ -153,9 +152,8 @@ access-section .divider {
 						<h2 class="title text-center">Log in to FundHouse</h2>
 						<div class="row">
 							<div class="form-container col-md-5 col-sm-12 col-xs-12">
-								<form:form class="login-form"
-									action="login" modelAttribute="login"
-									name='loginForm' method="POST">
+								<form:form class="login-form" action="login"
+									modelAttribute="login" name='loginForm' method="POST">
 
 
 									<div class="form-group email">
@@ -195,12 +193,10 @@ access-section .divider {
 								</div>
 								<p class="lead">Don't have a FundHouse account?</p>
 								<ul class="list-unstyled social-login">
-									<li><a class="btn btn-cta-secondary"
-										href="signupInvestor.html"><i class="fa"></i>Sign up as
-											Investor</a></li>
-									<li><a class="btn btn-cta-secondary"
-										href="signupBorrower.html"><i class="fa"></i>Sign up as
-											Borrower</a></li>
+									<li><a class="btn btn-cta-secondary" href="signupinvestor"><i
+											class="fa"></i>Sign up as Investor</a></li>
+									<li><a class="btn btn-cta-secondary" href="signupborrower"><i
+											class="fa"></i>Sign up as Borrower</a></li>
 								</ul>
 							</div>
 							<!--//social-btns-->
@@ -255,49 +251,58 @@ access-section .divider {
 						<li><a href="#">Terms &amp; Conditions</a></li>
 					</ul>
 				</div>
-				
+
 			</div>
-			<div class="row">
-			<div class="col-lg-10 col-md-4 column">
-			<br>
-			</div>
+			<div class="row ">
+				<div class="footer-botom">
+					<div class="col-lg-10 col-md-4 column">
+						<div class="text-center">
+							<small>FUNDHOUSE A Trade Name of TRUEALLIANCE CONSULTANCY
+								MANAGEMENT INDIA LIMITED</small>
+						</div>
+						<div class="text-center">
+							<small>Copyright © 2027. All Rights Reserved Fundhouse</small>
+						</div>
+					</div>
 					<div class="col-lg-2 col-md-4 column">
-						
-							<ul class="social list-inline">
-								<li><a target="_blank" href="https://twitter.com/lendboxin"><i
-										class="fa fa-twitter"></i></h6></li>
-								<li><a target="_blank"
-									href="https://www.facebook.com/pages/Lendbox/641410082662094"><i
-										class="fa fa-facebook"></i></a></li>
-								<li><a target="_blank"
-									href="https://plus.google.com/u/0/b/104085647914169330781/"><i
-										class="fa fa-google-plus"></i></a></li>
-								<li><a target="_blank"
-									href="https://instagram.com/lendbox.in"><i
-										class="fa fa-instagram"></i></a></li>
-								<!-- <li class="row-end"><a href="#"><i class="fa fa-rss"></i></a></li> -->
-							</ul>
-						
+
+						<ul class="social list-inline">
+							<li><a target="_blank" href="https://twitter.com/lendboxin"><i
+									class="fa fa-twitter"></i></a></li>
+							<li><a target="_blank"
+								href="https://www.facebook.com/pages/Lendbox/641410082662094"><i
+									class="fa fa-facebook"></i></a></li>
+							<li><a target="_blank"
+								href="https://plus.google.com/u/0/b/104085647914169330781/"><i
+									class="fa fa-google-plus"></i></a></li>
+							<li><a target="_blank"
+								href="https://instagram.com/lendbox.in"><i
+									class="fa fa-instagram"></i></a></li>
+							<!-- <li class="row-end"><a href="#"><i class="fa fa-rss"></i></a></li> -->
+						</ul>
+
 					</div>
 				</div>
+			</div>
+		</div>
 		</footer>
+	</div>
+	<!-- Js File 		  -->
 
-		<!-- Js File 		  -->
 
+	<script
+		src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
-		<script
-			src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script
+		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-		<script
-			src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-		<script src=<c:url value="/resources/js/app.min.js"/>
-			type="text/javascript"></script>
-		<!-- SlimScroll -->
-		<script
-			src=<c:url value="/resources/plugins/slimScroll/jquery.slimscroll.min.js"/>
-			type="text/javascript"></script>
-		<script src=<c:url value="/resources/js/demo.js"/>
-			type="text/javascript"></script>
+	<script src=<c:url value="/resources/js/app.min.js"/>
+		type="text/javascript"></script>
+	<!-- SlimScroll -->
+	<script
+		src=<c:url value="/resources/plugins/slimScroll/jquery.slimscroll.min.js"/>
+		type="text/javascript"></script>
+	<script src=<c:url value="/resources/js/demo.js"/>
+		type="text/javascript"></script>
 </body>
 </html>

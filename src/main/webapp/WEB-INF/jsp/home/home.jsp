@@ -66,8 +66,8 @@
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown">SIGN UP <span class="caret"></span></a>
 						<ul class="dropdown-menu " role="menu">
-							<li><a href="#">Investor</a></li>
-							<li><a href="#">Borrower</a></li>
+							<li><a href="signupinvestor">Investor</a></li>
+							<li><a href="signupborrower">Borrower</a></li>
 
 						</ul></li>
 					<li><a href="login">LOGIN</a></li>
@@ -131,75 +131,85 @@
 
 
 
-	
-<footer class="main-footer"> <!-- ROW 1 -->
 
-		<div class="container">
+	<footer class="main-footer"> <!-- ROW 1 -->
 
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-2 column">
-					<h4>Information</h4>
-					<ul class="nav">
-						<li><a href="about-us.html">Products</a></li>
-						<li><a href="about-us.html">Services</a></li>
-						<li><a href="about-us.html">Benefits</a></li>
-						<li><a href="elements.html">Developers</a></li>
-					</ul>
-				</div>
-				<div class="col-xs-6 col-md-2 column">
-					<h4>Follow Us</h4>
-					<ul class="nav">
-						<li><a href="#">Twitter</a></li>
-						<li><a href="#">Facebook</a></li>
-						<li><a href="#">Google+</a></li>
-						<li><a href="#">Pinterest</a></li>
-					</ul>
-				</div>
-				<div class="col-xs-6 col-md-2 column">
-					<h4>Contact Us</h4>
-					<ul class="nav">
-						<li><a href="#">Email</a></li>
-						<li><a href="#">Headquarters</a></li>
-						<li><a href="#">Management</a></li>
-						<li><a href="#">Support</a></li>
-					</ul>
-				</div>
-				<div class="col-xs-6 col-md-2 column">
-					<h4>Customer Service</h4>
-					<ul class="nav">
-						<li><a href="#">About Us</a></li>
-						<li><a href="#">Delivery Information</a></li>
-						<li><a href="#">Privacy Policy</a></li>
-						<li><a href="#">Terms &amp; Conditions</a></li>
-					</ul>
-				</div>
-				
+	<div class="container">
+
+		<div class="row">
+			<div class="col-xs-6 col-sm-6 col-md-2 column">
+				<h4>Information</h4>
+				<ul class="nav">
+					<li><a href="about-us.html">Products</a></li>
+					<li><a href="about-us.html">Services</a></li>
+					<li><a href="about-us.html">Benefits</a></li>
+					<li><a href="elements.html">Developers</a></li>
+				</ul>
 			</div>
-			<div class="row">
-			<div class="col-lg-10 col-md-4 column">
-			<br>
+			<div class="col-xs-6 col-md-2 column">
+				<h4>Follow Us</h4>
+				<ul class="nav">
+					<li><a href="#">Twitter</a></li>
+					<li><a href="#">Facebook</a></li>
+					<li><a href="#">Google+</a></li>
+					<li><a href="#">Pinterest</a></li>
+				</ul>
 			</div>
-					<div class="col-lg-2 col-md-4 column">
-						
-							<ul class="social list-inline">
-								<li><a target="_blank" href="https://twitter.com/lendboxin"><i
-										class="fa fa-twitter"></i></h6></li>
-								<li><a target="_blank"
-									href="https://www.facebook.com/pages/Lendbox/641410082662094"><i
-										class="fa fa-facebook"></i></a></li>
-								<li><a target="_blank"
-									href="https://plus.google.com/u/0/b/104085647914169330781/"><i
-										class="fa fa-google-plus"></i></a></li>
-								<li><a target="_blank"
-									href="https://instagram.com/lendbox.in"><i
-										class="fa fa-instagram"></i></a></li>
-								<!-- <li class="row-end"><a href="#"><i class="fa fa-rss"></i></a></li> -->
-							</ul>
-						
+			<div class="col-xs-6 col-md-2 column">
+				<h4>Contact Us</h4>
+				<ul class="nav">
+					<li><a href="#">Email</a></li>
+					<li><a href="#">Headquarters</a></li>
+					<li><a href="#">Management</a></li>
+					<li><a href="#">Support</a></li>
+				</ul>
+			</div>
+			<div class="col-xs-6 col-md-2 column">
+				<h4>Customer Service</h4>
+				<ul class="nav">
+					<li><a href="#">About Us</a></li>
+					<li><a href="#">Delivery Information</a></li>
+					<li><a href="#">Privacy Policy</a></li>
+					<li><a href="#">Terms &amp; Conditions</a></li>
+				</ul>
+			</div>
+
+		</div>
+		<div class="row">
+			<div class="footer-botom">
+				<div class="col-lg-10 col-md-4 column">
+					<div class="text-center">
+						<small>FUNDHOUSE A Trade Name of TRUEALLIANCE CONSULTANCY
+							MANAGEMENT INDIA LIMITED</small>
+					</div>
+					<div class="text-center">
+						<small>Copyright © 2027. All Rights Reserved Fundhouse</small>
 					</div>
 				</div>
-		</footer>
-	
+				<div class="col-lg-2 col-md-4 column">
+
+					<ul class="social list-inline">
+						<li><a target="_blank" href="https://twitter.com/lendboxin"><i
+								class="fa fa-twitter"></i>
+								</h6></li>
+						<li><a target="_blank"
+							href="https://www.facebook.com/pages/Lendbox/641410082662094"><i
+								class="fa fa-facebook"></i></a></li>
+						<li><a target="_blank"
+							href="https://plus.google.com/u/0/b/104085647914169330781/"><i
+								class="fa fa-google-plus"></i></a></li>
+						<li><a target="_blank"
+							href="https://instagram.com/lendbox.in"><i
+								class="fa fa-instagram"></i></a></li>
+						<!-- <li class="row-end"><a href="#"><i class="fa fa-rss"></i></a></li> -->
+					</ul>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	</footer>
+
 	<!-- Js File 		  -->
 
 

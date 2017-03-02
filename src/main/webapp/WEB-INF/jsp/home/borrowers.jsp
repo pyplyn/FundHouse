@@ -66,8 +66,8 @@
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown">SIGN UP <span class="caret"></span></a>
 						<ul class="dropdown-menu " role="menu">
-							<li><a href="#">Investor</a></li>
-							<li><a href="#">Borrower</a></li>
+							<li><a href="signupinvestor">Investor</a></li>
+							<li><a href="signupborrower">Borrower</a></li>
 
 						</ul></li>
 					<li><a href="login">LOGIN</a></li>
@@ -79,10 +79,10 @@
 			<!-- /.container-fluid -->
 		</div>
 		</nav> </header>
-		
 
-	
-<footer class="main-footer"> <!-- ROW 1 -->
+
+
+		<footer class="main-footer"> <!-- ROW 1 -->
 
 		<div class="container">
 
@@ -123,48 +123,57 @@
 						<li><a href="#">Terms &amp; Conditions</a></li>
 					</ul>
 				</div>
-				
+
 			</div>
 			<div class="row">
-			<div class="col-lg-10 col-md-4 column">
-			<br>
-			</div>
+				<div class="footer-botom">
+					<div class="col-lg-10 col-md-4 column">
+						<div class="text-center">
+							<small>FUNDHOUSE A Trade Name of TRUEALLIANCE CONSULTANCY
+								MANAGEMENT INDIA LIMITED</small>
+						</div>
+						<div class="text-center">
+							<small>Copyright © 2027. All Rights Reserved Fundhouse</small>
+						</div>
+					</div>
 					<div class="col-lg-2 col-md-4 column">
-						
-							<ul class="social list-inline">
-								<li><a target="_blank" href="https://twitter.com/lendboxin"><i
-										class="fa fa-twitter"></i></h6></li>
-								<li><a target="_blank"
-									href="https://www.facebook.com/pages/Lendbox/641410082662094"><i
-										class="fa fa-facebook"></i></a></li>
-								<li><a target="_blank"
-									href="https://plus.google.com/u/0/b/104085647914169330781/"><i
-										class="fa fa-google-plus"></i></a></li>
-								<li><a target="_blank"
-									href="https://instagram.com/lendbox.in"><i
-										class="fa fa-instagram"></i></a></li>
-								<!-- <li class="row-end"><a href="#"><i class="fa fa-rss"></i></a></li> -->
-							</ul>
-						
+
+						<ul class="social list-inline">
+							<li><a target="_blank" href="https://twitter.com/lendboxin"><i
+									class="fa fa-twitter"></i>
+									</h6></li>
+							<li><a target="_blank"
+								href="https://www.facebook.com/pages/Lendbox/641410082662094"><i
+									class="fa fa-facebook"></i></a></li>
+							<li><a target="_blank"
+								href="https://plus.google.com/u/0/b/104085647914169330781/"><i
+									class="fa fa-google-plus"></i></a></li>
+							<li><a target="_blank"
+								href="https://instagram.com/lendbox.in"><i
+									class="fa fa-instagram"></i></a></li>
+							<!-- <li class="row-end"><a href="#"><i class="fa fa-rss"></i></a></li> -->
+						</ul>
+
 					</div>
 				</div>
+			</div>
 		</footer>
-	<!-- Js File 		  -->
+		<!-- Js File 		  -->
 
 
-	<script
-		src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script
+			src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
-	<script
-		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script
+			src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-	<script src=<c:url value="/resources/js/app.min.js"/>
-		type="text/javascript"></script>
-	<!-- SlimScroll -->
-	<script
-		src=<c:url value="/resources/plugins/slimScroll/jquery.slimscroll.min.js"/>
-		type="text/javascript"></script>
-	<script src=<c:url value="/resources/js/demo.js"/>
-		type="text/javascript"></script>
+		<script src=<c:url value="/resources/js/app.min.js"/>
+			type="text/javascript"></script>
+		<!-- SlimScroll -->
+		<script
+			src=<c:url value="/resources/plugins/slimScroll/jquery.slimscroll.min.js"/>
+			type="text/javascript"></script>
+		<script src=<c:url value="/resources/js/demo.js"/>
+			type="text/javascript"></script>
 </body>
 </html>
