@@ -103,6 +103,7 @@ body {
 	min-height: 100px;
 	padding-top: 20px;
 	padding-bottom: 40px;
+	position: relative;
 }
 
 footer .nav>li>a {
@@ -112,6 +113,7 @@ footer .nav>li>a {
 	font-style: inherit;
 }
 
+  
 
 
 
@@ -2932,18 +2934,21 @@ deg
 	margin: 0;
 	border-bottom-color: #f4f4f4;
 	border-top-right-radius: 3px;
-	border-top-left-radius: 3px
+	border-top-left-radius: 3px;
+	margin-left: 20px;
 }
 
 .nav-tabs-custom>.nav-tabs>li {
 	border-top: 3px solid transparent;
 	margin-bottom: -2px;
-	margin-right: 5px
+	margin-right: 5px;
+	width: 18%;
 }
 
 .nav-tabs-custom>.nav-tabs>li>a {
 	color: #444;
-	border-radius: 0
+	border-radius: 0;
+	font-size: 17px;
 }
 
 .nav-tabs-custom>.nav-tabs>li>a.text-muted {
@@ -3024,7 +3029,7 @@ deg
 
 .nav-tabs-custom>.tab-content {
 	background: #fff;
-	padding: 10px;
+	padding: 30px;
 	border-bottom-right-radius: 3px;
 	border-bottom-left-radius: 3px
 }
@@ -5611,6 +5616,7 @@ table.text-center, table.text-center td, table.text-center th {
 	.table-responsive>.table tr th, .table-responsive>.table tr td {
 		white-space: normal !important
 	}
+	
 	
 	
 }

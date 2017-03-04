@@ -2074,36 +2074,102 @@
 		{
 		border-left: 1px solid #d2d6de
 	}
-.social  li a .fa {
-		font-size:25px; 
+	.social  li a .fa {
+		font-size: 25px;
+	}
+	.title {
+		margin-bottom: 50px;
+	}
+	div .footer-botom {
+		padding-top: 40px;
+	}
+	.tab-content .tab-pane ul li  .fa {
+		color: #3c8dbc;
+		margin-right: 5px;
+	}
+	.tab-content .tab-pane ul li {
+		font-size: 16px;
+		margin-left: 20px;
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+	 p {
+		font-size: 17px;
+		margin: 13px 0px 13px 0px;
+		line-height: 1.5;
+	}
+	.handle-bg {
+		background-image: url("/FoundHouse/resources/images/main-slide-1.jpg");
+		background-size:cover;
+	}
+	.handle-bg.about-handle-bg {
+		height: 500px;
+		width: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+	.setion-how-it-works .title {
+		color: white;
+		font-size: 40px;
+	}
+	.setion-how-it-works {
+		
+		padding-top: 140px;
+		position: relative;
+	}
+	.setion-how-it-works.section-bg
+	{
+	
+	}
+	.setion-how-it-works-inner {
+		background-color: white;
+		 min-width : 1000px;
+		padding: 50px;
+		margin-bottom:120px;
+		max-width: 900px;
+		font-size: 16px;
+		
+		
+	}
+	.box.box-bg
+	{
+		background-color: #F5F5F5;
+		border-top-color:white;
+		
+	}
+	.callout.callout-info1
+	{
+		margin:30px 40px 30px 40px;
+		padding:15px 30px 50px  30px;
+		
+		
+		
+		border-left: 5px solid #3c8dbc;
+	}
+	.callout.callout-info1 p{
+		font-size: 25px;
+		font-style: italic;
+		color: #3c8dbc;
+	}
+	.section
+	{
+		padding:30px;
+		background-color: white;
+		position: relative;
+	}
+	.content.investor-contenet
+	{
+		padding: 30px 100px;
+	}
+	.section2 {
+		background-color: #f5f5f5;
+	}
+	.box.box-bg-investors
+	{
+		background-color: white;
+		border-top-color:white;
+		
 	}
 	
-.title
-{
-	margin-bottom: 50px;
-}
-div .footer-botom
-{
-	padding-top:40px;
-}
-.tab-content .tab-pane ul li  .fa
-{
-	color: #3c8dbc;
-	margin-right: 5px;
-}
-.tab-content .tab-pane ul li  
-{
-	font-size: 17px;
-	margin-left: 20px;
-	margin-top: 5px;
-	margin-bottom: 5px;
-	
-	
-}
-.tab-content .tab-pane p
-{
-	font-size: 17px;
-	margin: 13px;
-	line-height: 1.5;
-}
 }

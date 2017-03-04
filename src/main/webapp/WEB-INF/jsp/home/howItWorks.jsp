@@ -81,196 +81,207 @@
 		</nav> </header>
 		<!-- END -->
 		<!--  Box -->
-		<div class="container">
-			<div class="content ">
-				<div class="row">
-					<!-- Section 1 -->
-					<div class="col">
-						<div class="box box-warning">
-							<div class="box-header with-border">
-								<h3 class="box-title">HOW FUNDHOUSE WORKS?</h3>
+		<div class="handle-bg container about-handle-bg "></div>
+		<section class="setion-how-it-works section-bg">
 
-								<div class="box-tools pull-right">
-									<button type="button" class="btn btn-box-tool"
-										data-widget="collapse">
-										<i class="fa fa-minus"></i>
-									</button>
-								</div>
-								<!-- /.box-tools -->
+
+		<div class="title container text-center">How it works</div>
+		<div class="setion-how-it-works-inner container">
+			<div class="row">
+				<!-- Section 1 -->
+				<div class="col">
+					<div class="box box-bg">
+						<div class="box-header with-border">
+							<h3 class="box-title">HOW FUNDHOUSE WORKS?</h3>
+
+							<div class="box-tools pull-right">
+								<button type="button" class="btn btn-box-tool"
+									data-widget="collapse">
+									<i class="fa fa-minus"></i>
+								</button>
 							</div>
-							<!-- /.box-header -->
-							<div class="box-body body-padding">
-								<strong>What is FundHouse?</strong>
-								<p>In this growing global market getting in touch with
-									potential investors and borrowers is challenging and this is
-									where FundHouse comes into play.</p>
-								<p>LENDBOX is an online marketplace where potential
-									Investors and pre-verified, creditworthy borrowers connect and
-									pursue bilateral transactions. FundHouse helps strike deals
-									amongst the Investors and the borrowers and also help in
-									repayment.</p>
-								<strong>Registering with FundHouse</strong>
-								<p>
-									Any resident Indian above 21 years age can register with
-									FundHouse. Registration happens after thorough verification as
-									per KYC norms laid by RBI/SEBI for opening bank accounts and
-									online trading accounts, assuring authentic and safe dealings.<a
-										class="contactUsSideSlider" href="#">CONTACT US</a> now to get
-									started.
-								</p>
-								<strong>How transactions strike at FundHouse?</strong>
-								<p>Once registered with FundHouse, borrowers and investors
-									can send proposals to each other along with some basic
-									information such as reason, amount, preferred interest rate,
-									tenure etc. The receiver of proposal can either Accept, Reject,
-									Re-negotiate or send a counter proposal. Both borrowers and
-									Investors are allowed to strike multiple deals at one point of
-									time.</p>
-								<p>The whole procedure is discreet and without any
-									intervention from us. The parties sign a formal contract after
-									the agreement is made for amount and interest rate for same,
-									between the investor and borrower, followed by transfer of fund
-									to borrower's bank account.</p>
-								<p>The EMI for repayment can be made and tracked via us
-									along with other regular modes, such as, post-dated cheques,
-									electronic transfers via NEFT, netbanking, Auto Debits etc.</p>
-								<strong>DISCLAIMER:</strong>
-								<p>
-									LENDBOX does not play any role in any of the bilateral
-									transactions; we only charge a service fee for our services. To
-									know more <a class="contactUsSideSlider" href="#">CONTACT
-										US.</a>
-								</p>
-							</div>
-							<!-- /.box-body -->
+							<!-- /.box-tools -->
 						</div>
-					</div>
-				</div>
-				<!-- Section 2 -->
-				<div class="row">
-					<div class="col">
-						<div class="box box-default collapsed-box">
-							<div class="box-header with-border">
-								<h3 class="box-title text-center">WHAT LENDBOX DOES?</h3>
-
-								<div class="box-tools pull-right">
-									<button type="button" class="btn btn-box-tool"
-										data-widget="collapse">
-										<i class="fa fa-plus"></i>
-									</button>
-								</div>
-								<!-- /.box-tools -->
-							</div>
-							<!-- /.box-header -->
-							<div class="box-body body-padding">
-								<p>We verify each and every member at the time of
-									registration, either as an investor or borrower. This ensures
-									that the information that you see on our website about each
-									member is authenticated as per proper guidelines set by the
-									RBI/SEBI. For the same, we collect Personal, Professional,
-									Social and Financial details from each potential member.</p>
-								<p>Once borrower and investors come to a mutual agreement,
-									Lendbox will help them legalize the transaction by signing a
-									formal contract. We make necessary provisions and help both
-									parties realize the deal without the necessity of a physical
-									meeting.</p>
-								<p>Once a loan is disbursed, we help investors with the
-									collection and recovery of loans as per official guidelines of
-									RBI for banks and financial institutions. Delay in repayment by
-									borrowers draw a penalty that is pursued by Lendbox as part of
-									the process.</p>
-								<p>We at Lendbox do not collect money deposits from either
-									borrowers or investors. All monetary transactions are directly
-									between the two parties.</p>
-								<p>Decisions to lend on Lendbox are entirely at the
-									discretion of potential investors. We do not guarantee fixed or
-									minimum rate of returns to any investor.</p>
-								<p>For further details, please read read Lendbox Term of use
-									and Privacy policy</p>
-								<p>Lendbox does not give any financial advice or
-									recommendations to either borrowers or investors on this
-									platform. Members are encouraged to make their own researched
-									and informed decisions and transact accordingly, free of any
-									coercion or any form of influence from us.</p>
-								<p>If you have further queries, feel free to email us at
-									support@lendbox.in</p>
-
-
-							</div>
-							<!-- /.box-body -->
+						<!-- /.box-header -->
+						<div class="box-body body-padding">
+							<strong>What is FundHouse?</strong>
+							<p>In this growing global market getting in touch with
+								potential investors and borrowers is challenging and this is
+								where FundHouse comes into play.</p>
+							<p>LENDBOX is an online marketplace where potential Investors
+								and pre-verified, creditworthy borrowers connect and pursue
+								bilateral transactions. FundHouse helps strike deals amongst the
+								Investors and the borrowers and also help in repayment.</p>
+							<strong>Registering with FundHouse</strong>
+							<p>
+								Any resident Indian above 21 years age can register with
+								FundHouse. Registration happens after thorough verification as
+								per KYC norms laid by RBI/SEBI for opening bank accounts and
+								online trading accounts, assuring authentic and safe dealings.<a
+									class="contactUsSideSlider" href="#">CONTACT US</a> now to get
+								started.
+							</p>
+							<strong>How transactions strike at FundHouse?</strong>
+							<p>Once registered with FundHouse, borrowers and investors
+								can send proposals to each other along with some basic
+								information such as reason, amount, preferred interest rate,
+								tenure etc. The receiver of proposal can either Accept, Reject,
+								Re-negotiate or send a counter proposal. Both borrowers and
+								Investors are allowed to strike multiple deals at one point of
+								time.</p>
+							<p>The whole procedure is discreet and without any
+								intervention from us. The parties sign a formal contract after
+								the agreement is made for amount and interest rate for same,
+								between the investor and borrower, followed by transfer of fund
+								to borrower's bank account.</p>
+							<p>The EMI for repayment can be made and tracked via us along
+								with other regular modes, such as, post-dated cheques,
+								electronic transfers via NEFT, netbanking, Auto Debits etc.</p>
+							<strong>DISCLAIMER:</strong>
+							<p>
+								LENDBOX does not play any role in any of the bilateral
+								transactions; we only charge a service fee for our services. To
+								know more <a class="contactUsSideSlider" href="#">CONTACT
+									US.</a>
+							</p>
 						</div>
-					</div>
-				</div>
-				<!-- Section 3 -->
-				<div class="row">
-					<div class="col">
-						<div class="box box-default collapsed-box">
-							<div class="box-header with-border">
-								<h3 class="box-title">BIDDING PROCESS OF LENDBOX</h3>
-
-								<div class="box-tools pull-right">
-									<button type="button" class="btn btn-box-tool"
-										data-widget="collapse">
-										<i class=" fa fa-plus"></i>
-									</button>
-								</div>
-								<!-- /.box-tools -->
-							</div>
-							<!-- /.box-header -->
-							<div class="box-body body-padding">
-								<p>Once registered, investors can reach out to listed
-									borrowers and borrowers can reach out to registered investors.
-									Once an offer is accepted, you receive a notification. Either
-									of the user can approach each other.</p>
-								<p>Basic information such as Amount, expected rate of
-									Interest and tenure is sent with the proposal.</p>
-								<p>When both parties accept the loan offer, the process of
-									formal contract signing begins. After the loan is disbursed,
-									investors will receive EMIs on the 10th of every month. If a
-									borrower fails to pay an EMI within a stipulated time, a
-									penalty is levied on the borrower which is payable to investors
-									directly.</p>
-
-
-							</div>
-							<!-- /.box-body -->
-						</div>
-					</div>
-				</div>
-				<!-- Setion 4 -->
-				<div class="row">
-					<div class="col">
-						<div class="box box-default collapsed-box">
-							<div class="box-header with-border">
-								<h3 class="box-title">FUND TRANSFER AND EMIs</h3>
-
-								<div class="box-tools pull-right">
-									<button type="button" class="btn btn-box-tool"
-										data-widget="collapse">
-										<i class="fa fa-plus"></i>
-									</button>
-								</div>
-								<!-- /.box-tools -->
-							</div>
-							<!-- /.box-header -->
-							<div class="box-body body-padding">
-								<
-								<p>Lendbox encourages its user to use auto debits for
-									repayments. However, fund transfers can also happen through
-									Bank Cheques, IMPS, NEFT and other auto debits.</p>
-								<p>The funds are transferred directly between users. If PDCs
-									are issued for repayment, they are directly issues in the name
-									of the investors.</p>
-								<p>Lendbox also encourages its users to transfer money
-									electronically from leading banks across the country.</p>
-
-							</div>
-							<!-- /.box-body -->
-						</div>
+						<!-- /.box-body -->
 					</div>
 				</div>
 			</div>
+			<!-- Section 2 -->
+			<div class="row">
+				<div class="col">
+					<div class="box box-bg collapsed-box">
+						<div class="box-header with-border">
+							<h3 class="box-title text-center">WHAT LENDBOX DOES?</h3>
+
+							<div class="box-tools pull-right">
+								<button type="button" class="btn btn-box-tool"
+									data-widget="collapse">
+									<i class="fa fa-plus"></i>
+								</button>
+							</div>
+							<!-- /.box-tools -->
+						</div>
+						<!-- /.box-header -->
+						<div class="box-body body-padding">
+							<p>We verify each and every member at the time of
+								registration, either as an investor or borrower. This ensures
+								that the information that you see on our website about each
+								member is authenticated as per proper guidelines set by the
+								RBI/SEBI. For the same, we collect Personal, Professional,
+								Social and Financial details from each potential member.</p>
+							<p>Once borrower and investors come to a mutual agreement,
+								Lendbox will help them legalize the transaction by signing a
+								formal contract. We make necessary provisions and help both
+								parties realize the deal without the necessity of a physical
+								meeting.</p>
+							<p>Once a loan is disbursed, we help investors with the
+								collection and recovery of loans as per official guidelines of
+								RBI for banks and financial institutions. Delay in repayment by
+								borrowers draw a penalty that is pursued by Lendbox as part of
+								the process.</p>
+							<p>We at Lendbox do not collect money deposits from either
+								borrowers or investors. All monetary transactions are directly
+								between the two parties.</p>
+							<p>Decisions to lend on Lendbox are entirely at the
+								discretion of potential investors. We do not guarantee fixed or
+								minimum rate of returns to any investor.</p>
+							<p>For further details, please read read Lendbox Term of use
+								and Privacy policy</p>
+							<p>Lendbox does not give any financial advice or
+								recommendations to either borrowers or investors on this
+								platform. Members are encouraged to make their own researched
+								and informed decisions and transact accordingly, free of any
+								coercion or any form of influence from us.</p>
+							<p>If you have further queries, feel free to email us at
+								support@lendbox.in</p>
+
+
+						</div>
+						<!-- /.box-body -->
+					</div>
+				</div>
+			</div>
+			<!-- Section 3 -->
+			<div class="row">
+				<div class="col">
+					<div class="box box-bg collapsed-box">
+						<div class="box-header with-border">
+							<h3 class="box-title">BIDDING PROCESS OF LENDBOX</h3>
+
+							<div class="box-tools pull-right">
+								<button type="button" class="btn btn-box-tool"
+									data-widget="collapse">
+									<i class=" fa fa-plus"></i>
+								</button>
+							</div>
+							<!-- /.box-tools -->
+						</div>
+						<!-- /.box-header -->
+						<div class="box-body body-padding">
+							<p>Once registered, investors can reach out to listed
+								borrowers and borrowers can reach out to registered investors.
+								Once an offer is accepted, you receive a notification. Either of
+								the user can approach each other.</p>
+							<p>Basic information such as Amount, expected rate of
+								Interest and tenure is sent with the proposal.</p>
+							<p>When both parties accept the loan offer, the process of
+								formal contract signing begins. After the loan is disbursed,
+								investors will receive EMIs on the 10th of every month. If a
+								borrower fails to pay an EMI within a stipulated time, a penalty
+								is levied on the borrower which is payable to investors
+								directly.</p>
+
+
+						</div>
+						<!-- /.box-body -->
+					</div>
+				</div>
+			</div>
+			<!-- Setion 4 -->
+			<div class="row">
+				<div class="col">
+					<div class="box box-bg collapsed-box">
+						<div class="box-header with-border">
+							<h3 class="box-title">FUND TRANSFER AND EMIs</h3>
+
+							<div class="box-tools pull-right">
+								<button type="button" class="btn btn-box-tool"
+									data-widget="collapse">
+									<i class="fa fa-plus"></i>
+								</button>
+							</div>
+							<!-- /.box-tools -->
+						</div>
+						<!-- /.box-header -->
+						<div class="box-body body-padding">
+							<
+							<p>Lendbox encourages its user to use auto debits for
+								repayments. However, fund transfers can also happen through Bank
+								Cheques, IMPS, NEFT and other auto debits.</p>
+							<p>The funds are transferred directly between users. If PDCs
+								are issued for repayment, they are directly issues in the name
+								of the investors.</p>
+							<p>Lendbox also encourages its users to transfer money
+								electronically from leading banks across the country.</p>
+
+						</div>
+						<!-- /.box-body -->
+					</div>
+				</div>
+			</div>
+			<!-- End Sections -->
+			<!-- Call Out -->
+			<div class="callout callout-info1 ">
+				<p>In recent times, Lendbox has helped a lot of individuals to
+					realize their dreams by serving their capital needs with complete
+					integrity</p>
+			</div>
+			<!-- END -->
 		</div>
+		</section>
 
 
 		<!-- Footer -->

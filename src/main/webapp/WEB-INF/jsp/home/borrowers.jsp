@@ -157,6 +157,8 @@
 					</div>
 				</div>
 			</div>
+		</div>
+
 		</footer>
 		<!-- Js File 		  -->
 
