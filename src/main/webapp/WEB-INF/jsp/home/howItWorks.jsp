@@ -234,7 +234,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				<div class="col">
 					<div class="box box-bg collapsed-box">
 						<div class="box-header with-border">
-							<h3 class="box-title">BIDDING PROCESS OFund Houseox</h3>
+							<h3 class="box-title">BIDDING PROCESS OF FUND HOUSE</h3>
 
 							<div class="box-tools pull-right">
 								<button type="button" class="btn btn-box-tool"

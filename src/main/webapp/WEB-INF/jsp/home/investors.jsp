@@ -163,9 +163,9 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							</ul>
 							<div class="tab-content">
 								<div class="tab-pane active " id="tab_1">
-									<p>fundhouse uses a transparent, convenient and efficient
+									<p>Fund House uses a transparent, convenient and efficient
 										system to serve its users</p>
-									<p>fundhouse is a Peer-to-Peer lending platform, which gets
+									<p>Fund House is a Peer-to-Peer lending platform, which gets
 										creditworthy borrowers and willing investors together to
 										transact on short to medium term personal unsecured loans.</p>
 									<p>All borrowers go through a thorough financial, personal,
@@ -173,7 +173,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 										through the use of sophisticated technology and machine
 										learning algorithms working in tandem with experienced
 										professionals.</p>
-									<p>fundhouse's investors have access to a wide range of
+									<p>Fund House's investors have access to a wide range of
 										borrowers with varied risk profiles giving the investor an
 										option to create a diverse portfolio.</p>
 									<p>Financial Institutions provide limited products for
@@ -183,7 +183,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 										period of time. Finally, equity markets are highly volatile
 										and require a significant holding capacity and risk appetite
 										and even then returns are not guaranteed.</p>
-									<p>fundhouse fills this gap by offering a new fixed income
+									<p>Fund House fills this gap by offering a new fixed income
 										asset class which is safe and secure and offers ROIs of as
 										high as 36%.</p>
 									<p>You may have been refused a loan from high street banks
@@ -191,7 +191,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 										are more than capable of repaying your loans. This may be due
 										to an unconventional profile or something that banks might
 										consider a "bad credit" profile.</p>
-									<p>fundhouse takes a different approach compared to that of
+									<p>Fund House takes a different approach compared to that of
 										banks and looks at several more data points to create a more
 										holistic credit profile and does not rely entirely on credit
 										bureau scores and conventional KYC information.</p>
@@ -199,7 +199,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 										bad credit profiles in getting personal loans at desired
 										interest rates. Sign up as an investor and explore the
 										tailor-made proposals that suit to your needs.</p>
-									<p>Some of the key advantages of lending through fundhouse
+									<p>Some of the key advantages of lending through Fund House
 										are :</p>
 
 									<ul class="list-unstyled">
@@ -221,7 +221,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 										<li><i class="fa fa-star"></i>Recommended score and
 											interest rate along with approved amount</li>
 									</ul>
-									<p>fundhouse follows an out of the box approach to credit
+									<p>Fund House follows an out of the box approach to credit
 										assessment through a perfect blend of big data analytics and
 										highly qualified professionals. Some of the factors we
 										thoroughly assess are:</p>
@@ -241,14 +241,14 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 										<li><i class="fa fa-star"></i>Online spending behavior
 											and many other non-traditional data points</li>
 									</ul>
-									<p>In total, fundhouse reviews over 1000 data points to
+									<p>In total, Fund House reviews over 1000 data points to
 										ensure that our system accurately profiles a borrowers and our
 										investors are provided with an accurate credit assessment to
 										assist in their decision making process.</p>
 								</div>
 								<!-- /.tab-pane -->
 								<div class="tab-pane" id="tab_2">
-									<p>fundhouse is a platform for people with unconventional
+									<p>Fund House is a platform for people with unconventional
 										approach to Investing, which ultimately pays off with higher
 										returns on an investorâ€™s idle cash. This is more like
 										investing in people rather than lending with much less risk
@@ -268,12 +268,12 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 											Indian bank account</li>
 										<li><i class="fa fa-star"></i>You must have a valid PAN
 											card</li>
-										<li><i class="fa fa-star"></i>You must abide by fundhouse's
+										<li><i class="fa fa-star"></i>You must abide by Fund House's
 											Terms & Conditions</li>
 										<li><i class="fa fa-star"></i>You must adhere to
 											Investor's code of conduct</li>
 										<li><i class="fa fa-star"></i>You must register your
-											details on the website https://www.fundhouse.in</li>
+											details on the website https://www.fundhouse.co.in</li>
 									</ul>
 									<div class="table-responsive">
 										<table class="table table-striped">
@@ -330,8 +330,8 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 								<!-- /.tab-pane -->
 								<div class="tab-pane" id="tab_3">
 									<div class="desc text-left">
-										<p>Investing at fundhouse is very similar to stock market
-											investments but with a much much less risk. fundhouse is all
+										<p>Investing at Fund House is very similar to stock market
+											investments but with a much much less risk. Fund House is all
 											about investing in people through a transparent, convenient
 											and efficient process.</p>
 
@@ -340,28 +340,28 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 										<ul class="list-unstyled">
 											<li><i class="fa fa-star"></i>Registration : Register
-												your personal and professional details on fundhouse. We do
+												your personal and professional details on Fund House. We do
 												basic checks on the information provided and ask for some
 												documentation<!-- as a proof of identity, address, DOB,
 											signature, contact, income. --></li>
 											<li><i class="fa fa-star"></i>Account activation:
-												fundhouse verifies the information provided and activates the
+												Fund House verifies the information provided and activates the
 												account</li>
 											<li><i class="fa fa-star"></i>Browsing and selecting
 												borrowers: Active investors can browse through the list of
 												borrowers on the platform with varied risk profiles</li>
 											<li><i class="fa fa-star"></i>Deal close and agreement
 												signing: Investors can negotiate and close deals with
-												individual borrowers and fundhouse facilitates the agreement
+												individual borrowers and Fund House facilitates the agreement
 												signing</li>
 											<li><i class="fa fa-star"></i>EMI payments: All
 												borrowers are encouraged to issue standing instructions in
 												favour of their investors to make monthly payments easy and
 												paperfree</li>
 											<li><i class="fa fa-star"></i>After loan disbursement:
-												fundhouse intervenes for any delayed monthly payments and
+												Fund House intervenes for any delayed monthly payments and
 												investors even have an option to engage an RBI registered
-												recovery agency through fundhouse in case of major defaulters</li>
+												recovery agency through Fund House in case of major defaulters</li>
 										</ul>
 										<p>We may put limitations on your account at any time if
 											we believe it is in order to comply with our legal
@@ -372,10 +372,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 								</div>
 								<div class="tab-pane" id="tab_4">
 									<div class="desc text-left">
-										<p>The returns you earn by investing through fundhouse
+										<p>The returns you earn by investing through Fund House
 											depend on your risk appetite. So, you decide the risk profile
-											of borrowers you want to invest in and fundhouse will
-											facilitate the process afterwords.</p>
+											of borrowers you want to invest in and Fund House will
+											facilitate the process afterwards.</p>
 										<p>Non-Payment of EMI: In case the borrowers do not
 											transfer the EMI by the due date, additional penal interest
 											would be applicable as per the loan agreement signed between
@@ -384,7 +384,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 											Borrowers will be liable to pay the Investor.</p>
 										<!-- <p>Fees: We charge a listing fee of 1% of the Invested
 										amount or Rs. 1500 whichever is higher.</p>
-									<p>fundhouse is currently offering a festive discount and
+									<p>Fund House is currently offering a festive discount and
 										waiving off the registration fee for both Investors and
 										Borrowers</p> -->
 										<!--//table-responsive-->
@@ -404,7 +404,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 												<li><i class="fa fa-star"></i>You are permitted to
 													download and print content from this platform solely for
 													your own personal use to the extent required to use the
-													services provided on this website. fundhouse supplied content
+													services provided on this website. Fund House supplied content
 													must not be copied or reproduced, modified, redistributed,
 													used or otherwise dealt with for any other reason without
 													our express written consent.</li>
@@ -416,10 +416,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 													not infringe the rights of any anyone else or restrict or
 													inhibit anyone else's use and enjoyment of the platform.</li>
 												<li><i class="fa fa-star"></i>You agree not to use the
-													fundhouse website or any information accessible on or
+													Fund House website or any information accessible on or
 													obtained from it for the purpose of canvassing or
 													soliciting any person or enticing any person away from
-													fundhouse.</li>
+													Fund House.</li>
 												<li><i class="fa fa-star"></i>You guarantee that you
 													have taken all reasonable precautions to ensure that any
 													information you upload or otherwise submit to the website
@@ -472,7 +472,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 						<!-- Box1 -->
 						<div class="box box-bg-investors-investors collapsed-box">
 							<div class="box-header with-border">
-								<h3 class="box-title">What is fundhouse?</h3>
+								<h3 class="box-title">What is Fund House?</h3>
 
 								<div class="box-tools pull-right">
 									<button type="button" class="btn btn-box-tool"
@@ -484,7 +484,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							</div>
 							<!-- /.box-header -->
 							<div class="box-body body-padding">
-								<p>fundhouse is an e-lending platform for peer-to-peer lending
+								<p>Fund House is an e-lending platform for peer-to-peer lending
 									where willing investors can transact with pre-verified
 									creditworthy borrowers on short to medium term unsecured
 									personal loans.</p>
@@ -497,7 +497,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 						<!-- Box1 -->
 						<div class="box box-bg-investors-investors collapsed-box">
 							<div class="box-header with-border">
-								<h3 class="box-title">How can I become a member on fundhouse
+								<h3 class="box-title">How can I become a member on Fund House
 									?</h3>
 
 								<div class="box-tools pull-right">
@@ -523,7 +523,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 						<!-- Box1 -->
 						<div class="box box-bg-investors-investors collapsed-box">
 							<div class="box-header with-border">
-								<h3 class="box-title">What if fundhouse closes its doors ?</h3>
+								<h3 class="box-title">What if Fund House closes its doors ?</h3>
 
 								<div class="box-tools pull-right">
 									<button type="button" class="btn btn-box-tool"
@@ -535,7 +535,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							</div>
 							<!-- /.box-header -->
 							<div class="box-body body-padding">
-								<p>If you have Invested in people through fundhouse and due to
+								<p>If you have Invested in people through Fund House and due to
 									some unforeseen circumstances we have to close our doors for
 									business, all loan agreements would still be valid as they have
 									been signed between the respective investors and borrowers.</p>
@@ -550,7 +550,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 						<!-- Box1 -->
 						<div class="box box-bg-investors-investors collapsed-box">
 							<div class="box-header with-border">
-								<h3 class="box-title">Where is fundhouse located ?</h3>
+								<h3 class="box-title">Where is Fund House located?</h3>
 
 								<div class="box-tools pull-right">
 									<button type="button" class="btn btn-box-tool"
@@ -562,7 +562,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							</div>
 							<!-- /.box-header -->
 							<div class="box-body body-padding">
-								<p>fundhouse's headquarters are in Delhi NCR.</p>
+								<p>fFund Houses headquarters are in Delhi NCR.</p>
 							</div>
 							<!-- /.box-body -->
 						</div>
@@ -573,7 +573,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 						<!-- Box1 -->
 						<div class="box box-bg-investors-investors collapsed-box">
 							<div class="box-header with-border">
-								<h3 class="box-title">Is fundhouse a Pan-India operation ?</h3>
+								<h3 class="box-title">Is Fund House a Pan-India operation ?</h3>
 
 								<div class="box-tools pull-right">
 									<button type="button" class="btn btn-box-tool"
@@ -585,7 +585,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							</div>
 							<!-- /.box-header -->
 							<div class="box-body body-padding">
-								<p>Yes, you can invest or borrow through fundhouse regardless
+								<p>Yes, you can invest or borrow through Fund House regardless
 									of the region you reside in within India.</p>
 							</div>
 							<!-- /.box-body -->
@@ -597,7 +597,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 						<div class="box box-bg-investors-investors-investors collapsed-box">
 							<div class="box-header with-border">
 								<h3 class="box-title">Is my personal and financial
-									information secure on fundhouse?</h3>
+									information secure on Fund House?</h3>
 
 								<div class="box-tools pull-right">
 									<button type="button" class="btn btn-box-tool"
@@ -609,7 +609,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							</div>
 							<!-- /.box-header -->
 							<div class="box-body body-padding">
-								<p>Yes, fundhouse has taken extensive measures including
+								<p>Yes, Fund House has taken extensive measures including
 									incorporating 128 bit SSL encryption to ensure that your
 									personal and financial information is safe with us. Information
 									will only be shared with any third party after the user's prior
