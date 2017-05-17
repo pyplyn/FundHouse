@@ -1,5 +1,5 @@
 .skin-blue .main-header .navbar {
-	background-color: #3c8dbc
+	background-color: #001528
 }
 
 .skin-blue .main-header .navbar .nav>li>a {
@@ -36,7 +36,7 @@
 		background-color: rgba(255, 255, 255, 0.1)
 	}
 	.skin-blue .main-header .navbar .dropdown-menu li a {
-		color: #fff
+		color: white;
 	}
 	.skin-blue .main-header .navbar .dropdown-menu li a:hover {
 		background: #367fa9
@@ -61,7 +61,11 @@
 	background: transparent
 }
 
-.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+.skin-blue .wrapper {
+	background-color: window;
+}
+
+.skin-blue .main-sidebar, .skin-blue .left-side {
 	background-color: #222d32
 }
 
@@ -2004,6 +2008,7 @@
 
 .skin-purple-light .sidebar-menu>li>.treeview-menu {
 	background: #f4f4f5
+
 }
 
 .skin-purple-light .sidebar a {
@@ -2092,84 +2097,247 @@
 		margin-left: 20px;
 		margin-top: 5px;
 		margin-bottom: 5px;
-	}
-	 p {
-		font-size: 17px;
-		margin: 13px 0px 13px 0px;
-		line-height: 1.5;
-	}
-	.handle-bg {
-		background-image: url("/FoundHouse/resources/images/main-slide-1.jpg");
-		background-size:cover;
-	}
-	.handle-bg.about-handle-bg {
-		height: 500px;
-		width: 100%;
-		position: absolute;
-		top: 0;
-		left: 0;
-	}
-	.setion-how-it-works .title {
-		color: white;
-		font-size: 40px;
-	}
-	.setion-how-it-works {
+		font-family: todosis;
 		
-		padding-top: 140px;
-		position: relative;
 	}
-	.setion-how-it-works.section-bg
-	{
+}
+
+p {
+	font-size: 17px;
+	margin: 13px 5px 13px 5px;
+	line-height: 1.5;
+	 text-align: justify;
 	
-	}
-	.setion-how-it-works-inner {
-		background-color: white;
-		 min-width : 1000px;
-		padding: 50px;
-		margin-bottom:120px;
-		max-width: 900px;
-		font-size: 16px;
-		
-		
-	}
-	.box.box-bg
-	{
-		background-color: #F5F5F5;
-		border-top-color:white;
-		
-	}
-	.callout.callout-info1
-	{
-		margin:30px 40px 30px 40px;
-		padding:15px 30px 50px  30px;
-		
-		
-		
-		border-left: 5px solid #3c8dbc;
-	}
-	.callout.callout-info1 p{
-		font-size: 25px;
-		font-style: italic;
-		color: #3c8dbc;
-	}
-	.section
-	{
-		padding:30px;
-		background-color: white;
-		position: relative;
-	}
-	.content.investor-contenet
-	{
-		padding: 30px 100px;
-	}
-	.section2 {
-		background-color: #f5f5f5;
-	}
-	.box.box-bg-investors
-	{
-		background-color: white;
-		border-top-color:white;
-		
-	}
+}
+
+.handle-bg {
+	background-image: url("/resources/images/main-slide-1.jpg");
+	background-size: cover;
+}
+.background1 {
+	background:url("/resources/images/FUNDHOUSE.png");
+	background-size: cover;
+}
+
+.handle-bg.about-handle-bg {
+	height: 500px;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.setion-how-it-works .title {
+	color: white;
+	font-size: 40px;
+}
+
+.setion-how-it-works {
+	padding-top: 140px;
+	position: relative;
+}
+
+.setion-how-it-works.section-bg {
 	
+}
+
+.setion-how-it-works-inner {
+	background-color: white;
+	padding: 50px;
+	margin-bottom: 120px;
+	max-width: 900px;
+	font-size: 16px;
+}
+
+.box.box-bg {
+	background-color: #F5F5F5;
+	border-top-color: white;
+}
+
+.callout.callout-info1 {
+	margin: 30px 40px 30px 40px;
+	padding: 15px 30px 50px 30px;
+	border-left: 5px solid #3c8dbc;
+}
+
+.callout.callout-info1 p {
+	font-size: 25px;
+	font-style: italic;
+	color: #3c8dbc;
+}
+
+.section {
+	padding: 30px;
+	background-color: white;
+	position: relative;
+}
+
+.content.investor-contenet {
+	padding: 30px 100px;
+}
+
+.section2 {
+	background-color: #f5f5f5;
+}
+
+.box.box-bg-investors {
+	background-color: white;
+	border-top-color: white;
+}
+
+artical .artical-box {
+	background-color: white;;
+	border: 1px solid #eeeeee;
+	padding: 0px;
+	min-height: 50px;
+	position: relative;
+	box-shadow: 0 4px 1px rgba(0, 0, 0, 0.05);
+	border-radius: 4px;
+}
+
+artical .artical-box .artical-img {
+	padding: 0px;
+	position: relative;
+	background: #253340;
+	overflow: hidden;
+	max-height: 250px;
+}
+
+artical .artical-box .artical-img img {
+	-webkit-transition: all 0.2s ease-in-out;
+}
+
+artical .artical-box .artical-img img:hover {
+	-webkit-transform: scale(1.1);
+	-webkit-opacity: 0.6;
+	-webkit-transition: all 0.4s ease-in-out;
+}
+
+artical .artical-box .artical-img .artical-content {
+	padding: 50px;
+	padding-bottom: 15px;
+}
+
+artical .artical-box  .artical-content .artical-title  a {
+	margin: 0px 2px;
+	/*color: gray;*/
+	font-size: 19px;
+}
+
+artical .artical-box  .artical-content .artical-title  a:hover {
+	color: gray;
+}
+
+artical .artical-box  .artical-content .artical-title {
+	margin: 0px 7px;
+	margin-bottom: 20px;
+}
+
+artical .artical-box  .artical-content .artical-entry {
+	margin: 0px 30px;
+	margin-bottom: 20px;
+}
+
+artical .artical-box  .artical-content .artical-entry p {
+	color: #3c8dbc;
+	font-size: 18px;
+}
+
+artical .artical-box  .artical-content .artical-entry a:hover {
+	color: gray;
+}
+
+artical .artical-box  .artical-content .artical-entry a {
+	color: #e78c5b;
+}
+
+artical .artical-box .artical-content .artical-meta1 {
+	color: #e78c5b;
+	margin: 0px 30px;
+	margin-bottom: 15px;
+	font-size: 13px;
+}
+
+artical .artical-box .artical-content .artical-meta1  ul {
+	margin: 0px;
+	border-top: 3px solid #eeeeee;
+	font-size: 15px;
+	padding-top: 15px;
+}
+
+artical .artical-box .artical-content .artical-meta1  ul li a {
+	color: #e78c5b;
+}
+
+artical .artical-box .artical-content .artical-meta1  ul li a:hover {
+	color: gray;
+}
+
+.simple-box {
+	background-color: white;
+	border: 1px solid black;
+	min-height: 100px;
+	max-width: 200px;
+	padding: 10px;
+	margin-bottom: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+
+.simple-box .simple-box-content {
+	color: #e78c5b;
+	font-size: 40px;
+}
+
+.simple-box .simple-box-footer {
+	background-color: white;
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.section-simple-box {
+	padding: 80px 0px;
+	background: #F5F5F5;
+}
+
+.secion-static-content {
+	background-color: #F5F5F5;
+	width: 100%;
+	padding: 60px 0px;
+	max-height: 700px;
+	color: #e78c5b;
+	padding-bottom: 60px;
+}
+
+.secion-static-content p {
+	color: black;
+	line-height: 1.5;
+	font-size: 17px;
+	padding: 0px 50px;
+	margin-bottom: 50px 50px;
+}
+
+.wrapper {
+	background-color: white;
+}
+
+div .handle-log {
+	positon: absolute;
+	background-size: cover;
+	height: auto;
+	width: 100%;
+	margin: 0 auto;
+}
+div .footer-botom {
+		padding-top: 40px;
+		
+	}
+	.btn-success-green {
+    background: #8fc941;
+    border-radius: 0;
+    height: 34px;
+}
+
 }

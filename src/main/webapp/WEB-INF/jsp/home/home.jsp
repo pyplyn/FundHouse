@@ -218,7 +218,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							worldwide phenomenon and now it is available in India as well.
 							P2P lending enables borrowers to get instant personal loans while
 							lenders can multiply their savings online. Through peer to peer
-							lending, Fundhouse is poised to change the way India lends and
+							lending, Fund House is poised to change the way India lends and
 							borrows.</div>
 						<div class="btn-pend">
 							<a class="btn btn-clear size btn-sm btn-min-block"

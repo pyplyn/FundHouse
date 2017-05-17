@@ -458,8 +458,8 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							</div>
 							<div class="col-xs-4">
 								<a class="btn btn-block btn-primary btn-sm"
-									href="signUpBorrower" style="font-size: 18px;">Register as
-									Borrowers</a>
+									href="signUpBorrower" style="font-size: 18px;">Register As A
+									Borrower</a>
 							</div>
 							<div class="pad col-xs-4">
 								<label type="text" class="form-control "

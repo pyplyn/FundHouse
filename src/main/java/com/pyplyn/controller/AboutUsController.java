@@ -14,6 +14,12 @@ public class AboutUsController {
 		System.out.println("AboutUsController_METHOD-->Call Init ");	
 		return "home/aboutUs";
 	}
+	@RequestMapping(value="contactUs") 
+	public String contact()
+	{
+		System.out.println("AboutUsController_METHOD-->Call Init ");	
+		return "home/contactUs";
+	}
 	
 	
 	
