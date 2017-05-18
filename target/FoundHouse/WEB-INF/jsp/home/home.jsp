@@ -801,22 +801,31 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 		<div class="row">
 			<div class="col-xs-6 col-sm-6 col-md-2 column">
-				<h4>Information</h4>
+				<h4>COMPANY</h4>
 				<ul class="nav">
-					<li><a href="products">Products</a></li>
-					<li><a href="services">Services</a></li>
-					<li><a href="benefits">Benefits</a></li>
-					<li><a href="devloper">Developers</a></li>
+					<li><a href="products">CEO Speaks</a></li>
+					<li><a href="services">Overview</a></li>
+					<li><a href="benefits">Objective</a></li>
+					<li><a href="devloper">Mission</a></li>
+					<li><a href="devloper">Vision</a></li>
+					<li><a href="devloper">Meet the Team</a></li>
+					<li><a href="devloper">Advisory Board</a></li>
+					<li><a href="devloper">Products</a></li>
+					<li><a href="devloper">Services</a></li>
+					<li><a href="devloper">Contact Us</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-6 col-md-2 column">
-				<h4>Follow Us</h4>
+				<h4>ELIGIBILITY CRITERIA</h4>
 				<ul class="nav">
-					<li><a href="https://twitter.com/fundhouse_india">Twitter</a></li>
-					<li><a href="https://www.facebook.com/FundHouse.India/">Facebook</a></li>
-					<li><a
-						href="https://plus.google.com/u/0/111105658134157160870">Google+</a></li>
-					<li><a href="https://www.instagram.com/fundhouse.india/">Instagram</a></li>
+					<li><a href="#">Borrower Eligibility Criteria</a></li>
+					<li><a href="#">Lender Eligibility Criteria</a></li>
+					<li><a href="#">Return on Investment</a></li>
+					<li><a href="#">Fundhouse expenses</a></li>
+					<li><a href="#">Return &amp; Fees</a></li>
+					<li><a href="#">The Process</a></li>
+					<li><a href="#">Fair practice code KYC</a></li>
+					<li><a href="#">Guideline</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-6 col-md-2 column">
