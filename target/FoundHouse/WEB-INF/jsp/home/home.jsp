@@ -6,18 +6,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<meta
-	content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
-	name="viewport">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 <meta charset="utf-8">
-<link rel="icon" href="./resources/images/favicon-04.png"
-	type="image/x-icon">
+<link rel="icon" href="./resources/images/favicon-04.png" type="image/x-icon">
 <!-- Online -->
 <!-- bootstrap.min.js & jquery.min.js  -->
 
 
-<link href=<c:url value="/resources/bootstrap/css/bootstrap.min.css"/>
-	rel="stylesheet" type="text/css" />
+<link href=<c:url value="/resources/bootstrap/css/bootstrap.min.css"/>	rel="stylesheet" type="text/css" />
 
 <!-- Font Awesome -->
 <link rel="stylesheet"
@@ -27,18 +23,12 @@
 	href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
 <!-- END  -->
 <!-- AdminLTE -->
-<meta name="viewport"
-	content="width=device-width, initial-scale=1,IE=edge">
-<link href=<c:url value="/resources/css/AdminLTE.min.css"/>
-	rel="stylesheet" type="text/css" />
-<link href=<c:url value="/resources/css/home.css"/> rel="stylesheet"
-	type="text/css" />
-<link href=<c:url value="/resources/css/Home1.css"/> rel="stylesheet"
-	type="text/css" />
-<!-- AdminLTE Skins. Choose a skin from the css/skins
-       folder instead of downloading all of them to reduce the load. -->
-<link href=<c:url value="/resources/css/skins/_all-skins.min.css" />
-	rel="stylesheet" type="text/css" />
+<meta name="viewport" content="width=device-width, initial-scale=1,IE=edge">
+<link href=<c:url value="/resources/css/AdminLTE.min.css"/> rel="stylesheet" type="text/css" />
+<link href=<c:url value="/resources/css/home.css"/> rel="stylesheet" type="text/css" />
+<link href=<c:url value="/resources/css/Home1.css"/> rel="stylesheet" type="text/css" />
+<!-- AdminLTE Skins. Choose a skin from the css/skins folder instead of downloading all of them to reduce the load. -->
+<link href=<c:url value="/resources/css/skins/_all-skins.min.css" /> rel="stylesheet" type="text/css" />
 <title>Fund House</title>
 <style type="text/css">
 input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
@@ -177,14 +167,14 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			<div class="box-body">
 				<div id="carousel-example-generic" class="carousel slide"
 					data-ride="carousel">
-					<ol class="carousel-indicators">
+					<!-- <ol class="carousel-indicators">
 						<li data-target="#carousel-example-generic" data-slide-to="0"
 							class="active"></li>
 						<li data-target="#carousel-example-generic" data-slide-to="1"
 							class=""></li>
 						<li data-target="#carousel-example-generic" data-slide-to="2"
 							class=""></li>
-					</ol>
+					</ol> -->
 					<div class="carousel-inner">
 						<div class="item active">
 							<img src=<c:url value="/resources/images/main-slide-1.jpg"/>
@@ -208,22 +198,22 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 				</div>
 
-				<div class="main-text">
+				<div class="main-text text-center">
 					<div class="text-center" style="padding-top: 53px;">
 						<img src="./resources/images/fundhouse_1311.png"
 							class="center-block img-responsive"></img>
-						<div class="heading-text">Introducing Peer To Peer Lending
+						<div class="heading-text text-center">Introducing Peer To Peer Lending
 							In India</div>
-						<div class="main-content">Peer to peer lending is a
+						<div class="main-content text-center">Peer to peer lending is a
 							worldwide phenomenon and now it is available in India as well.
 							P2P lending enables borrowers to get instant personal loans while
 							lenders can multiply their savings online. Through peer to peer
 							lending, Fund House is poised to change the way India lends and
 							borrows.</div>
-						<div class="btn-pend">
-							<a class="btn btn-clear size btn-sm btn-min-block"
+						<div class="btn-pend text-center">
+							<a class="btn btn-clear size btn-md btn-min-block"
 								href="signUpInvestor" style="">Become a
-								Lender</a><a class="btn btn-clear size btn-sm btn-min-block"
+								Lender</a><a class="btn btn-clear size btn-md btn-min-block"
 								href="signUpBorrower" >Become a
 								Borrower</a>
 						</div>
@@ -623,7 +613,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			style="margin-top: 3%">
 			<p class="lead center">
 			<center>
-				<a class="btn btn-clear size btn-sm btn-min-block"
+				<a class="btn btn-clear size btn-lg btn-max-block"
 								href="signUpBorrower" >Apply now</a>
 			</center>
 			</p>
@@ -647,25 +637,21 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							<i class="fa fa-quote-left" aria-hidden="true"></i>
 						</div>
 						<div class=" col-md-11 index-testimonial-text">
-							<p>From the loan I received through Fund House I was able to
-								pay off my credit card debt at half the interest rate. None of
-								the banks in whole Mumbai was ready to give me loan, which is
-								given by Fund House. Thank you Fund House for saving my hard
-								earned money.</p>
+							<p>Hands off to team of fundhouse.co.in  - peer to peer lending india, they have helped many of my patients to get their treatment. They are no. 1 in India for peer to peer lending services to help many people to save their life and spread smiles.</p>
 						</div>
 					</div>
 					<div class="index-testimonial-card-footer">
 						<div class="row">
 							<div class="col-md-9" style="margin-right: 10%;">
 								<div class="row text-right">
-									<span class="the-blue-text">Hiren</span>
+									<span class="the-blue-text">Ritu Bharti, Bhilai </span>
 								</div>
 								<div class="row text-right">Borrower at Fund House</div>
 							</div>
-							<div class="col-md-3">
+							<!-- <div class="col-md-3">
 								<img role="presentation" class="img-responsive center-block"
 									src="./resources/images/avatar-im1.png">
-							</div>
+							</div> -->
 						</div>
 					</div>
 				</div>
@@ -680,25 +666,21 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							<i class="fa fa-quote-left" aria-hidden="true"></i>
 						</div>
 						<div class=" col-md-11 index-testimonial-text">
-							<p>From the loan I received through Fund House I was able to
-								pay off my credit card debt at half the interest rate. None of
-								the banks in whole Mumbai was ready to give me loan, which is
-								given by Fund House. Thankyou Fund House for saving my hard
-								earned money.</p>
+							<p>Aditya, I too vote for fundhouse.co.in - peer to peer lending India, efficient peer to peer lending platform and they are always available for help at any need. I have taken too many helps and also guided my friends to take loan in any needs. They all get and happy. Thanks.</p>
 						</div>
 					</div>
 					<div class="index-testimonial-card-footer">
 						<div class="row">
 							<div class="col-md-9" style="margin-right: 10%;">
 								<div class="row text-right">
-									<span class="the-blue-text">Hiren</span>
+									<span class="the-blue-text">Aditya Kumalkar, Raipur</span>
 								</div>
 								<div class="row text-right">Borrower at Fund House</div>
 							</div>
-							<div class="col-md-3">
+							<!-- <div class="col-md-3">
 								<img role="presentation" class="img-responsive center-block"
 									src="./resources/images/avatar-im1.png">
-							</div>
+							</div> -->
 						</div>
 					</div>
 				</div>
@@ -792,125 +774,8 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 
 
+	<jsp:include page="../footer.jsp" flush="true"></jsp:include>
 
-
-
-	<footer class="main-footer"> <!-- ROW 1 -->
-
-	<div class="container">
-
-		<div class="row">
-			<div class="col-xs-6 col-sm-6 col-md-2 column">
-				<h4>COMPANY</h4>
-				<ul class="nav">
-					<li><a href="products">CEO Speaks</a></li>
-					<li><a href="services">Overview</a></li>
-					<li><a href="benefits">Objective</a></li>
-					<li><a href="devloper">Mission</a></li>
-					<li><a href="devloper">Vision</a></li>
-					<li><a href="devloper">Meet the Team</a></li>
-					<li><a href="devloper">Advisory Board</a></li>
-					<li><a href="devloper">Products</a></li>
-					<li><a href="devloper">Services</a></li>
-					<li><a href="devloper">Contact Us</a></li>
-				</ul>
-			</div>
-			<div class="col-xs-6 col-md-2 column">
-				<h4>ELIGIBILITY CRITERIA</h4>
-				<ul class="nav">
-					<li><a href="#">Borrower Eligibility Criteria</a></li>
-					<li><a href="#">Lender Eligibility Criteria</a></li>
-					<li><a href="#">Return on Investment</a></li>
-					<li><a href="#">Fundhouse expenses</a></li>
-					<li><a href="#">Return &amp; Fees</a></li>
-					<li><a href="#">The Process</a></li>
-					<li><a href="#">Fair practice code KYC</a></li>
-					<li><a href="#">Guideline</a></li>
-				</ul>
-			</div>
-			<div class="col-xs-6 col-md-2 column">
-				<h4>Contact Us</h4>
-				<ul class="nav">
-					<li><a href="contactUs">Email</a></li>
-					<li><a href="contactUs">Headquarters</a></li>
-					<li><a href="contactUs">Management</a></li>
-					<li><a href="contactUs">Support</a></li>
-				</ul>
-			</div>
-			<div class="col-xs-6 col-md-2 column">
-				<h4>Useful Links</h4>
-				<ul class="nav">
-					<li><a href="aboutUs">About Us</a></li>
-					<li><a href="howItWorks">How it works</a></li>
-					<li><a href="blogs">Blogs</a></li>
-				</ul>
-			</div>
-			<div class="col-xs-12 col-md-2 column">
-				<br>
-			</div>
-			<div class="col-xs-12 col-md-2 col-sm-4 column">
-				<div class="row">
-					<div class="col-sm-12">
-						<h4>Join Newsletter</h4>
-					</div>
-					<div class="row">
-						<div class="col-sm-12 col-xs-6">
-							<div class="input-group">
-								<input type="text" class="form-control" placeholder="Email"><span
-									class="input-group-btn"><button
-										class="btn btn-success-green"
-										style="border-bottom-width: 1px; padding-bottom: 25px; padding-top: 13px;">
-										<span class="fa fa-send-o"></span>
-									</button></span>
-							</div>
-							<br>
-							<div>
-								New Delhi, India<br> Phone number: +91 99933 32222<br>
-								Email: info@fundhouse.co.in
-							</div>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-		<div class="footer-botom container">
-			<div class="row">
-
-				<div class="col-lg-10 col-md-8  col-sm-8  column">
-					<div class="text-center">
-						<small>Fundhouse a Trade Name of Truealliance Consultancy
-							Management India Limited</small>
-					</div>
-					<div class="text-center">
-						<small>Copyright &#169; 2027. All Rights Reserved
-							Fundhouse</small>
-					</div>
-				</div>
-				<div class="col-lg-2 col-md-4 col-sm-4 column">
-
-					<ul class="social list-inline" style="text-align: center;">
-						<li><a target="_blank"
-							href="https://twitter.com/fundhouse_india"><i
-								class="fa fa-twitter"></i></a></li>
-						<li><a target="_blank"
-							href="https://www.facebook.com/FundHouse.India/"><i
-								class="fa fa-facebook"></i></a></li>
-						<li><a target="_blank"
-							href="https://plus.google.com/u/0/111105658134157160870"><i
-								class="fa fa-google-plus"></i></a></li>
-						<li><a target="_blank"
-							href="https://www.instagram.com/fundhouse.india/"><i
-								class="fa fa-instagram"></i></a></li>
-						<!-- <li class="row-end"><a href="#"><i class="fa fa-rss"></i></a></li> -->
-					</ul>
-
-				</div>
-			</div>
-		</div>
-
-	</div>
-	</footer>
 	<!-- Js File-->
 
 

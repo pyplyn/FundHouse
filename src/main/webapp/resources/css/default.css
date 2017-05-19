@@ -1,0 +1,12 @@
+input.gsc-search-button, input.gsc-search-button:focus
+	{
+	background-color: red;
+	background-color: lime;
+	background-image: none;
+	filter: none;
+}
+
+input.gsc-search-button:hover
+{
+	background-color: red;
+}
