@@ -30,7 +30,8 @@
 <link href=<c:url value="/resources/css/skins/_all-skins.min.css" />
 	rel="stylesheet" type="text/css" />
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Fund House</title>
+<title>Fundhouse | Blogs</title>
+<link rel="icon" href="./resources/images/favicon-04.png" type="image/x-icon">
 <style type="text/css">
 input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	.gsc-input-box-focus, .gsc-search-button {

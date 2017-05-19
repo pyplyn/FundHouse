@@ -130,8 +130,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<div class="handle-bg container about-handle-bg"></div>
 		<section class="setion-how-it-works">
 		<div class="title container text-center">
-			<strong></>A Clever New Way To Invest In Your Peers And Gain
-				Up-Market Returns</strong>
+			<strong></>A Clever New Way To Invest In Your Peers And Gain Up-Market Returns</strong>
 		</div>
 		</section>
 		<!-- END -->

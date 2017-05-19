@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Advisory Board</title>
+<link rel="icon" href="./resources/images/favicon-04.png" type="image/x-icon">
 </head>
 <body>
-
+<div>
+	Test Content
+</div>
 </body>
 </html>

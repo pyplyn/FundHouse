@@ -53,8 +53,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				<a href="/" class="navbar-brand" style="padding: 0px;"> <img
 					src="./resources/images/favicon-04.png"
 					style="width: 30px; text-align: top;" class="center-block"></img> <b
-					style="color: orange;">F</b><span style="color: #56a5db;">UND
-						HOUSE</span>
+					style="color: orange;">F</b><span style="color: #56a5db;">UNDHOUSE</span>
 				</a>
 				
 
