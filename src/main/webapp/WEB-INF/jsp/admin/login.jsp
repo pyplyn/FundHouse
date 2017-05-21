@@ -37,7 +37,7 @@
 }
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Admin Panel | Login</title>
 
 </head>
 <body>
@@ -47,7 +47,7 @@
 				<img src="./resources/images/favicon-04.png">
 			</div>
 			<div class="colsm-12">
-				<a href="admin"><b style="color: #e78c5b;">F</b><b>und House</b></a>
+				<a href="admin"><b style="color: #e78c5b;">F</b><b>undHouse</b></a>
 			</div>
 
 
@@ -87,6 +87,7 @@
 		<!-- /.login-box-body -->
 	</div>
 	<!-- /.login-box -->
+	<jsp:include page="../footer.jsp" flush="true"></jsp:include>
 
 	<script
 		src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>

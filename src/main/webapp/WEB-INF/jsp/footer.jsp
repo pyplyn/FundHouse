@@ -43,66 +43,69 @@
 			<div class="col-xs-6 col-sm-6 col-md-2 column">
 				<h4>COMPANY</h4>
 				<ul class="nav">
-					<li><a href="products">CEO Speaks</a></li>
-					<li><a href="services">Overview</a></li>
-					<li><a href="benefits">Objective</a></li>
-					<li><a href="devloper">Mission</a></li>
-					<li><a href="devloper">Vision</a></li>
-					<li><a href="devloper">Meet the Team</a></li>
-					<li><a href="../footerPages/advisoryBoard.jsp">Advisory Board</a></li>
-					<li><a href="devloper">Products</a></li>
-					<li><a href="devloper">Services</a></li>
+					<li><a href="ceoSpeaks">CEO Speaks</a></li>
+					<li><a href="overview">Overview</a></li>
+					<li><a href="objective">Objective</a></li>
+					<li><a href="mission">Mission</a></li>
+					<li><a href="vision">Vision</a></li>
+					<li><a href="meetTheTeam">Meet the Team</a></li>
+					<li><a href="advisoryBoard">Advisory Board</a></li>
+					<li><a href="products">Products</a></li>
+					<li><a href="services">Services</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-6 col-md-2 column">
 				<h4>ELIGIBILITY CRITERIA</h4>
 				<ul class="nav">
-					<li><a href="#">Borrower Eligibility Criteria</a></li>
-					<li><a href="#">Lender Eligibility Criteria</a></li>
-					<li><a href="#">Return on Investment</a></li>
-					<li><a href="#">Fundhouse Expenses</a></li>
-					<li><a href="#">Return &amp; Fees</a></li>
-					<li><a href="#">The Process</a></li>
-					<li><a href="#">Fair Practice Code</a></li>
-					<li><a href="#">KYC Guideline</a></li>
+					<li><a href="borrowers">Borrower Eligibility Criteria</a></li>
+					<li><a href="investors">Lender Eligibility Criteria</a></li>
+					<li><a href="returnOnInvestment">Return on Investment</a></li>
+					<li><a href="fundhouseExpenses">Fundhouse Expenses</a></li>
+					<li><a href="returnAndFees">Return &amp; Fees</a></li>
+					<li><a href="theProcess">The Process</a></li>
+					<li><a href="fairPracticeCode">Fair Practice Code</a></li>
+					<li><a href="KYCGuideline">KYC Guideline</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-6 col-md-2 column">
 				<h4>SUPPORT</h4>
 				<ul class="nav">
-					<li><a href="contactUs">Career</a></li>
+					<li><a href="career">Career</a></li>
 					<li><a href="contactUs">Location</a></li>
-					<li><a href="contactUs">FAQ Borrower</a></li>
-					<li><a href="contactUs">FAQ Lender</a></li>					
+					<li><a href="borrowers">FAQ Borrower</a></li>
+					<li><a href="investors">FAQ Lender</a></li>					
 					<li><a href="contactUs">Contact us</a></li>
-					<li><a href="contactUs">Knowledge Center</a></li>
-					<li><a href="contactUs">News</a></li>
-					<li><a href="contactUs">Blogs</a></li>
-					<li><a href="contactUs">Sitemap</a></li>
-					<li><a href="contactUs">Media Center</a></li>
+					<li><a href="knowledgeCenter">Knowledge Center</a></li>
+					<li><a href="news">News</a></li>
+					<li><a href="blogs">Blogs</a></li>
+					<li><a href="sitemap">Sitemap</a></li>
+					<li><a href="mediaCenter">Media Center</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-6 col-md-2 column">
 				<h4>LEGAL</h4>
 				<ul class="nav">
-					<li><a href="aboutUs">Code of Conduct of Lender</a></li>
-					<li><a href="howItWorks">Terms of Use</a></li>
-					<li><a href="blogs">Privacy Policy</a></li>
-					<li><a href="blogs">Disclaimer</a></li>
-					<li><a href="blogs">Cookies Policy</a></li>
-					<li><a href="blogs">Website Usage</a></li>
-					<li><a href="blogs">Pricing Policy</a></li>
+					<li><a href="codeOfConductOfLender">Code of Conduct of Lender</a></li>
+					<li><a href="termsOfUse">Terms of Use</a></li>
+					<li><a href="privacyPolicy">Privacy Policy</a></li>
+					<li><a href="disclaimer">Disclaimer</a></li>
+					<li><a href="cookiesPolicy">Cookies Policy</a></li>
+					<li><a href="websiteUsage">Website Usage</a></li>
+					<li><a href="pricingPolicy">Pricing Policy</a></li>
+					<li><a href="importantLinks">Important Links</a></li>
+					<li><a href="support">Support</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-6 col-md-2 column">
 				<h4>ABOUT FUNDHOUSE</h4>
 				<ul class="nav">
 					<li><a href="howItWorks">How It Works</a></li>
-					<li><a href="blogs">Why Borrow?</a></li>
-					<li><a href="blogs">Why Invest?</a></li>
-					<li><a href="blogs">Refer Fundhouse</a></li>
-					<li><a href="blogs">Testimonials</a></li>
-					<li><a href="blogs">Banking &amp; Funding Partner</a></li>
+					<li><a href="borrowers">Why Borrow?</a></li>
+					<li><a href="investors">Why Invest?</a></li>
+					<li><a href="referFundhouse">Refer Fundhouse</a></li>
+					<li><a href="referralPrograms">Referral Programs</a></li>
+					<li><a href="testimonial">Testimonials</a></li>
+					<li><a href="bankingAndFundingPartner">Banking &amp; Funding Partner</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-12 col-md-2 col-sm-4 column">

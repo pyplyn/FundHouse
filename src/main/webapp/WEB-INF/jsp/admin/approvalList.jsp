@@ -145,7 +145,7 @@
 		</div>
 	</div>
 
-
+<jsp:include page="../footer.jsp" flush="true"></jsp:include>
 	<script
 		src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 

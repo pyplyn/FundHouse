@@ -11,7 +11,7 @@ public class BlogsController {
 	public String init()
 	{
 		System.out.println("BlogsController_METHOD-->Call Init ");	
-		return "home/blogs";
+		return "footerPages/blogs";
 	}
 	
 	

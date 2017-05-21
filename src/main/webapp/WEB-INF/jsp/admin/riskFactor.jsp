@@ -53,7 +53,7 @@
 				<li><a href="./deshbord" name="investor" id="investor">Dashbord</a></li>
 				<li><a href="proposalList" name="borrowers" id="borrowers">Active
 						proposal</a></li>
-				<li><a href="documents">risk factor</a></li>
+				<li><a href="documents">Risk Factor</a></li>
 				<!-- <li class="dropdown"><a href="" class="dropdown-toggle"
 					data-toggle="dropdown">Logout<span class="caret"></span></a>
 					<ul class="dropdown-menu " role="menu">
@@ -107,7 +107,7 @@
 
 		</div>
 	</div>
-
+<jsp:include page="../footer.jsp" flush="true"></jsp:include>
 
 	<script
 		src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>

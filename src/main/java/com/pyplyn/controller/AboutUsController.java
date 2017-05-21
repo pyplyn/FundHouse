@@ -18,7 +18,7 @@ public class AboutUsController {
 	public String contact()
 	{
 		System.out.println("AboutUsController_METHOD-->Call Init ");	
-		return "home/contactUs";
+		return "footerPages/contactUs";
 	}
 	
 	

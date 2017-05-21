@@ -28,20 +28,11 @@ public class HomeController {
 	{
 		return "home/benefits";
 	}
-	@RequestMapping(value="services")
-	public String services()
-	{
-		return "home/services";
-	}
-	@RequestMapping(value="products")
-	public String products()
-	{
-		return "home/products";
-	}
+	
 	@RequestMapping(value="testimonial")
 	public String testimonial()
 	{
-		return "home/testimonial";
+		return "footerPages/testimonials";
 	}
 	
 

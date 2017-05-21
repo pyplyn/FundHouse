@@ -88,11 +88,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<div class="	container">
 			<div class="navbar-header" style="padding-top: 3px;">
 
-				<a href="/" class="navbar-brand" style="padding: 0px;"> <img
+				<a href="home" class="navbar-brand" style="padding: 0px;"> <img
 					src="./resources/images/favicon-04.png"
 					style="width: 30px; text-align: top;" class="center-block"></img> <b
-					style="color: orange;">F</b><span style="color: #56a5db;">UND
-						HOUSE</span>
+					style="color: orange;">F</b><span style="color: #56a5db;">UNDHOUSE</span>
 				</a>
 
 
@@ -137,15 +136,15 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				</script>
 				<gcse:search></gcse:search>
 	</li>
-					<li><a href="investors">INVESTORS</a></li>
+					<li><a href="investors">LENDERS</a></li>
 
 					<li><a href="borrowers">BORROWERS</a></li>
 
 					<li class="dropdown"><a href="" class="dropdown-toggle"
 						data-toggle="dropdown">SIGN UP & LOGIN <span class="caret"></span></a>
 						<ul class="dropdown-menu " role="menu">
-							<li><a href="signUpInvestor">Sign up as Investor</a></li>
-							<li><a href="signUpBorrower">Sign up as Borrower</a></li>
+							<li><a href="signUpInvestor">Sign Up As A Lender</a></li>
+							<li><a href="signUpBorrower">Sign Up As A Borrower</a></li>
 							<li><a href="login">Login</a></li>
 						</ul></li>
 
@@ -624,7 +623,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<div class="container satisfied-customers">
 		<div class="col-md-12 text-center">
 			<p class="new-section-heading">Satisfied Customers</p>
-			<p class="new-section-subheading">Let's hear our customers review
+			<p class="new-section-subheading">Let's hear our customers' review
 				about Fund House</p>
 		</div>
 	</div>
@@ -637,7 +636,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							<i class="fa fa-quote-left" aria-hidden="true"></i>
 						</div>
 						<div class=" col-md-11 index-testimonial-text">
-							<p>Hands off to team of fundhouse.co.in  - peer to peer lending india, they have helped many of my patients to get their treatment. They are no. 1 in India for peer to peer lending services to help many people to save their life and spread smiles.</p>
+							<p>Hats off to team of fundhouse.co.in  - peer to peer lending india, they have helped many of my patients to get their treatment. They are no. 1 in India for peer to peer lending services to help many people to save their life and spread smiles.</p>
 						</div>
 					</div>
 					<div class="index-testimonial-card-footer">
@@ -666,7 +665,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							<i class="fa fa-quote-left" aria-hidden="true"></i>
 						</div>
 						<div class=" col-md-11 index-testimonial-text">
-							<p>Aditya, I too vote for fundhouse.co.in - peer to peer lending India, efficient peer to peer lending platform and they are always available for help at any need. I have taken too many helps and also guided my friends to take loan in any needs. They all get and happy. Thanks.</p>
+							<p>I too vote for fundhouse.co.in - peer to peer lending India, efficient peer to peer lending platform and they are always available for help at any need. I have taken too many helps and also guided my friends to take loan in any needs. They all get and happy. Thanks.</p>
 						</div>
 					</div>
 					<div class="index-testimonial-card-footer">

@@ -12,7 +12,7 @@ public class HowItWorksController {
 	public String init()
 	{
 		System.out.println("HowItWorksController_METHOD-->Call Init ");	
-		return "home/howItWorks";
+		return "footerPages/howItWorks";
 	}
 	
 	
