@@ -239,7 +239,14 @@ label.error {
 
 <div class="wrapper">
 		<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
-
+		<!-- BAck Img -->
+		<div class="handle-bg container about-handle-bg"></div>
+		<section class="setion-how-it-works">
+		<div class="title container text-center">
+			<strong>A CLEVER NEW WAY TO INVEST IN YOUR PEERS AND GAIN UP-MARKET RETURNS</strong>
+		</div>
+		</section>
+		<!-- END -->
 	<div class="container">
 	
 		

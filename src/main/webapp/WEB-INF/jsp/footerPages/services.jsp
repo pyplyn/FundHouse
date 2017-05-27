@@ -81,6 +81,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 						deals amongst the Investors and the borrowers and also help in
 						repayment.
 				</p>
+			<h2 class="text-center">UPCOMING SERVICES</h2>
+				<p>
+					We are coming up with a plethora of services. <strong>Please come back soon!</strong>
+				</p>
 			</div>
 		</section>
 	<jsp:include page="../footer.jsp" flush="true"></jsp:include>

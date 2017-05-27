@@ -109,7 +109,7 @@ body {
 footer .nav>li>a {
 	padding: 3px;
 	color: #f58c43;
-	font-size: 16px;
+	font-size: 14px;
 	font-style: inherit;
 }
 
@@ -177,7 +177,7 @@ a {
 a:hover, a:active, a:focus {
 	outline: none;
 	text-decoration: none;
-	color: #fff;
+	color: #B2ADAC;
 }
 
 .page-header {

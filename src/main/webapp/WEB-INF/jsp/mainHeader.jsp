@@ -58,7 +58,9 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	line-height: normal;
 }
 </style>	
-	
+<meta name="description" content="Fundhouse: A novel P2P lending and borrowing platform in India.">
+<meta name="keywords" content="fundhouse, fund house, fundtech, fund tech, p2p, call money, paddy loan, unsecured loan, pl, bl, personal loan, business loan, Travel Loan, Education Loan, eloan, fin-tech, fundhouse, funding zone, fundhouse Delhi, fundhouse New Delhi, fundhouse Raipur, fundhouse india,  fh, P2P New Delhi, P2P Raipur, P2P india, Fintech Fundhouse, fh fintech, Fund house e loan, Fundhouse services, ft, used car loan, fundhouse, fund house">
+<meta name="abstract" content="Fundhouse: Introducing Peer To Peer Lending In India." />
 <title></title>
 </head>
 <body>
@@ -88,7 +90,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			<div class="collapse navbar-collapse " id="navbar-collapse">
 				<ul class="nav navbar-nav navbar-right">
 
-					<li style="width: 312px;"><script>
+					<!-- <li style="width: 312px;"><script>
 						(function() {
 							var cx = '002766683133101502666:idr8muarbec';
 							var gcse = document.createElement('script');
@@ -98,11 +100,11 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							var s = document.getElementsByTagName('script')[0];
 							s.parentNode.insertBefore(gcse, s);
 						})();
-					</script> <gcse:search></gcse:search></li>
+					</script> <gcse:search></gcse:search></li> -->
 					<li><a href="home">HOME</a></li>
 					<li><a href="howItWorks">HOW IT WORKS</a></li>
-					<li><a href="investors">LENDERS</a></li>
-					<li><a href="borrowers">BORROWERS</a></li>
+					<li><a href="borrowers">NEED A LOAN</a></li>
+					<li><a href="investors">WANT TO INVEST</a></li>
 					<li><a href="blogs">BLOGS</a></li>
 					<li><a href="aboutUs">ABOUT US</a></li>
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
@@ -122,14 +124,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		</div>
 		</nav> </header>
 		<!-- END -->
-		<!-- BAck Img -->
-		<div class="handle-bg container about-handle-bg"></div>
-		<section class="setion-how-it-works">
-		<div class="title container text-center">
-			<strong>A CLEVER NEW WAY TO INVEST IN YOUR PEERS AND GAIN UP-MARKET RETURNS</strong>
-		</div>
-		</section>
-		<!-- END -->
+		
 		<script
 		src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 

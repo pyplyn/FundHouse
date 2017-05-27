@@ -145,13 +145,13 @@ li a:hover {
 					</div>
 					<div class="col-md-8 col-sm-12 col-xs-12 ">
 						<div id="contentDetail" class="user-menu-content">
-							<div class="header">Detils</div>
+							<div class="header">Details</div>
 							<div class="user-menu-content inner">
 
 								<!-- Lone Dtail -->
 								<div class="box box-bg">
 									<div class="box-header with-border">
-										<h3 class="box-title text-center">Lone Details</h3>
+										<h3 class="box-title text-center">Loan Details</h3>
 										<div class="box-tools pull-right">
 											<button type="button" class="btn btn-box-tool"
 												data-widget="collapse">

@@ -379,8 +379,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							</div>
 							<div class="col-xs-4">
 								<a class="btn btn-block btn-primary btn-sm"
-									href="signUpInvestor" style="font-size: 18px;">Register as
-									investor</a>
+									href="signUpInvestor" style="font-size: 18px;">Register As A Lender</a>
 							</div>
 							<div class="pad col-xs-4">
 								<label type="text" class="form-control "
@@ -574,11 +573,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<!-- Js File 		  -->
 
 
-	<script
-		src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-
-	<script
-		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	
 
 	<script src=<c:url value="/resources/js/app.min.js"/>
 		type="text/javascript"></script>

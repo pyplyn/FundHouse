@@ -75,7 +75,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				This is our dedicated team who work day-in and day-out together to bring our clients the most amazing projects for a digitally connected world.
 			</h4>
 			<p>&nbsp;</p>
-				<h4><strong>PRANAB ROY &ndash; CO-FOUNDER &amp; PRESIDENT</strong></h4>
+				<h4><strong>PRANAB ROY &ndash; FOUNDER &amp; PRESIDENT</strong></h4>
 				<p>
 					Mr. Pranab Roy is a key strategic team member of the company. He has over four decades of experience in corporate secretarial, legal, finance, and managerial functions. Prior to working with Fundhouse he has worked with LIC of India and retired as Sr. Divisional Manager. Having served the insurance behemoth for more than 38 yrs in various capacities, including Area Manager LIC Housing Finance during early days of LICHFL in the country. He has also headed financial inclusion programme of GOI in the state of CG. Mr. Pranab Roy is a Science Graduate and has done his post-graduation in Business Administration and LLB. He is well networked, has strong execution capabilities and is responsible for maintaining positive messaging and high image visibility across businesses, in various important regions and geographies.
 				</p>

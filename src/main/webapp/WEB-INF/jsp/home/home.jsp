@@ -29,7 +29,7 @@
 <link href=<c:url value="/resources/css/Home1.css"/> rel="stylesheet" type="text/css" />
 <!-- AdminLTE Skins. Choose a skin from the css/skins folder instead of downloading all of them to reduce the load. -->
 <link href=<c:url value="/resources/css/skins/_all-skins.min.css" /> rel="stylesheet" type="text/css" />
-<title>Fund House</title>
+<title>Fundhouse</title>
 <style type="text/css">
 input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	.gsc-input-box-focus, .gsc-search-button {
@@ -123,22 +123,9 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<gcse:search></gcse:search>
 				
 				 -->
-				 <li style="width: 312px;">			<script>
-					(function() {
-						var cx = '002766683133101502666:m2ly3fxg-lu';
-						var gcse = document.createElement('script');
-						gcse.type = 'text/javascript';
-						gcse.async = true;
-						gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-						var s = document.getElementsByTagName('script')[0];
-						s.parentNode.insertBefore(gcse, s);
-					})();
-				</script>
-				<gcse:search></gcse:search>
-	</li>
-					<li><a href="investors">LENDERS</a></li>
-
-					<li><a href="borrowers">BORROWERS</a></li>
+				
+					<li><a href="borrowers">NEED A LOAN</a></li>
+					<li><a href="investors">WANT TO INVEST</a></li>
 
 					<li class="dropdown"><a href="" class="dropdown-toggle"
 						data-toggle="dropdown">SIGN UP & LOGIN <span class="caret"></span></a>
@@ -210,11 +197,8 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							lending, Fund House is poised to change the way India lends and
 							borrows.</div>
 						<div class="btn-pend text-center">
-							<a class="btn btn-clear size btn-md btn-min-block"
-								href="signUpInvestor" style="">Become a
-								Lender</a><a class="btn btn-clear size btn-md btn-min-block"
-								href="signUpBorrower" >Become a
-								Borrower</a>
+							<a class="btn btn-clear size btn-md btn-min-block"	href="signUpBorrower">NEED A LOAN</a>
+							<a class="btn btn-clear size btn-md btn-min-block"	href="signUpInvestor">WANT TO INVEST</a>
 						</div>
 					</div>
 				</div>
@@ -228,13 +212,12 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				Get Free <span class="light-green-text">Consultation</span>
 			</p>
 			<p class="h4 font-white ">
-				Call us at <a class="light-green-text  contact"
-					href="tel:+91 99933 32222">+91 99933 32222 </a> or want to know
-				more about us
+				Contact  us at <a class="light-green-text  contact"
+					href="mailto:info@fundhouse.co.in">info@fundhouse.co.in</a> to know	more about us.
 			</p>
 		</div>
 		<div class="col-md-3 call-button">
-			<a href="/signup"><button class="btn btn-round-orange">
+			<a href="signUpBorrower"><button class="btn btn-round-orange">
 					Register Now</button></a>
 		</div>
 	</div>
@@ -468,9 +451,12 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					<img role="presentation"
 						src="./resources/images/Relationship-Manager.png"></img>
 				</div>
-				<div class="col-md-10" style="padding-top: 25px;">Get free
-					advice from our Relationship Managers for becoming Lender and
-					Borrower Call us at +91 99933 32222</div>
+				<div class="col-md-10" style="padding-top: 25px;"><strong>Get free
+					advice from our Relationship Managers for becoming a Lender or
+					Borrower.<br> Email us at <a href="mailto:info@fundhouse.co.in">info@fundhouse.co.in</a>.</strong></div>
+					<div class="text-center testimonial-index">
+						<a class="btn btn-black-index" href="contactUs">CONTACT US</a>
+			</div>
 			</div>
 		</div>
 
@@ -488,48 +474,33 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				style="width: 60px; text-align: top;" class="center-block"></img>
 		</div>
 		<div class="col-sm-2 pad">
-			<div class="bdr">
-				<h4>1. Registration</h4>
-			</div>
-			<p class="trans">Register as lender or borrower just by filling
-				basic information and KYC requirement as per RBI guidelines.</p>
+			
+				<h4><strong>1. REGISTRATION</strong></h4>
+			<p class="trans">Register as lender or borrower just by following simple registration process, pay the registration fees and provide the required documents as mentioned in our site. We require documents to be submitted to verify the information provided by individuals to ensure documents comply with RBI norms. </p>
 		</div>
 		<div class="col-sm-1 pad solide">
 			<img src="./resources/images/icon2.png"
 				style="width: 60px; text-align: top;" class="center-block"></img>
 		</div>
 		<div class="col-sm-2 pad">
-			<p class="trans">View your loan getting funded by approved
-				lenders. This does not take long time, it's quite fast.</p>
-			<div class="bdr1">
-				<h4>2. Funding</h4>
-			</div>
+		<h4><strong>2. STRIKING THE DEAL</strong></h4>
+			<p class="trans">Borrowers and investors can send proposals to each other along with some basic information such as reason, amount, preferred interest rate, tenure etc. The receiver of proposal can either Accept, Reject, Re-negotiate or send a counter proposal. Both borrowers and Investors are allowed to strike multiple deals at one point of time.</p>
 		</div>
 		<div class="col-sm-1 solide pad">
 			<img src="./resources/images/icon3.png"
 				style="width: 60px; text-align: top;" class="center-block"></img>
 		</div>
 		<div class="col-sm-2 pad">
-			<div class="bdr">
-				<h4>3. Agreement and Disbursement</h4>
-			</div>
-			<p class="trans">Hassle free documentation process makes sure
-				that you do not waste much time in paying physical visits. Loan
-				amount will be credited directly in your bank account</p>
+			<h4><strong>3. AGREEMENT & DISBURSEMENT</strong></h4>
+			<p class="trans">Hassle free documentation process makes sure that you do not waste much time in paying physical visits. The parties sign a formal contract after the agreement is made for amount and interest rate for same, between the investor and borrower, followed by transfer of fund to borrower's bank account.</p>
 		</div>
 		<div class="col-sm-1 pad solide">
 			<img src="./resources/images/icon4.png"
 				style="width: 60px; text-align: top;" class="center-block"></img>
 		</div>
 		<div class="col-sm-2 pad">
-			<p class="trans">We help our customers fulfill their credit
-				requirements and avail investment opportunities by matching the
-				lenders with relevant borrowers through our online platform.
-				Customer satisfaction is our prime motive. Our testimonial talks
-				more about it!</p>
-			<div class="bdr1">
-				<h4>4. Happy Clients</h4>
-			</div>
+		<h4><strong>4. HAPPY CLIENTS </strong></h4>
+			<p class="trans">Borrowers pay the EMI directly to the investor through PDC / electronic transfers via NEFT                        net banking, Auto Debits etc. We help our customers fulfill their credit requirements and avail investment opportunities by matching the lenders with relevant borrowers through our online platform. </p>
 		</div>
 
 	</div>
@@ -538,34 +509,21 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<!-- box-->
 	<!-- box-->
 
-	<section class="container-fluid cta-home1"> <img
-		class="img-responsive center-block"
-		src="./resources/images/Layer 12.png">
-	<div class="container" style="background-color: whitesmoke;">
+	<section class="container-fluid cta-home1"> 
+	<!-- <img class="img-responsive center-block" src="./resources/images/Layer 12.png"> -->
+	<div class="container">
 		<center>
-			<p class="new-section-heading">Finsight</p>
+			<p class="new-section-heading"><strong>FINSIGHT</strong></p>
 		</center>
+		
+		<div>
+			<img alt="DataAnalytics" src="./resources/images/universal-analytics2.jpg" align="middle" class="img-responsive text-center">
+		</div>
 
-		<p>Finsight is our proprietary statistical modeling and machine
-			learning-based analytics engine that forms the core of TCM.</p>
-		<p>It began as a simple rule-based decision support system using
-			just 50 data points. With the deep credit insights that TCM's
-			on-ground team has built over time, Finsight rapidly transformed into
-			a highly robust engine to underwrite Indian businesses and an
-			extremely flexible engine for customer risk and reliability score
-			computation.</p>
-		<p>Today, Finsight takes into account over 2,500 data points
-			simultaneously to deliver almost real-time appraisal of potential
-			borrowers. Leveraging simple, yet profound analytics techniques viz.
-			pattern matching, dimensionality reduction, probabilistic record
-			linkage, etc., Finsight blends a wide range of data sets from
-			multiple sources to reduce them into comprehensibly fewer number of
-			metavariables.</p>
-		<p>Metavariables are processed through our proprietary binary
-			modeling and credit analytics algorithms to generate optimized
-			prediction for automated decision making. Finsight's capability to
-			judge accurately the ability and willingness of borrowers to repay
-			minimizes the perceived risk, while extending the credit spectrum.</p>
+		<p>Finsight is our proprietary statistical modeling and machine learning-based analytics engine that forms the core of Fund house / TCM's</p>
+		<p>It began as a simple rule-based decision support system using just 50 data points. With the deep credit insights that Fund house / TCM's on-ground team has built over time, Finsight rapidly transformed into a highly robust engine to underwrite Indian businesses and an extremely flexible engine for customer risk and reliability score computation.</p>
+		<p>Today, Finsight takes into account over 2,500 data points simultaneously to deliver almost real-time appraisal of potential borrowers. Leveraging simple, yet profound analytics techniques viz. pattern matching, dimensionality reduction, probabilistic record linkage, etc., Finsight blends a wide range of data sets from multiple sources to reduce them into comprehensibly fewer number of metavariables.</p>
+		<p>Metavariables are processed through our proprietary binary modeling and credit analytics algorithms to generate optimized prediction for automated decision making. Finsight's capability to judge accurately the ability and willingness of borrowers to repay minimizes the perceived risk, while extending the credit spectrum.</p>
 	</div>
 
 
@@ -575,8 +533,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<div class="box">
 		<div class="center">
 			<h2 class="text-center"
-				style="font-weight: 300; font-size: 30px; color: #ff9f3f">How
-				It Benefits You</h2>
+				style="font-weight: 300; font-size: 30px; color: #ff9f3f"><strong>HOW IT BENEFITS YOU</strong></h2>
 		</div>
 
 		<div
@@ -586,24 +543,19 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			<ul
 				style="margin-left: 25%">
 				<li style="padding-left: 2%;">
-					<p style="font-size: 17px;">No end use restriction - use it for
-						a wide range of business needs.</p>
+					<p style="font-size: 17px;">No end use restrictions use &ndash; it for a wide range of business needs.</p>
 				</li>
 				<li style="padding-left: 2%;">
-					<p style="font-size: 17px;">Minimum documentation - Fast &amp;
-						hassle free disbursement.</p>
+					<p style="font-size: 17px;">Minimum Documentations &ndash; Fast & Hassle Free Disbursement.</p>
 				</li>
 				<li style="padding-left: 2%;">
-					<p style="font-size: 17px;">Small, frequent automated repayment
-						&ndash; So no burden of big EMIs.</p>
+					<p style="font-size: 17px;">Small, Frequent Automated Repayment &ndash; so no burden of big EMI.</p>
 				</li>
 				<li style="padding-left: 2%;">
-					<p style="font-size: 17px;">Prepay the loan with zero penal
-						charges.</p>
+					<p style="font-size: 17px;">Prepay of loan a zero Penalty Charge.</p>
 				</li>
 				<li style="padding-left: 2%;">
-					<p style="font-size: 17px;">Maintain a good track and renew
-						with us for a higher amount in 24 hrs.</p>
+					<p style="font-size: 17px;">Maintain a good track and top &ndash; up with us higher amount in 48 Hours.</p>
 				</li>
 			</ul>
 		</div>
@@ -636,14 +588,14 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							<i class="fa fa-quote-left" aria-hidden="true"></i>
 						</div>
 						<div class=" col-md-11 index-testimonial-text">
-							<p>Hats off to team of fundhouse.co.in  - peer to peer lending india, they have helped many of my patients to get their treatment. They are no. 1 in India for peer to peer lending services to help many people to save their life and spread smiles.</p>
+							<p>From the loan I received through Fund House I was able to pay off my credit card debt at half the interest rate. None of the banks in whole Mumbai was ready to give me loan, which is given by Fund House. Thank you Fund House for saving my hard earned money.</p>
 						</div>
 					</div>
 					<div class="index-testimonial-card-footer">
 						<div class="row">
 							<div class="col-md-9" style="margin-right: 10%;">
 								<div class="row text-right">
-									<span class="the-blue-text">Ritu Bharti, Bhilai </span>
+									<span class="the-blue-text">Anil Goyal, Mumbai</span>
 								</div>
 								<div class="row text-right">Borrower at Fund House</div>
 							</div>
