@@ -225,13 +225,11 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 	</section>
 	<!-- Emi Section -->
-	<section style="padding-bottom:80px;background-color:#F5F5F5;">
+	<section style="padding-bottom:80px;background-color:#FFFFFF;">
 	<ul class="ul-toggle-home">
 		<li class="container-toggle-home" align="center"
 			style="margin-top: 0px;">
-			<h1
-				style="background-color: #001528; color: white; height: 58px; padding-top: 10px; margin-top: 0px; margin-bottom: 0px;">Calculate
-				EMI</h1>
+			<h1	style="background-color: #00FF00; color: white; height: 58px; padding-top: 10px; margin-top: 0px; margin-bottom: 0px;">Calculate EMI</h1>
 			<ul class="ul-toggle-list ul-toggle-list-home"
 				style="padding: 0 !important;">
 

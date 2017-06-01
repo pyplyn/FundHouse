@@ -66,11 +66,13 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<div class="wrapper">
 	
 	<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
+	
 		<section class="section">
 			<div class="container">
 			
 			<h2 class="text-center">THE TEAM</h2>
 			<p>&nbsp;</p>
+			<img alt="Team" src="./resources/images/meet-the-team.png" class="img-responsive center-block">
 			<h4 class="text-center">
 				This is our dedicated team who work day-in and day-out together to bring our clients the most amazing projects for a digitally connected world.
 			</h4>

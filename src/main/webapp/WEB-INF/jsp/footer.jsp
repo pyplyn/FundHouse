@@ -59,6 +59,12 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	line-height: normal;
 }
 </style>	
+<script type="text/javascript">
+function googleTranslateElementInit() 
+{
+	new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages:'en,bn,gu,hi,kn,ml,mr,nl,pa,ta,te,ur,sd,fr,de,es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
 <title></title>
 </head>
 <body>
@@ -159,7 +165,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		
 		 <div class="text-center column">
              <a href="https://www.payumoney.com/paybypayumoney/#/284043" target="_blank">
-              	<span class="align-middle"><img src="https://www.payumoney.com//media/images/payby_payumoney/buttons/213.png" alt="PayUmoney"/></span>		
+              	<span class="align-middle"><img src="./resources/images/payu1.JPG" alt="PayUmoney" class="img-responsive center-block"/></span>		
              </a>
          </div>
           <!-- <div class="col-md-6 col-lg-6 text-center column">
@@ -232,7 +238,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		</div>
 		
 		<div class="row">
-			<h4>IMPORTANT WEB LINKS</h4>
+			<div class="col-lg-9 col-md-9 col-sm-8">
+				<h4>IMPORTANT WEB LINKS</h4>
+		
+			
 			<div class="nav">
 				<a href="https://www.mygov.in/" target="_blank">MY GOV | </a>
 					<a href="https://www.rbi.org.in/" target="_blank">RBI | </a>
@@ -265,6 +274,8 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					<a href="https://www.equifax.com/personal/" target="_blank">EQUIFAX | </a>
 					<a href="http://www.consumerforums.in/" target="_blank">CONSUMER FORUM</a>
 			</div>
+			</div>
+			<div id="google_translate_element" class="col-lg-3 col-md-3 col-sm-4"></div>
 		</div>
 		
 		<div class="footer-botom container">
@@ -288,5 +299,6 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 	</div>
 	</footer>
+	 
 </body>
 </html>

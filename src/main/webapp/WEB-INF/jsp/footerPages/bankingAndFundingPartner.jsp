@@ -73,12 +73,12 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			<p>&nbsp;</p>
 				<div class="row text-center">
 				<div class="col-lg-6 col-md-6">
-				<h4><strong>ICICI Bank</strong></h4>
+				<!-- <h4><strong>ICICI Bank</strong></h4> -->
 				<img src=<c:url value="/resources/images/ICICI_Bank_Logo.png"/>
 							class="img-responsive"></img>
 				</div>
 				<div class="col-lg-6 col-md-6">
-				<h4><strong>IDBI Bank</strong></h4>
+				<!-- <h4><strong>IDBI Bank</strong></h4> -->
 					<img src=<c:url value="/resources/images/idbi_logo.png"/>
 							class="img-responsive"></img>
 				</div>
@@ -86,9 +86,17 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				<div class="row text-center">
 					<h2 class="text-center">FUNDING PARTNER</h2>
 					<p>&nbsp;</p>
-					<h4><strong>CHHATTISGARH FIN-CORP LENDING PVT.LTD.</strong></h4>
+					<!-- <h4><strong>CHHATTISGARH FIN-CORP LENDING PVT.LTD.</strong></h4> -->
 					<p>&nbsp;</p>
 						<img src=<c:url value="/resources/images/CGFL_Logo.jpg"/>
+							class="img-responsive center-block"></img>
+				</div>
+				<div class="row text-center">
+					<h2 class="text-center">TECHNOLOGY PARTNER</h2>
+					<p>&nbsp;</p>
+					<!-- <h4><strong>CHHATTISGARH FIN-CORP LENDING PVT.LTD.</strong></h4> -->
+					<p>&nbsp;</p>
+						<img src=<c:url value="/resources/images/FinancialPowerLogo.png"/>
 							class="img-responsive center-block"></img>
 				</div>
 			</div>

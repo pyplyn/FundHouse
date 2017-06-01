@@ -5252,7 +5252,7 @@ span+.popover {
 
 .panel-white>.panel-heading {
 	color: #fff;
-	background-color: #001528;
+	background-color: #00FF00;
 	border-color: #ccc;
 	border-bottom: 1px solid #ccc;
 }
@@ -5379,7 +5379,7 @@ input[type=range]::-moz-range-thumb {
 	height: 50px;
 	width: 50px;
 	border-radius: 50px;
-	background: #5d80a1;
+	background: #FFA500;
 	cursor: pointer;
 	-webkit-appearance: none;
 	margin-top: -22px;
