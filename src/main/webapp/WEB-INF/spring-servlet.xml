@@ -43,7 +43,7 @@
 		destroy-method="close">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
 		<property name="url"
-			value="jdbc:mysql://aaba8li3os2x59.cmdxo1nywzcq.ap-south-1.rds.amazonaws.com:3306/ebdb" />
+			value="jdbc:mysql://aa1b1wkjat2pcfs.cwsvzjo5tfx9.ap-south-1.rds.amazonaws.com:3306/ebdb" />
 		<property name="username" value="admin" />
 		<property name="password" value="admin123" />
 

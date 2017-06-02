@@ -71,46 +71,86 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			
 			<h2 class="text-center">SUPPORT CONTACT</h2>
 			<p>&nbsp;</p>
-				
-				<p>
-					Information &ndash; <a href="mailto:info@fundhouse.co.in">info@fundhouse.co.in</a>
-				</p>
-				<p>
-					CEO &ndash; <a href="mailto:ceo@fundhouse.co.in">ceo@fundhouse.co.in</a>
-				</p>
-				<p>
-					Administrator &ndash; <a href="mailto:admin@fundhouse.co.in">admin@fundhouse.co.in</a>
-				</p>
-				<p>
-					Director &ndash; <a href="mailto:director@fundhouse.co.in">director@fundhouse.co.in</a>
-				</p>
-				<p>
-					Relation &ndash; <a href="mailto:relation@fundhouse.co.in">relation@fundhouse.co.in</a>
-				</p>
-				
-				<p>
-					Support &ndash; <a href="mailto:support@fundhouse.co.in">support@fundhouse.co.in</a>
-				</p>
-				<p>
-					Borrowers &ndash; <a href="mailto:borrowers@fundhouse.co.in">borrowers@fundhouse.co.in</a>
-				</p>
-				<p>
-					Lender &ndash; <a href="mailto:lender@fundhouse.co.in">lender@fundhouse.co.in</a>
-				</p>
-				<p>
-					Care &ndash; <a href="mailto:care@fundhouse.co.in">care@fundhouse.co.in</a>
-				</p>
-				<p>
-					Complaints &ndash; <a href="mailto:complain@fundhouse.co.in">complain@fundhouse.co.in</a>
-				</p>
-				<p>
-					Partners &ndash; <a href="mailto:partner@fundhouse.co.in">partner@fundhouse.co.in</a>
-				</p>
-				<p>Telephone No.: </p>
-				<p>Fax No.: </p>
-				<p>Mobile No.: </p>
-				<p>Overseas Office Address: </p>
-				<p>Overseas Contact No.: </p>
+				<div class="text-center">
+				<table align="center">
+					<tr>
+						<td><p>Information</p></td>
+						<td>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</td>
+						<td><p><a href="mailto:info@fundhouse.co.in">info@fundhouse.co.in</a></p></td>
+					</tr>
+					<tr>
+						<td><p>CEO</p></td>
+						<td>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</td>
+						<td><p><a href="mailto:ceo@fundhouse.co.in">ceo@fundhouse.co.in</a></p></td>
+					</tr>
+					<tr>
+						<td><p>Administrator</p></td>
+						<td>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</td>
+						<td><p><a href="mailto:admin@fundhouse.co.in">admin@fundhouse.co.in</a></p></td>
+					</tr>
+					<tr>
+						<td><p>Director</p></td>
+						<td>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</td>
+						<td><p><a href="mailto:director@fundhouse.co.in">director@fundhouse.co.in</a></p></td>
+					</tr>
+					<tr>
+						<td><p>Relation</p></td>
+						<td>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</td>
+						<td><p><a href="mailto:relation@fundhouse.co.in">relation@fundhouse.co.in</a></p></td>
+					</tr>
+					
+					<tr>
+						<td><p>Support</p></td>
+						<td>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</td>
+						<td><p><a href="mailto:support@fundhouse.co.in">support@fundhouse.co.in</a></p></td>
+					</tr>
+					<tr>
+						<td><p>Borrowers</p></td>
+						<td>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</td>
+						<td><p><a href="mailto:borrowers@fundhouse.co.in">borrowers@fundhouse.co.in</a></p></td>
+					</tr>
+					<tr>
+						<td><p>Lender</p></td>
+						<td>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</td>
+						<td><p><a href="mailto:lender@fundhouse.co.in">lender@fundhouse.co.in</a></p></td>
+					</tr>
+					<tr>
+						<td><p>Care</p></td>
+						<td>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</td>
+						<td><p><a href="mailto:care@fundhouse.co.in">care@fundhouse.co.in</a></p></td>
+					</tr>
+					<tr>
+						<td><p>Complaints</p></td>
+						<td>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</td>
+						<td><p><a href="mailto:complain@fundhouse.co.in">complain@fundhouse.co.in</a></p></td>
+					</tr>
+					<tr>
+						<td><p>Partners</p></td>
+						<td>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</td>
+						<td><p><a href="mailto:partner@fundhouse.co.in">partner@fundhouse.co.in</a></p></td>
+					</tr>
+					<tr>
+						<td><p>Telephone No.: </p></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td><p>Fax No.: </p></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td><p>Mobile No.: </p></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td><p>Overseas Office Address: </p></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td><p>Overseas Contact No.: </p></td>
+						<td></td>
+					</tr>
+				</table>
+				</div>
 			</div>
 		</section>
 	<jsp:include page="../footer.jsp" flush="true"></jsp:include>

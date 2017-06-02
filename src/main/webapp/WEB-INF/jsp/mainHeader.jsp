@@ -79,7 +79,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 				<button type="button" class="navbar-toggle collapsed"
 					data-toggle="collapse" data-target="#navbar-collapse">
-					<i class="fa fa-bars"></i>
+					<i class="fa fa-2x fa-bars" style="color: orange;"></i>
 
 				</button>
 				
@@ -90,17 +90,6 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			<div class="collapse navbar-collapse " id="navbar-collapse">
 				<ul class="nav navbar-nav navbar-right">
 
-					<!-- <li style="width: 312px;"><script>
-						(function() {
-							var cx = '002766683133101502666:idr8muarbec';
-							var gcse = document.createElement('script');
-							gcse.type = 'text/javascript';
-							gcse.async = true;
-							gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-							var s = document.getElementsByTagName('script')[0];
-							s.parentNode.insertBefore(gcse, s);
-						})();
-					</script> <gcse:search></gcse:search></li> -->
 					<li><a href="home">HOME</a></li>
 					<li><a href="howItWorks">HOW IT WORKS</a></li>
 					<li><a href="borrowers">NEED A LOAN</a></li>
@@ -115,7 +104,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 						</ul></li>
 					<li><a href="login">LOGIN</a></li>
-
+					<li><img alt="IndiaFlag" src="./resources/images/IndiaFlag.png" class="img-responsive" align="middle" /></li>
 				</ul>
 
 				<!-- /.navbar-custom-menu -->

@@ -78,7 +78,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<!-- END -->
 	
 		<section class="setion-how-it-works section-bg">
-
+		
 		<div class="container">
 		<h2 class="text-center">Our Story, Our Value</h2>
 		</div>

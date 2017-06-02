@@ -8,6 +8,9 @@
 <head>
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 <meta charset="utf-8">
+<meta name="description" content="Fundhouse: A novel P2P lending and borrowing platform in India.">
+<meta name="keywords" content="fundhouse, fund house, fundtech, fund tech, p2p, call money, paddy loan, unsecured loan, pl, bl, personal loan, business loan, Travel Loan, Education Loan, eloan, fin-tech, fundhouse, funding zone, fundhouse Delhi, fundhouse New Delhi, fundhouse Raipur, fundhouse india,  fh, P2P New Delhi, P2P Raipur, P2P india, Fintech Fundhouse, fh fintech, Fund house e loan, Fundhouse services, ft, used car loan, fundhouse, fund house">
+<meta name="abstract" content="Fundhouse: Introducing Peer To Peer Lending In India." />
 <link rel="icon" href="./resources/images/favicon-04.png" type="image/x-icon">
 <!-- Online -->
 <!-- bootstrap.min.js & jquery.min.js  -->
@@ -29,7 +32,7 @@
 <link href=<c:url value="/resources/css/Home1.css"/> rel="stylesheet" type="text/css" />
 <!-- AdminLTE Skins. Choose a skin from the css/skins folder instead of downloading all of them to reduce the load. -->
 <link href=<c:url value="/resources/css/skins/_all-skins.min.css" /> rel="stylesheet" type="text/css" />
-<title>Fund House</title>
+<title>Fundhouse</title>
 <style type="text/css">
 input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	.gsc-input-box-focus, .gsc-search-button {
@@ -97,7 +100,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 				<button type="button" class="navbar-toggle collapsed"
 					data-toggle="collapse" data-target="#navbar-collapse">
-					<i class="fa fa-bars"></i>
+					<i class="fa fa-2x fa-bars"></i>
 
 				</button>
 
@@ -107,38 +110,9 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 			<div class="collapse navbar-collapse " id="navbar-collapse">
 
-				<ul class="nav navbar-nav navbar-right" style="font-size: 17px;">
-				<!-- 
-					<script>
-			(function() {
-				var cx = '002766683133101502666:m2ly3fxg-lu';
-				var gcse = document.createElement('script');
-				gcse.type = 'text/javascript';
-				gcse.async = true;
-				gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(gcse, s);
-			})();
-		</script>
-		<gcse:search></gcse:search>
-				
-				 -->
-				 <li style="width: 312px;">			<script>
-					(function() {
-						var cx = '002766683133101502666:m2ly3fxg-lu';
-						var gcse = document.createElement('script');
-						gcse.type = 'text/javascript';
-						gcse.async = true;
-						gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-						var s = document.getElementsByTagName('script')[0];
-						s.parentNode.insertBefore(gcse, s);
-					})();
-				</script>
-				<gcse:search></gcse:search>
-	</li>
-					<li><a href="investors">LENDERS</a></li>
-
-					<li><a href="borrowers">BORROWERS</a></li>
+				<ul class="nav navbar-nav navbar-right" style="font-size: 17px; color: white;">
+					<li><a href="borrowers">NEED A LOAN</a></li>
+					<li><a href="investors">WANT TO INVEST</a></li>
 
 					<li class="dropdown"><a href="" class="dropdown-toggle"
 						data-toggle="dropdown">SIGN UP & LOGIN <span class="caret"></span></a>
@@ -147,7 +121,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							<li><a href="signUpBorrower">Sign Up As A Borrower</a></li>
 							<li><a href="login">Login</a></li>
 						</ul></li>
-
+					<li><img alt="IndiaFlag" src="./resources/images/IndiaFlag.png" class="img-responsive" align="middle" /></li>
 
 				</ul>
 
@@ -201,26 +175,54 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					<div class="text-center" style="padding-top: 53px;">
 						<img src="./resources/images/fundhouse_1311.png"
 							class="center-block img-responsive"></img>
-						<div class="heading-text text-center">Introducing Peer To Peer Lending
-							In India</div>
-						<div class="main-content text-center">Peer to peer lending is a
-							worldwide phenomenon and now it is available in India as well.
-							P2P lending enables borrowers to get instant personal loans while
-							lenders can multiply their savings online. Through peer to peer
-							lending, Fund House is poised to change the way India lends and
-							borrows.</div>
+						<div class="heading-text text-center"><strong>INTRODUCING PEER TO PEER LENDING IN INDIA</strong></div>
+						<div class="main-content text-center">Peer to peer lending is a most innovative financial phenomenon 
+								happening across the globe and now it is available in India as well. 
+								Peer to Peer lending platform is an online marketplace where potential Investors and pre-verified, 
+								creditworthy borrowers connect and pursue bilateral transactions.
+							<a href="#" target="_blank" data-toggle="modal" data-target="#readMore">Read More...</a>
+							</div>
 						<div class="btn-pend text-center">
-							<a class="btn btn-clear size btn-md btn-min-block"
-								href="signUpInvestor" style="">Become a
-								Lender</a><a class="btn btn-clear size btn-md btn-min-block"
-								href="signUpBorrower" >Become a
-								Borrower</a>
+							<a class="btn btn-clear size btn-md btn-min-block"	href="signUpBorrower">NEED A LOAN</a>
+							<a class="btn btn-clear size btn-md btn-min-block"	href="signUpInvestor">WANT TO INVEST</a>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
+	  <!-- Modal -->
+                        <div class="modal fade bs-example-modal-lg" id="readMore" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                          <div class="modal-dialog modal-lg" role="document">
+                            <div class="modal-content">
+                              <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                <h4 class="modal-title" id="myModalLabel">INTRODUCING PEER TO PEER LENDING IN INDIA</h4>
+                              </div>
+                              <div class="modal-body text-center" align="center">
+                              	<p>
+                              		Peer to peer lending is a most innovative financial phenomenon happening across the globe and now it is available in India as well. Peer to Peer lending platform is an online marketplace where potential Investors and pre-verified, creditworthy borrowers connect and pursue bilateral transactions.
+                              	</p>
+                               	<p>
+                               		Primary objective is to make borrowing less complex and lending as more lucrative. P2P lending provides an excellent platform to raise money instantly for your personal and business needs, and at the same time it provides excellent returns and rewards to its investors and help in multiplying their savings. Peer to Peer lending, also known as P2P Lending, is a financial innovation which connects verified borrowers seeking unsecured personal loans with investors looking to earn higher returns on their investments. Verified borrowers are listed on the P2P lending platform, Investors can see all the details about the borrowers before lending money to them. Investors have the option to lend small amounts to multiple borrowers to diversify their investments.
+                               	</p>
+                               	<p>
+                               		Peer to Peer Lending is already a hugely successful model for alternate financing across globe. In India, P2P Lending is gaining traction at very fast pace and slowly becoming a very attractive investment option for investors. RBI has already taken a cognizance of this innovation and come up with a consultation paper to regulate this sector.
+                               	</p>
+                               	<p>
+                               		Peer to Peer Lending is providing convenient, quick and hassle free better way to borrow and lend money.
+                               	</p>
+                               	<div class="btn-pend text-center">
+									<a class="btn btn-clear size btn-md btn-min-block"	href="signUpBorrower">NEED A LOAN</a>
+									<a class="btn btn-clear size btn-md btn-min-block"	href="signUpInvestor">WANT TO INVEST</a>
+								</div>
+                              </div>
+                              <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
 <section class="container-fluid cta-home" style="margin-top: 0px;">
 	<div class="container">
 		<div class="col-md-9">
@@ -228,13 +230,12 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				Get Free <span class="light-green-text">Consultation</span>
 			</p>
 			<p class="h4 font-white ">
-				Call us at <a class="light-green-text  contact"
-					href="tel:+91 99933 32222">+91 99933 32222 </a> or want to know
-				more about us
+				Contact  us at <a class="light-green-text  contact"
+					href="mailto:info@fundhouse.co.in">info@fundhouse.co.in</a> to know	more about us.
 			</p>
 		</div>
 		<div class="col-md-3 call-button">
-			<a href="/signup"><button class="btn btn-round-orange">
+			<a href="signUpBorrower"><button class="btn btn-round-orange">
 					Register Now</button></a>
 		</div>
 	</div>
@@ -242,13 +243,14 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 	</section>
 	<!-- Emi Section -->
-	<section style="padding-bottom:80px;background-color:#F5F5F5;">
+	<!-- Collapse Code -->
+	<div>
+	<section style="padding-bottom:80px;background-color:#FFFFFF;">
+	
 	<ul class="ul-toggle-home">
 		<li class="container-toggle-home" align="center"
 			style="margin-top: 0px;">
-			<h1
-				style="background-color: #001528; color: white; height: 58px; padding-top: 10px; margin-top: 0px; margin-bottom: 0px;">Calculate
-				EMI</h1>
+			<h1	style="background-color: #00FF00; color: white; height: 58px; padding-top: 10px; margin-top: 0px; margin-bottom: 0px;">Calculate EMI</h1>
 			<ul class="ul-toggle-list ul-toggle-list-home"
 				style="padding: 0 !important;">
 
@@ -401,6 +403,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		</li>
 	</ul>
 	</section>
+	</div> <!-- Collapse Code End -->
 	<!-- END -->
 	<section>
 	<div class="container">
@@ -468,9 +471,12 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					<img role="presentation"
 						src="./resources/images/Relationship-Manager.png"></img>
 				</div>
-				<div class="col-md-10" style="padding-top: 25px;">Get free
-					advice from our Relationship Managers for becoming Lender and
-					Borrower Call us at +91 99933 32222</div>
+				<div class="col-md-10" style="padding-top: 25px;"><strong>Get free
+					advice from our Relationship Managers for becoming a Lender or
+					Borrower.<br> Email us at <a href="mailto:info@fundhouse.co.in">info@fundhouse.co.in</a>.</strong></div>
+					<div class="text-center testimonial-index">
+						<a class="btn btn-black-index" href="contactUs">CONTACT US</a>
+			</div>
 			</div>
 		</div>
 
@@ -488,48 +494,33 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				style="width: 60px; text-align: top;" class="center-block"></img>
 		</div>
 		<div class="col-sm-2 pad">
-			<div class="bdr">
-				<h4>1. Registration</h4>
-			</div>
-			<p class="trans">Register as lender or borrower just by filling
-				basic information and KYC requirement as per RBI guidelines.</p>
+			
+				<h4><strong>1. REGISTRATION</strong></h4>
+			<p class="trans">Register as lender or borrower just by following simple registration process, pay the registration fees and provide the required documents as mentioned in our site. We require documents to be submitted to verify the information provided by individuals to ensure documents comply with RBI norms. </p>
 		</div>
 		<div class="col-sm-1 pad solide">
 			<img src="./resources/images/icon2.png"
 				style="width: 60px; text-align: top;" class="center-block"></img>
 		</div>
 		<div class="col-sm-2 pad">
-			<p class="trans">View your loan getting funded by approved
-				lenders. This does not take long time, it's quite fast.</p>
-			<div class="bdr1">
-				<h4>2. Funding</h4>
-			</div>
+		<h4><strong>2. STRIKING THE DEAL</strong></h4>
+			<p class="trans">Borrowers and investors can send proposals to each other along with some basic information such as reason, amount, preferred interest rate, tenure etc. The receiver of proposal can either Accept, Reject, Re-negotiate or send a counter proposal. Both borrowers and Investors are allowed to strike multiple deals at one point of time.</p>
 		</div>
 		<div class="col-sm-1 solide pad">
 			<img src="./resources/images/icon3.png"
 				style="width: 60px; text-align: top;" class="center-block"></img>
 		</div>
 		<div class="col-sm-2 pad">
-			<div class="bdr">
-				<h4>3. Agreement and Disbursement</h4>
-			</div>
-			<p class="trans">Hassle free documentation process makes sure
-				that you do not waste much time in paying physical visits. Loan
-				amount will be credited directly in your bank account</p>
+			<h4><strong>3. AGREEMENT & DISBURSEMENT</strong></h4>
+			<p class="trans">Hassle free documentation process makes sure that you do not waste much time in paying physical visits. The parties sign a formal contract after the agreement is made for amount and interest rate for same, between the investor and borrower, followed by transfer of fund to borrower's bank account.</p>
 		</div>
 		<div class="col-sm-1 pad solide">
 			<img src="./resources/images/icon4.png"
 				style="width: 60px; text-align: top;" class="center-block"></img>
 		</div>
 		<div class="col-sm-2 pad">
-			<p class="trans">We help our customers fulfill their credit
-				requirements and avail investment opportunities by matching the
-				lenders with relevant borrowers through our online platform.
-				Customer satisfaction is our prime motive. Our testimonial talks
-				more about it!</p>
-			<div class="bdr1">
-				<h4>4. Happy Clients</h4>
-			</div>
+		<h4><strong>4. HAPPY CLIENTS </strong></h4>
+			<p class="trans">Borrowers pay the EMI directly to the investor through PDC / electronic transfers via NEFT                        net banking, Auto Debits etc. We help our customers fulfill their credit requirements and avail investment opportunities by matching the lenders with relevant borrowers through our online platform. </p>
 		</div>
 
 	</div>
@@ -538,84 +529,57 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<!-- box-->
 	<!-- box-->
 
-	<section class="container-fluid cta-home1"> <img
-		class="img-responsive center-block"
-		src="./resources/images/Layer 12.png">
-	<div class="container" style="background-color: whitesmoke;">
+	<section class="container-fluid cta-home1"> 
+	<!-- <img class="img-responsive center-block" src="./resources/images/Layer 12.png"> -->
+	<div class="container">
 		<center>
-			<p class="new-section-heading">Finsight</p>
+			<p class="new-section-heading"><strong>FINSIGHT</strong></p>
 		</center>
+		
+		<div>
+			<img alt="DataAnalytics" src="./resources/images/universal-analytics2.jpg" align="middle" class="img-responsive text-center">
+		</div>
 
-		<p>Finsight is our proprietary statistical modeling and machine
-			learning-based analytics engine that forms the core of TCM.</p>
-		<p>It began as a simple rule-based decision support system using
-			just 50 data points. With the deep credit insights that TCM's
-			on-ground team has built over time, Finsight rapidly transformed into
-			a highly robust engine to underwrite Indian businesses and an
-			extremely flexible engine for customer risk and reliability score
-			computation.</p>
-		<p>Today, Finsight takes into account over 2,500 data points
-			simultaneously to deliver almost real-time appraisal of potential
-			borrowers. Leveraging simple, yet profound analytics techniques viz.
-			pattern matching, dimensionality reduction, probabilistic record
-			linkage, etc., Finsight blends a wide range of data sets from
-			multiple sources to reduce them into comprehensibly fewer number of
-			metavariables.</p>
-		<p>Metavariables are processed through our proprietary binary
-			modeling and credit analytics algorithms to generate optimized
-			prediction for automated decision making. Finsight's capability to
-			judge accurately the ability and willingness of borrowers to repay
-			minimizes the perceived risk, while extending the credit spectrum.</p>
+		<p>Finsight is our proprietary statistical modeling and machine learning-based analytics engine that forms the core of Fund house / TCM's</p>
+		<p>It began as a simple rule-based decision support system using just 50 data points. With the deep credit insights that Fund house / TCM's on-ground team has built over time, Finsight rapidly transformed into a highly robust engine to underwrite Indian businesses and an extremely flexible engine for customer risk and reliability score computation.</p>
+		<p>Today, Finsight takes into account over 2,500 data points simultaneously to deliver almost real-time appraisal of potential borrowers. Leveraging simple, yet profound analytics techniques viz. pattern matching, dimensionality reduction, probabilistic record linkage, etc., Finsight blends a wide range of data sets from multiple sources to reduce them into comprehensibly fewer number of metavariables.</p>
+		<p>Metavariables are processed through our proprietary binary modeling and credit analytics algorithms to generate optimized prediction for automated decision making. Finsight's capability to judge accurately the ability and willingness of borrowers to repay minimizes the perceived risk, while extending the credit spectrum.</p>
 	</div>
 
 
 	</section>
 
 
-	<div class="box">
+	<div>
 		<div class="center">
-			<h2 class="text-center"
-				style="font-weight: 300; font-size: 30px; color: #ff9f3f">How
-				It Benefits You</h2>
+			<h2 style="padding-left:2%; font-weight: 300; font-size: 30px; color: #ff9f3f"><strong>HOW IT BENEFITS YOU</strong></h2>
 		</div>
 
-		<div
-			class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow fadeInLeft animated"
-			data-wow-delay="0s"
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow fadeInLeft animated text-center"	data-wow-delay="0s"
 			style="visibility: visible; animation-delay: 0s; animation-name: fadeInLeft;">
-			<ul
-				style="margin-left: 25%">
-				<li style="padding-left: 2%;">
-					<p style="font-size: 17px;">No end use restriction - use it for
-						a wide range of business needs.</p>
+			<ul>
+				<li>
+					<p style="font-size: 17px;">No end use restrictions use &ndash; it for a wide range of business needs.</p>
 				</li>
-				<li style="padding-left: 2%;">
-					<p style="font-size: 17px;">Minimum documentation - Fast &amp;
-						hassle free disbursement.</p>
+				<li>
+					<p style="font-size: 17px;">Minimum Documentations &ndash; Fast & Hassle Free Disbursement.</p>
 				</li>
-				<li style="padding-left: 2%;">
-					<p style="font-size: 17px;">Small, frequent automated repayment
-						&ndash; So no burden of big EMIs.</p>
+				<li>
+	 				<p style="font-size: 17px;">Small, Frequent Automated Repayment &ndash; so no burden of big EMI.</p>
 				</li>
-				<li style="padding-left: 2%;">
-					<p style="font-size: 17px;">Prepay the loan with zero penal
-						charges.</p>
+				<li>
+					<p style="font-size: 17px;">Prepay of loan a zero Penalty Charge.</p>
 				</li>
-				<li style="padding-left: 2%;">
-					<p style="font-size: 17px;">Maintain a good track and renew
-						with us for a higher amount in 24 hrs.</p>
+				<li>
+					<p style="font-size: 17px;">Maintain a good track and top &ndash; up with us higher amount in 48 Hours.</p>
 				</li>
 			</ul>
 		</div>
-		<div
-			class="col-lg-2 col-md-2 col-sm-12 col-xs-12 col-lg-offset-5 center text-center"
-			style="margin-top: 3%">
-			<p class="lead center">
-			<center>
-				<a class="btn btn-clear size btn-lg btn-max-block"
-								href="signUpBorrower" >Apply now</a>
-			</center>
-			</p>
+		<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 col-lg-offset-5 center text-center">
+			
+			<div class="text-center testimonial-index">
+				<a class="btn btn-black-index" href="signUpBorrower">Apply Now</a>
+			</div>
 		</div>
 	</div>
 	<section class="container-fluid cta-home1">
@@ -636,14 +600,14 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							<i class="fa fa-quote-left" aria-hidden="true"></i>
 						</div>
 						<div class=" col-md-11 index-testimonial-text">
-							<p>Hats off to team of fundhouse.co.in  - peer to peer lending india, they have helped many of my patients to get their treatment. They are no. 1 in India for peer to peer lending services to help many people to save their life and spread smiles.</p>
+							<p>From the loan I received through Fund House I was able to pay off my credit card debt at half the interest rate. None of the banks in whole Mumbai was ready to give me loan, which is given by Fund House. Thank you Fund House for saving my hard earned money.</p>
 						</div>
 					</div>
 					<div class="index-testimonial-card-footer">
 						<div class="row">
 							<div class="col-md-9" style="margin-right: 10%;">
 								<div class="row text-right">
-									<span class="the-blue-text">Ritu Bharti, Bhilai </span>
+									<span class="the-blue-text">Anil Goyal, Mumbai</span>
 								</div>
 								<div class="row text-right">Borrower at Fund House</div>
 							</div>
@@ -710,41 +674,43 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 					<div class="col-sm-3">
 
+						<a href="https://www.thomsonreuters.com/" target="_blank">
 						<img src=<c:url value="/resources/images/partners/p1.png"/>
 							class="img-responsive center-block p1"></img>
+						</a>
 
 					</div>
 					<div class="col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p2.png"/>
-							class="img-responsive center-block p2"></img>
+						<a href="http://economictimes.indiatimes.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p2.png"/>
+							class="img-responsive center-block p2"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p3.png"/>
-							class="img-responsive center-block p3"></img>
+						<a href="http://www.deccanchronicle.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p3.png"/>
+							class="img-responsive center-block p3"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p4.png"/>
-							class="img-responsive center-block p4"></img>
+						<a href="http://timesofindia.indiatimes.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p4.png"/>
+							class="img-responsive center-block p4"></img></a>
 					</div>
 
 				</div>
 				<div class="row container">
 
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p5.png"/>
-							class="img-responsive center-block p5"></img>
+						<a href="https://www.bloomberg.com/asia" target="_blank"><img src=<c:url value="/resources/images/partners/p5.png"/>
+							class="img-responsive center-block p5"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p6.png"/>
-							class="img-responsive center-block p6"></img>
+						<a href="http://www.livemint.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p6.png"/>
+							class="img-responsive center-block p6"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p7.png"/>
-							class="img-responsive center-block p7"></img>
+						<a href="http://www.financialexpress.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p7.png"/>
+							class="img-responsive center-block p7"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p8.png"/>
-							class="img-responsive center-block p8"></img>
+						<a href="http://www.business-standard.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p8.png"/>
+							class="img-responsive center-block p8"></img></a>
 					</div>
 
 				</div>

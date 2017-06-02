@@ -105,32 +105,62 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					<div class="col-sm-4"></div>
 					<div class="col-sm-1">
 						<div class="size1 box box-default">
-							<i class="fa fa-envelope-o"></i>
+							<i class="fa fa-3x fa-envelope-o"></i>
 						</div>
 						<div class="size1 box box-default">
-							<i class="fa fa-twitter"></i>
+							<i class="fa fa-3x fa-twitter"></i>
 						</div>
 						<div class="size1 box box-default">
-							<i class="fa fa-phone"></i>
+							<i class="fa fa-3x fa-phone"></i>
 						</div>
 						<div class="size1 box box-default">
-							<i class="fa fa-map-marker"></i>
+							<i class="fa fa-3x fa-map-marker"></i>
 						</div>
-
+						<div class="size1 box box-default">
+							<i class="fa fa-3x fa-life-ring"></i>
+						</div>
+						<div class="size1 box box-default">
+							<i class="fa fa-4x fa-question"></i>
+						</div>
+						<div class="size1 box box-default">
+							<i class="fa fa-4x fa-question"></i>
+						</div>
 					</div>
-					<div class="size col-sm-3">
-						<div class="box1 box box-default">info@fundhouse.co.in</div>
-						<div class="box1 box box-default">@fundhouse.in</div>
-						<div class="box1 box box-default">+91 99933 32222</div>
-						<div class="box1 box box-default">New Delhi, India</div>
+					<div class="size col-sm-4">
+						<div class="box1 box box-default"><p><a href="mailto:info@fundhouse.co.in">info@fundhouse.co.in</a></p></div>
+						<div class="box1 box box-default"><p><a href="https://twitter.com/fundhouse_india" target="_blank">@fundhouse.in</a></p></div>
+						<div class="box1 box box-default"><p><a href="09993332222">+91 99933 32222</a></p></div>
+						<div class="box1 box box-default"><p><a href="https://goo.gl/maps/UoohdaTFUD72" target="_blank">01, 3rd Floor, Shyam Plaza, Pandri, Raipur</a></p></div>
+						<div class="box1 box box-default"><p><a href="support">Support</a></p></div>
+						<div class="box1 box box-default"><p><a href="borrowers">FAQ Borrower</a></p></div>
+						<div class="box1 box box-default"><p><a href="investors">FAQ Lender</a></p></div>
 					</div>
-					<div class="col-sm-4"></div>
+					<div class="col-sm-3"></div>
 				</div>
 
 			</div>
 		</center>
 		</section>
 	</div>
+	
+	<!-- 	<div class="row">
+			<div class="col-lg-4 col-md-4">
+				<div class="text-center testimonial-index">
+				<a class="btn btn-black-index" href="support">Support</a>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4">
+				<div class="text-center testimonial-index">
+				<a class="btn btn-black-index" href="borrowers">FAQ Borrowers</a>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4">
+				<div class="text-center testimonial-index">
+				<a class="btn btn-black-index" href="investors">FAQ Lenders</a>
+				</div>
+			</div>
+		</div> -->
+
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
@@ -189,7 +219,9 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 						<div class="panel-body text-center">
 							<h4>Address: </h4>
 							<div>
-								New Delhi<br />
+								<p>01, 3rd Floor, Shyam Plaza, Pandri, Raipur<br />
+								Chhattisgarh - 492001
+								</p>
 							</div>
 							<hr />
 							<div id="map1" class="map"></div>
@@ -216,7 +248,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<script type="text/javascript">
 		jQuery(function($) {
 			function init_map1() {
-				var myLocation = new google.maps.LatLng(28.6139, 77.2090);
+				var myLocation = new google.maps.LatLng(21.249521, 81.6437423);
 				var mapOptions = {
 					center : myLocation,
 					zoom : 16

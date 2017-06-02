@@ -49,7 +49,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		
 		<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
 		<!-- Blogs -->
-		<section class="artical-section">
+	<!-- 	<section class="artical-section">
 		<div class="container content">
 			<div class="row">
 				<div class="pad col-sm-6 col-md-4 col-xs-4">
@@ -81,156 +81,21 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					</div>
 					</artical>
 				</div>
-				<div class="pad col-sm-6 col-md-4 col-xs-4">
-					<artical>
-					<div class="artical-box">
-						<div class="artical-img">
-							<a href="#"><img class="img-responsive"
-								src="/resources/images/main-slide-3.jpg" /></a>
-						</div>
-						<div class="artical-content">
-							<div class="artical-title text-center">
-								<h3>
-									<a href="#">DIFFERENCES BETWEEN A BANK AND A PEER-TO-PEER
-										LENDING PLATFORM</a>
-								</h3>
-							</div>
-							<div class="artical-entry">
-								<p>What is Peer to Peer Lending? How is it different from
-									Banks? How can you make most out of it?</p>
-								<a href="#" style="font-size: 19px;">Read more</a>
-							</div>
-							<div class="artical-meta1">
-								<ul class="meta-ul list-inline">
-									<li>19th Nov,2015</li>
-									<li>by<a href="#"> Bhuvan Rustagi</a>
-								</ul>
-							</div>
-						</div>
-					</div>
-					</artical>
-				</div>
-				<div class="pad col-sm-6 col-md-4 col-xs-4">
-					<artical>
-					<div class="artical-box">
-						<div class="artical-img">
-							<a href="#"><img class="img-responsive"
-								src="/resources/images/main-slide-3.jpg" /></a>
-						</div>
-						<div class="artical-content">
-							<div class="artical-title text-center">
-								<h3>
-									<a href="#">DIFFERENCES BETWEEN A BANK AND A PEER-TO-PEER
-										LENDING PLATFORM</a>
-								</h3>
-							</div>
-							<div class="artical-entry">
-								<p>What is Peer to Peer Lending? How is it different from
-									Banks? How can you make most out of it?</p>
-								<a href="#" style="font-size: 19px;">Read more</a>
-							</div>
-							<div class="artical-meta1">
-								<ul class="meta-ul list-inline">
-									<li>19th Nov,2015</li>
-									<li>by<a href="#"> Bhuvan Rustagi</a>
-								</ul>
-							</div>
-						</div>
-					</div>
-					</artical>
-				</div>
+				
 			</div>
-			<div class="row">
-				<div class="pad col-sm-6 col-md-4 col-xs-4">
-					<artical>
-					<div class="artical-box">
-						<div class="artical-img">
-							<a href="#"><img class="img-responsive"
-								src="/resources/images/main-slide-3.jpg" /></a>
-						</div>
-						<div class="artical-content">
-							<div class="artical-title text-center">
-								<h3>
-									<a href="#">DIFFERENCES BETWEEN A BANK AND A PEER-TO-PEER
-										LENDING PLATFORM</a>
-								</h3>
-							</div>
-							<div class="artical-entry">
-								<p>What is Peer to Peer Lending? How is it different from
-									Banks? How can you make most out of it?</p>
-								<a href="#" style="font-size: 19px;">Read more</a>
-							</div>
-							<div class="artical-meta1">
-								<ul class="meta-ul list-inline">
-									<li>19th Nov,2015</li>
-									<li>by<a href="#"> Bhuvan Rustagi</a>
-								</ul>
-							</div>
-						</div>
-					</div>
-					</artical>
-				</div>
-				<div class="pad col-sm-6 col-md-4 col-xs-4">
-					<artical>
-					<div class="artical-box">
-						<div class="artical-img">
-							<a href="#"><img class="img-responsive"
-								src="/resources/images/main-slide-3.jpg" /></a>
-						</div>
-						<div class="artical-content">
-							<div class="artical-title text-center">
-								<h3>
-									<a href="#">DIFFERENCES BETWEEN A BANK AND A PEER-TO-PEER
-										LENDING PLATFORM</a>
-								</h3>
-							</div>
-							<div class="artical-entry">
-								<p>What is Peer to Peer Lending? How is it different from
-									Banks? How can you make most out of it?</p>
-								<a href="#" style="font-size: 19px;">Read more</a>
-							</div>
-							<div class="artical-meta1">
-								<ul class="meta-ul list-inline">
-									<li>19th Nov,2015</li>
-									<li>by<a href="#"> Bhuvan Rustagi</a>
-								</ul>
-							</div>
-						</div>
-					</div>
-					</artical>
-				</div>
-				<div class="pad col-sm-6 col-md-4 col-xs-4">
-					<artical>
-					<div class="artical-box">
-						<div class="artical-img">
-							<a href="#"><img class="img-responsive"
-								src="/resources/images/main-slide-3.jpg" /></a>
-						</div>
-						<div class="artical-content">
-							<div class="artical-title text-center">
-								<h3>
-									<a href="#">DIFFERENCES BETWEEN A BANK AND A PEER-TO-PEER
-										LENDING PLATFORM</a>
-								</h3>
-							</div>
-							<div class="artical-entry">
-								<p>What is Peer to Peer Lending? How is it different from
-									Banks? How can you make most out of it?</p>
-								<a href="#" style="font-size: 19px;">Read more</a>
-							</div>
-							<div class="artical-meta1">
-								<ul class="meta-ul list-inline">
-									<li>19th Nov,2015</li>
-									<li>by<a href="#"> Bhuvan Rustagi</a>
-								</ul>
-							</div>
-						</div>
-					</div>
-					</artical>
-				</div>
-			</div>
-			<!-- End Blogs -->
+			End Blogs
 		</div>
+		</section> -->
+		
+		<section class="section">
+			<div class="container">
+			
+			<h2 class="text-center">Blogs</h2>
+			<p>&nbsp;</p>
+				<p class="text-center">
+					We are currently in the process of updating our Blog Library. <strong>Please come back soon!</strong>
+				</p>
+			</div>
 		</section>
 <jsp:include page="../footer.jsp" flush="true"></jsp:include>
 		<!-- Js File 		  -->

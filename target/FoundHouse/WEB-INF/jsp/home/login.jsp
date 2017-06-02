@@ -158,9 +158,9 @@ access-section .divider {
 								</div>
 								<p class="lead">Don't have a FundHouse account?</p>
 								<ul class="list-unstyled social-login">
-									<li><a class="btn btn-cta-secondary" href="signupinvestor"><i
+									<li><a class="btn btn-cta-secondary" href="signUpInvestor"><i
 											class="fa"></i>Sign Up As A Lender</a></li>
-									<li><a class="btn btn-cta-secondary" href="signupborrower"><i
+									<li><a class="btn btn-cta-secondary" href="signUpBorrower"><i
 											class="fa"></i>Sign Up As A Borrower</a></li>
 								</ul>
 							</div>

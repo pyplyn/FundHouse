@@ -59,12 +59,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	line-height: normal;
 }
 </style>	
-<script type="text/javascript">
-function googleTranslateElementInit() 
-{
-	new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages:'en,bn,gu,hi,kn,ml,mr,nl,pa,ta,te,ur,sd,fr,de,es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
-</script>
+
+<!--Start of Tawk.to Script-->
+
+<!--End of Tawk.to Script-->
 <title></title>
 </head>
 <body>
@@ -157,7 +155,7 @@ function googleTranslateElementInit()
 					<strong>Repayment and APR: </strong>The minimum and maximum repayment period for loans is 6 months and 36 months respectively, and the minimum and maximum APR for a loan is 12% and 30% respectively.
 				</div>
 				<div class="text-justify">
-					<strong>DISCLAIMER: </strong>I authorize Fundhouse.com/Bank/Financial Institution to call/SMS/email me to discuss my loan application. I am aware that my loan approval is at sole discretion of the financial institution/lenders.
+					<strong>DISCLAIMER: </strong>I authorize Fundhouse.co.in / Bank / Financial Institution to call/SMS/email me to discuss my loan application. I am aware that my loan approval is at sole discretion of the financial institution/lenders.
 				</div>	
 			</div>
 		</div>
@@ -189,10 +187,6 @@ function googleTranslateElementInit()
 										</button>
 									</span>
 							</div>
-							<br>
-						<!-- 	<div>
-								New Delhi, India | Phone number: +91 99933 32222 | Email: info@fundhouse.co.in
-							</div> -->
 						</div>
 			
 				
@@ -212,17 +206,17 @@ function googleTranslateElementInit()
 							href="https://plus.google.com/u/0/111105658134157160870"><i
 								class="fa fa-google-plus"></i></a></li>
 						<li><a target="_blank"
-							href="https://www.instagram.com/fundhouse.india/"><i
+							href="https://www.instagram.com/"><i
 								class="fa fa-instagram"></i></a></li>
-						<li><a target="_blank" href="https://www.linkedin.com/company/fundhouse">
+						<li><a target="_blank" href="https://www.linkedin.com/">
 							<i class="fa fa-linkedin"></i></a>
 						</li>
-						<li class="row-end"><a href="#"><i class="fa fa-rss"></i></a></li>
+						<li class="row-end"><a href="blogs"><i class="fa fa-rss"></i></a></li>
 					</ul>
 			</div>
 			<div class="col-lg-4 col-md-4">
 				<h4>SEARCH FUNDHOUSE</h4>
-				<script>
+				<!-- <script>
 						(function() {
 							var cx = '002766683133101502666:idr8muarbec';
 							var gcse = document.createElement('script');
@@ -233,12 +227,22 @@ function googleTranslateElementInit()
 							s.parentNode.insertBefore(gcse, s);
 						})();
 					</script> 
-					<gcse:search></gcse:search>
+					<gcse:search></gcse:search> -->
+					<div class="col-sm-12 col-xs-12">
+							<div class="input-group">
+								<input type="text" class="form-control" placeholder="Keyword">
+									<span class="input-group-btn">
+										<button class="btn btn-success-green" style="border-bottom-width: 1px; padding-bottom: 25px; padding-top: 13px;">
+											<span class="fa fa-search"></span>
+										</button>
+									</span>
+							</div>
+						</div>
 			</div>
 		</div>
 		
 		<div class="row">
-			<div class="col-lg-9 col-md-9 col-sm-8">
+			<div class="col-lg-12 col-md-12 col-sm-12">
 				<h4>IMPORTANT WEB LINKS</h4>
 		
 			
@@ -269,13 +273,15 @@ function googleTranslateElementInit()
 					<a href="http://tcmservices.co.in/index.php" target="_blank">TCM | </a>
 					<a href="http://scdwc.com/" target="_blank">SCDWC | </a>
 					<a href="https://www.cibil.com/" target="_blank">CIBIL | </a>
-					<a href="http://www.experian.com/" target="_blank">Experian | </a>
+					<a href="http://www.experian.com/" target="_blank">EXPERIAN | </a>
 					<a href="http://www.crifhighmark.com/Pages/default.aspx" target="_blank">CRIF HIGHMARK | </a>
 					<a href="https://www.equifax.com/personal/" target="_blank">EQUIFAX | </a>
 					<a href="http://www.consumerforums.in/" target="_blank">CONSUMER FORUM</a>
 			</div>
 			</div>
-			<div id="google_translate_element" class="col-lg-3 col-md-3 col-sm-4"></div>
+			<!-- <div class="col-lg-3 col-md-3 col-sm-4">
+				<div id="google_translate_element"></div>
+			</div> -->
 		</div>
 		
 		<div class="footer-botom container">
@@ -299,6 +305,23 @@ function googleTranslateElementInit()
 
 	</div>
 	</footer>
-	 
+<script type="text/javascript">
+function googleTranslateElementInit() 
+{
+	new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages:'en,bn,gu,hi,kn,ml,mr,nl,pa,ta,te,ur,sd,fr,de,es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+	 <script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function()
+{
+	var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+	s1.async=true;
+	s1.src='https://embed.tawk.to/5930022db3d02e11ecc67c00/default';
+	s1.charset='UTF-8';
+	s1.setAttribute('crossorigin','*');
+	s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
 </body>
 </html>

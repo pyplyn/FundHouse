@@ -8,6 +8,9 @@
 <head>
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 <meta charset="utf-8">
+<meta name="description" content="Fundhouse: A novel P2P lending and borrowing platform in India.">
+<meta name="keywords" content="fundhouse, fund house, fundtech, fund tech, p2p, call money, paddy loan, unsecured loan, pl, bl, personal loan, business loan, Travel Loan, Education Loan, eloan, fin-tech, fundhouse, funding zone, fundhouse Delhi, fundhouse New Delhi, fundhouse Raipur, fundhouse india,  fh, P2P New Delhi, P2P Raipur, P2P india, Fintech Fundhouse, fh fintech, Fund house e loan, Fundhouse services, ft, used car loan, fundhouse, fund house">
+<meta name="abstract" content="Fundhouse: Introducing Peer To Peer Lending In India." />
 <link rel="icon" href="./resources/images/favicon-04.png" type="image/x-icon">
 <!-- Online -->
 <!-- bootstrap.min.js & jquery.min.js  -->
@@ -97,7 +100,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 				<button type="button" class="navbar-toggle collapsed"
 					data-toggle="collapse" data-target="#navbar-collapse">
-					<i class="fa fa-bars"></i>
+					<i class="fa fa-2x fa-bars"></i>
 
 				</button>
 
@@ -107,23 +110,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 			<div class="collapse navbar-collapse " id="navbar-collapse">
 
-				<ul class="nav navbar-nav navbar-right" style="font-size: 17px;">
-				<!-- 
-					<script>
-			(function() {
-				var cx = '002766683133101502666:m2ly3fxg-lu';
-				var gcse = document.createElement('script');
-				gcse.type = 'text/javascript';
-				gcse.async = true;
-				gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(gcse, s);
-			})();
-		</script>
-		<gcse:search></gcse:search>
-				
-				 -->
-				
+				<ul class="nav navbar-nav navbar-right" style="font-size: 17px; color: white;">
 					<li><a href="borrowers">NEED A LOAN</a></li>
 					<li><a href="investors">WANT TO INVEST</a></li>
 
@@ -134,7 +121,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							<li><a href="signUpBorrower">Sign Up As A Borrower</a></li>
 							<li><a href="login">Login</a></li>
 						</ul></li>
-
+					<li><img alt="IndiaFlag" src="./resources/images/IndiaFlag.png" class="img-responsive" align="middle" /></li>
 
 				</ul>
 
@@ -188,14 +175,13 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					<div class="text-center" style="padding-top: 53px;">
 						<img src="./resources/images/fundhouse_1311.png"
 							class="center-block img-responsive"></img>
-						<div class="heading-text text-center">Introducing Peer To Peer Lending
-							In India</div>
-						<div class="main-content text-center">Peer to peer lending is a
-							worldwide phenomenon and now it is available in India as well.
-							P2P lending enables borrowers to get instant personal loans while
-							lenders can multiply their savings online. Through peer to peer
-							lending, Fund House is poised to change the way India lends and
-							borrows.</div>
+						<div class="heading-text text-center"><strong>INTRODUCING PEER TO PEER LENDING IN INDIA</strong></div>
+						<div class="main-content text-center">Peer to peer lending is a most innovative financial phenomenon 
+								happening across the globe and now it is available in India as well. 
+								Peer to Peer lending platform is an online marketplace where potential Investors and pre-verified, 
+								creditworthy borrowers connect and pursue bilateral transactions.
+							<a href="#" target="_blank" data-toggle="modal" data-target="#readMore">Read More...</a>
+							</div>
 						<div class="btn-pend text-center">
 							<a class="btn btn-clear size btn-md btn-min-block"	href="signUpBorrower">NEED A LOAN</a>
 							<a class="btn btn-clear size btn-md btn-min-block"	href="signUpInvestor">WANT TO INVEST</a>
@@ -205,6 +191,38 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			</div>
 		</div>
 	</div>
+	  <!-- Modal -->
+                        <div class="modal fade bs-example-modal-lg" id="readMore" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                          <div class="modal-dialog modal-lg" role="document">
+                            <div class="modal-content">
+                              <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                <h4 class="modal-title" id="myModalLabel">INTRODUCING PEER TO PEER LENDING IN INDIA</h4>
+                              </div>
+                              <div class="modal-body text-center" align="center">
+                              	<p>
+                              		Peer to peer lending is a most innovative financial phenomenon happening across the globe and now it is available in India as well. Peer to Peer lending platform is an online marketplace where potential Investors and pre-verified, creditworthy borrowers connect and pursue bilateral transactions.
+                              	</p>
+                               	<p>
+                               		Primary objective is to make borrowing less complex and lending as more lucrative. P2P lending provides an excellent platform to raise money instantly for your personal and business needs, and at the same time it provides excellent returns and rewards to its investors and help in multiplying their savings. Peer to Peer lending, also known as P2P Lending, is a financial innovation which connects verified borrowers seeking unsecured personal loans with investors looking to earn higher returns on their investments. Verified borrowers are listed on the P2P lending platform, Investors can see all the details about the borrowers before lending money to them. Investors have the option to lend small amounts to multiple borrowers to diversify their investments.
+                               	</p>
+                               	<p>
+                               		Peer to Peer Lending is already a hugely successful model for alternate financing across globe. In India, P2P Lending is gaining traction at very fast pace and slowly becoming a very attractive investment option for investors. RBI has already taken a cognizance of this innovation and come up with a consultation paper to regulate this sector.
+                               	</p>
+                               	<p>
+                               		Peer to Peer Lending is providing convenient, quick and hassle free better way to borrow and lend money.
+                               	</p>
+                               	<div class="btn-pend text-center">
+									<a class="btn btn-clear size btn-md btn-min-block"	href="signUpBorrower">NEED A LOAN</a>
+									<a class="btn btn-clear size btn-md btn-min-block"	href="signUpInvestor">WANT TO INVEST</a>
+								</div>
+                              </div>
+                              <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
 <section class="container-fluid cta-home" style="margin-top: 0px;">
 	<div class="container">
 		<div class="col-md-9">
@@ -225,7 +243,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 	</section>
 	<!-- Emi Section -->
+	<!-- Collapse Code -->
+	<div>
 	<section style="padding-bottom:80px;background-color:#FFFFFF;">
+	
 	<ul class="ul-toggle-home">
 		<li class="container-toggle-home" align="center"
 			style="margin-top: 0px;">
@@ -382,6 +403,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		</li>
 	</ul>
 	</section>
+	</div> <!-- Collapse Code End -->
 	<!-- END -->
 	<section>
 	<div class="container">
@@ -528,44 +550,36 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	</section>
 
 
-	<div class="box">
+	<div>
 		<div class="center">
-			<h2 class="text-center"
-				style="font-weight: 300; font-size: 30px; color: #ff9f3f"><strong>HOW IT BENEFITS YOU</strong></h2>
+			<h2 style="padding-left:2%; font-weight: 300; font-size: 30px; color: #ff9f3f"><strong>HOW IT BENEFITS YOU</strong></h2>
 		</div>
 
-		<div
-			class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow fadeInLeft animated"
-			data-wow-delay="0s"
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow fadeInLeft animated text-center"	data-wow-delay="0s"
 			style="visibility: visible; animation-delay: 0s; animation-name: fadeInLeft;">
-			<ul
-				style="margin-left: 25%">
-				<li style="padding-left: 2%;">
+			<ul>
+				<li>
 					<p style="font-size: 17px;">No end use restrictions use &ndash; it for a wide range of business needs.</p>
 				</li>
-				<li style="padding-left: 2%;">
+				<li>
 					<p style="font-size: 17px;">Minimum Documentations &ndash; Fast & Hassle Free Disbursement.</p>
 				</li>
-				<li style="padding-left: 2%;">
-					<p style="font-size: 17px;">Small, Frequent Automated Repayment &ndash; so no burden of big EMI.</p>
+				<li>
+	 				<p style="font-size: 17px;">Small, Frequent Automated Repayment &ndash; so no burden of big EMI.</p>
 				</li>
-				<li style="padding-left: 2%;">
+				<li>
 					<p style="font-size: 17px;">Prepay of loan a zero Penalty Charge.</p>
 				</li>
-				<li style="padding-left: 2%;">
+				<li>
 					<p style="font-size: 17px;">Maintain a good track and top &ndash; up with us higher amount in 48 Hours.</p>
 				</li>
 			</ul>
 		</div>
-		<div
-			class="col-lg-2 col-md-2 col-sm-12 col-xs-12 col-lg-offset-5 center text-center"
-			style="margin-top: 3%">
-			<p class="lead center">
-			<center>
-				<a class="btn btn-clear size btn-lg btn-max-block"
-								href="signUpBorrower" >Apply now</a>
-			</center>
-			</p>
+		<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 col-lg-offset-5 center text-center">
+			
+			<div class="text-center testimonial-index">
+				<a class="btn btn-black-index" href="signUpBorrower">Apply Now</a>
+			</div>
 		</div>
 	</div>
 	<section class="container-fluid cta-home1">
@@ -660,41 +674,43 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 					<div class="col-sm-3">
 
+						<a href="https://www.thomsonreuters.com/" target="_blank">
 						<img src=<c:url value="/resources/images/partners/p1.png"/>
 							class="img-responsive center-block p1"></img>
+						</a>
 
 					</div>
 					<div class="col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p2.png"/>
-							class="img-responsive center-block p2"></img>
+						<a href="http://economictimes.indiatimes.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p2.png"/>
+							class="img-responsive center-block p2"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p3.png"/>
-							class="img-responsive center-block p3"></img>
+						<a href="http://www.deccanchronicle.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p3.png"/>
+							class="img-responsive center-block p3"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p4.png"/>
-							class="img-responsive center-block p4"></img>
+						<a href="http://timesofindia.indiatimes.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p4.png"/>
+							class="img-responsive center-block p4"></img></a>
 					</div>
 
 				</div>
 				<div class="row container">
 
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p5.png"/>
-							class="img-responsive center-block p5"></img>
+						<a href="https://www.bloomberg.com/asia" target="_blank"><img src=<c:url value="/resources/images/partners/p5.png"/>
+							class="img-responsive center-block p5"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p6.png"/>
-							class="img-responsive center-block p6"></img>
+						<a href="http://www.livemint.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p6.png"/>
+							class="img-responsive center-block p6"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p7.png"/>
-							class="img-responsive center-block p7"></img>
+						<a href="http://www.financialexpress.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p7.png"/>
+							class="img-responsive center-block p7"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p8.png"/>
-							class="img-responsive center-block p8"></img>
+						<a href="http://www.business-standard.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p8.png"/>
+							class="img-responsive center-block p8"></img></a>
 					</div>
 
 				</div>
