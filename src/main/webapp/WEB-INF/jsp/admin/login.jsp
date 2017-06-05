@@ -41,13 +41,14 @@
 
 </head>
 <body>
+<div class="wrapper">
 	<div class="login-box">
 		<div class="login-logo">
 			<div class="col-sm-12">
 				<img src="./resources/images/favicon-04.png">
 			</div>
 			<div class="colsm-12">
-				<a href="admin"><b style="color: #e78c5b;">F</b><b>undHouse</b></a>
+				<a href="admin"><b style="color: #e78c5b;">F</b><b>UNDHOUSE</b></a>
 			</div>
 
 
@@ -76,7 +77,7 @@
 					<!-- /.col -->
 					<div class="col-xs-4">
 						<input type="submit" class="btn btn-primary btn-block btn-flat"
-							value="submit">
+							value="Login">
 					</div>
 					<!-- /.col -->
 				</div>
@@ -87,8 +88,8 @@
 		<!-- /.login-box-body -->
 	</div>
 	<!-- /.login-box -->
-	<jsp:include page="../footer.jsp" flush="true"></jsp:include>
-
+	<%-- <jsp:include page="../footer.jsp" flush="true"></jsp:include> --%>
+</div>
 	<script
 		src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 

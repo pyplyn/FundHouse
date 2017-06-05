@@ -28,7 +28,7 @@
 <link href=<c:url value="/resources/css/skins/_all-skins.min.css" />
 	rel="stylesheet" type="text/css" />
 
-<title>Insert title here</title>
+<title>User Information | FUNDHOUSE ADMIN PANEL</title>
 <style>
 .user-menu {
 	border-radius: 3px;
@@ -86,7 +86,7 @@ li a:hover {
 		class="navbar navbar-static-top ">
 	<div class="container">
 		<div class="navbar-header">
-			<a href="" class="navbar-brand"><b style="color: orange;">F</b>UNDHOUSE</a>
+			<a href="" class="navbar-brand"><b style="color: orange;">F</b>UNDHOUSE ADMIN PANEL</a>
 			<button type="button" class="navbar-toggle collapsed"
 				data-toggle="collapse" data-target="#navbar-collapse">
 				<i class="fa fa-bars"></i>
@@ -95,9 +95,9 @@ li a:hover {
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse " id="navbar-collapse">
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="../deshbord" name="investor" id="investor">Dashbord</a></li>
-				<li><a href="#" name="borrowers" id="borrowers">Active proposal</a></li>
-				<li><a href="documents">risk factor</a></li>
+				<li><a href="deshbord" name="investor" id="investor">Dashboard</a></li>
+				<li><a href="#" name="borrowers" id="borrowers">Active Proposal</a></li>
+				<li><a href="documents">Risk factor</a></li>
 				<!-- <li class="dropdown"><a href="" class="dropdown-toggle"
 					data-toggle="dropdown">Logout<span class="caret"></span></a>
 					<ul class="dropdown-menu " role="menu">

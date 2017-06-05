@@ -98,8 +98,8 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<div class="row">
 			<div class="nav">
 				<h4>ELIGIBILITY CRITERIA</h4>
-					<a href="borrowers">Borrower Eligibility Criteria | </a>
-					<a href="investors">Lender Eligibility Criteria | </a>
+					<a href="borrowerEligibilityCriteria">Borrower Eligibility Criteria | </a>
+					<a href="lenderEligibilityCriteria">Lender Eligibility Criteria | </a>
 					<a href="returnOnInvestment">Return on Investment | </a>
 					<a href="fundhouseExpenses">Fundhouse Expenses | </a>
 					<a href="returnAndFees">Return &amp; Fees | </a>
@@ -125,8 +125,8 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				<h4>SUPPORT</h4>
 					<a href="career">Career | </a>
 					<a href="contactUs">Location | </a>
-					<a href="borrowers">FAQ Borrower | </a>
-					<a href="investors">FAQ Lender | </a>					
+					<a href="faqBorrower">FAQ Borrower | </a>
+					<a href="faqLender">FAQ Lender | </a>					
 					<a href="contactUs">Contact us | </a>
 					<a href="knowledgeCenter">Knowledge Center | </a>
 					<a href="news">News | </a>

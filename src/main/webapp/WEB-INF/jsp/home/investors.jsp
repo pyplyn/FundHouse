@@ -86,18 +86,18 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 							<ul class="nav nav-tabs text-center">
 								<li class="active"><a href="#tab_1" data-toggle="tab"><i
 										class="fa fa-question-circle myfa"></i><br> <span
-										class="hidden-sm hidden-xs">Why Invest</span></a></li>
+										class="hidden-sm hidden-xs">Why Invest?</span></a></li>
 								<li><a href="#tab_2" data-toggle="tab"><i
-										class="fa fa fa-tachometer myfa"></i><br> <span
+										class="fa fa fa-balance-scale myfa"></i><br> <span
 										class="hidden-sm hidden-xs">Investors Eligibility</span></a></li>
 								<li><a href="#tab_3" data-toggle="tab"><i
-										class="fa fa-photo myfa"></i><br> <span
+										class="fa fa-th-list myfa"></i><br> <span
 										class="hidden-sm hidden-xs">Investment Process</span></a></li>
 								<li><a href="#tab_4" data-toggle="tab"><i
 										class="fa fa-rupee myfa"></i><br> <span
 										class="hidden-sm hidden-xs">Return & Fees</span></a></li>
 								<li><a href="#tab_5" data-toggle="tab"><i
-										class="fa fa-life-ring myfa"></i><br> <span
+										class="fa fa-street-view myfa"></i><br> <span
 										class="hidden-sm hidden-xs">Investors code of conduct</span></a></li>
 
 							</ul>

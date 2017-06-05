@@ -90,13 +90,13 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 										class="fa  fa-question-circle myfa"></i><br> <span
 										class="hidden-sm hidden-xs">Why Borrow?</span></a></li>
 								<li><a href="#tab_2" data-toggle="tab"><i
-										class="fa fa fa-tachometer myfa"></i><br> <span
+										class="fa fa fa-balance-scale myfa"></i><br> <span
 										class="hidden-sm hidden-xs">Borrowers Eligibility</span></a></li>
 								<li><a href="#tab_3" data-toggle="tab"><i
-										class="fa fa fa-photo myfa"></i><br> <span
+										class="fa fa fa-th-list myfa"></i><br> <span
 										class="hidden-sm hidden-xs">How to Create Effective	Listing</span></a></li>
 								<li><a href="#tab_4" data-toggle="tab"><i
-										class="fa fa fa-users myfa"></i><br> <span
+										class="fa fa fa-spin fa-gear myfa"></i><br> <span
 										class="hidden-sm hidden-xs">Process of loan</span></a></li>
 								<li><a href="#tab_5" data-toggle="tab"><i
 										class="fa fa fa-rupee myfa"></i><br> <span

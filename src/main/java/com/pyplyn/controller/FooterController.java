@@ -128,6 +128,17 @@ public class FooterController {
 		return "footerPages/mediaCenter";
 	}
 	
+	@RequestMapping(value="faqBorrower")
+	public String faqBorrower()
+	{
+		return "footerPages/faqBorrower";
+	}
+	@RequestMapping(value="faqLender")
+	public String faqLender()
+	{
+		return "footerPages/faqLender";
+	}
+	
 	
 	//LEGAL
 	

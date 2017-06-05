@@ -620,9 +620,9 @@ label.error {
 								for="c1"> <input type="checkbox" id="c1" name="c1"
 								class="mdl-checkbox__input"> <span
 								class="mdl-checkbox__label">I have read and agree to the
-									<strong><a target="_blank" href="privacy-policy.html"
-										style="color: #3c8dbc;"> Privacy Policy </a></strong>, <strong><a
-										target="_blank" href="terms-of-use.html"
+									<strong><a target="_blank" href="privacyPolicy"
+										style="color: #3c8dbc;"> Privacy Policy</a></strong>,<strong><a
+										target="_blank" href="termsOfUse"
 										style="color: #3c8dbc;"> Terms of Use </a></strong>and Consent to
 									Electronic Disclosures
 							</span><span style="display: none;" class="text-error" id="c1text-error">Accept</span>
@@ -682,7 +682,7 @@ label.error {
 
 						<div class="mdl-card__actions mdl-card--border text-left">
 							<p>
-								<i>Having trouble signing up? <a class="contactUsSideSlider"
+								<i>Having trouble signing up? <a href="contactUs" target="_blank" class="contactUsSideSlider"
 									style="cursor: pointer;">Contact us</a>
 								</i>
 							</p>

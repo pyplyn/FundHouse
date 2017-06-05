@@ -68,7 +68,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				<header class="main-header"> 
 				<nav class="navbar navbar-static-top ">
 		<div class="container">
-<div class="navbar-header" style="padding-top: 3px;">
+<div class="navbar-header" style="padding-top: 3px; padding-left: 2%;">
 
 				<a href="home" class="navbar-brand" style="padding: 0px;"> <img
 					src="./resources/images/favicon-04.png"
@@ -96,6 +96,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					<li><a href="investors">WANT TO INVEST</a></li>
 					<li><a href="blogs">BLOGS</a></li>
 					<li><a href="aboutUs">ABOUT US</a></li>
+					<li><a href="contactUs">CONTACT US</a></li>
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown">SIGN UP <span class="caret"></span></a>
 						<ul class="dropdown-menu " role="menu">

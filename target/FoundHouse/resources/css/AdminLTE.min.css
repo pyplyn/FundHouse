@@ -2121,6 +2121,14 @@ deg
 	margin: 0;
 	line-height: 1
 }
+.box-header>.fa, .box-header>.glyphicon, .box-header>.ion, .box-header .box-title-calculator
+	{
+	display: inline-block;
+	font-size: 36px;
+	text-align: center;
+	margin: 0;
+	line-height: 1;	
+}
 
 .box-header>.fa, .box-header>.glyphicon, .box-header>.ion {
 	margin-right: 5px

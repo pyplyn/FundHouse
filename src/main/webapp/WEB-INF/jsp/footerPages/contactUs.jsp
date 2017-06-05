@@ -132,8 +132,8 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 						<div class="box1 box box-default"><p><a href="09993332222">+91 99933 32222</a></p></div>
 						<div class="box1 box box-default"><p><a href="https://goo.gl/maps/UoohdaTFUD72" target="_blank">01, 3rd Floor, Shyam Plaza, Pandri, Raipur</a></p></div>
 						<div class="box1 box box-default"><p><a href="support">Support</a></p></div>
-						<div class="box1 box box-default"><p><a href="borrowers">FAQ Borrower</a></p></div>
-						<div class="box1 box box-default"><p><a href="investors">FAQ Lender</a></p></div>
+						<div class="box1 box box-default"><p><a href="faqBorrower">FAQ Borrower</a></p></div>
+						<div class="box1 box box-default"><p><a href="faqLender">FAQ Lender</a></p></div>
 					</div>
 					<div class="col-sm-3"></div>
 				</div>

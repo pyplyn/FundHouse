@@ -11,6 +11,7 @@
 <meta name="description" content="Fundhouse: A novel P2P lending and borrowing platform in India.">
 <meta name="keywords" content="fundhouse, fund house, fundtech, fund tech, p2p, call money, paddy loan, unsecured loan, pl, bl, personal loan, business loan, Travel Loan, Education Loan, eloan, fin-tech, fundhouse, funding zone, fundhouse Delhi, fundhouse New Delhi, fundhouse Raipur, fundhouse india,  fh, P2P New Delhi, P2P Raipur, P2P india, Fintech Fundhouse, fh fintech, Fund house e loan, Fundhouse services, ft, used car loan, fundhouse, fund house">
 <meta name="abstract" content="Fundhouse: Introducing Peer To Peer Lending In India." />
+<meta name="google-site-verification" content="8Q-J8tdyViIJqj2RoolNkN3-pC_Cf9R78POgMYRznzk" />
 <link rel="icon" href="./resources/images/favicon-04.png" type="image/x-icon">
 <!-- Online -->
 <!-- bootstrap.min.js & jquery.min.js  -->
@@ -89,7 +90,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<header class="main-header"> <nav class=" navbar-static-top "
 			style="min-height: 61px;">
 		<div class="	container">
-			<div class="navbar-header" style="padding-top: 3px;">
+			<div class="navbar-header" style="padding-top: 3px; padding-left: 2%;">
 
 				<a href="home" class="navbar-brand" style="padding: 0px;"> <img
 					src="./resources/images/favicon-04.png"
@@ -245,17 +246,24 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<!-- Emi Section -->
 	<!-- Collapse Code -->
 	<div>
-	<section style="padding-bottom:80px;background-color:#FFFFFF;">
-	
-	<ul class="ul-toggle-home">
-		<li class="container-toggle-home" align="center"
-			style="margin-top: 0px;">
-			<h1	style="background-color: #00FF00; color: white; height: 58px; padding-top: 10px; margin-top: 0px; margin-bottom: 0px;">Calculate EMI</h1>
-			<ul class="ul-toggle-list ul-toggle-list-home"
-				style="padding: 0 !important;">
-
+	<section>
+	<div class="box box-bg-investors-investors">
+							<div class="box-header with-border" style="background-color: #67f713; color: white; text-align:center;">
+								<h1	class="box-title-calculator"><strong>EMI CALCULATOR</strong></h1>
+								<div class="box-tools pull-right">
+									<button type="button" class="btn btn-box-tool"
+										data-widget="collapse">
+										<i class="fa fa-3x fa-minus" style="color: navy;"></i>
+									</button>
+								</div>
+								<!-- /.box-tools --> 
+							</div>
+							<!-- /.box-header -->
+							<div class="box-body body-padding">
+								<ul class="ul-toggle-home">
+		<li class="container-toggle-home" align="center" style="margin-top: 0px;">
+			<ul class="ul-toggle-list ul-toggle-list-home"	style="padding: 0 !important;">
 				<section class="emi-background" id="emi">
-
 				<div class="container" style="padding: 60px 0;">
 					<div class="row">
 						<div class="col-md-7">
@@ -321,7 +329,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 										class="pieSegment"
 										d="M 125 30 A 95 95 0 0 1 175.90353999234298 44.78884356744419 L 125 125 Z"></path>
 									<path stroke-width="1" stroke="#fff" stroke-miterlimit="2"
-										fill="#001528" opacity="0.3" class="lightPie"
+										fill="#67f713" opacity="0.3" class="lightPie"
 										d="M 125 18 A 107 107 0 0 1 182.33346083348104 34.65690801806872 L 125 125 Z"></path></g>
 									<g data-order="1" class="pieSegmentGroup"> <path
 										stroke-width="1" stroke="#fff" stroke-miterlimit="2"
@@ -402,6 +410,9 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			</ul>
 		</li>
 	</ul>
+	</div>
+	<!-- /.box-body -->
+	</div>
 	</section>
 	</div> <!-- Collapse Code End -->
 	<!-- END -->
@@ -410,8 +421,8 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<div class="full_section_border wow fadeInDown">
 			<div class="col-md-4 first_area wow slideInDown">
 
-				<h2 class="title">About Fund House</h2>
-				<span class="sub_title">A novel P2P lending and borrowing
+				<h2 class="new-section-heading" style="text-align: left; font-size: 36px;"><strong>About FundHouse</strong></h2>
+				<span class="new-section-subheading">A novel P2P lending and borrowing
 					platform in India</span>
 				<div class="font-dark">
 					<p>In this growing global market getting in touch with
@@ -449,7 +460,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 						<li><span class="counting">1953</span> <span class="title">Registered
 								Lenders</span>
 							<p>Large number of registered lenders ensure funding for
-								every borrower.</p> <a href="signUpBorrower" class="register_open">REGISTER
+								every borrower.</p> <a href="signUpInvestor" class="register_open">REGISTER
 								TODAY</a></li>
 						<li><span class="counting">100%</span> <span class="title">Loan
 								Funding Ratio</span>
@@ -473,7 +484,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				</div>
 				<div class="col-md-10" style="padding-top: 25px;"><strong>Get free
 					advice from our Relationship Managers for becoming a Lender or
-					Borrower.<br> Email us at <a href="mailto:info@fundhouse.co.in">info@fundhouse.co.in</a>.</strong></div>
+					Borrower.<br> Email us at <a href="mailto:info@fundhouse.co.in">info@fundhouse.co.in</a></strong></div>
 					<div class="text-center testimonial-index">
 						<a class="btn btn-black-index" href="contactUs">CONTACT US</a>
 			</div>
@@ -552,35 +563,37 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 	<div>
 		<div class="center">
-			<h2 style="padding-left:2%; font-weight: 300; font-size: 30px; color: #ff9f3f"><strong>HOW IT BENEFITS YOU</strong></h2>
+			<h2 style="font-weight: 300; font-size: 30px; color: #ff9f3f; text-align: center;"><strong>HOW IT BENEFITS YOU</strong></h2>
 		</div>
-
-		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow fadeInLeft animated text-center"	data-wow-delay="0s"
-			style="visibility: visible; animation-delay: 0s; animation-name: fadeInLeft;">
-			<ul>
-				<li>
-					<p style="font-size: 17px;">No end use restrictions use &ndash; it for a wide range of business needs.</p>
+		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-12"></div>
+		<div class="col-lg-6 col-md-6 col-sm-8 col-xs-12">
+		
+			<ul class="text-justify">
+				<li style="font-size: 17px;">
+					<p>No end use restrictions use &ndash; it for a wide range of business needs.</p>
 				</li>
-				<li>
-					<p style="font-size: 17px;">Minimum Documentations &ndash; Fast & Hassle Free Disbursement.</p>
+				<li style="font-size: 17px;">
+					<p>Minimum Documentations &ndash; Fast & Hassle Free Disbursement.</p>
 				</li>
-				<li>
-	 				<p style="font-size: 17px;">Small, Frequent Automated Repayment &ndash; so no burden of big EMI.</p>
+				<li style="font-size: 17px;">
+	 				<p>Small, Frequent Automated Repayment &ndash; so no burden of big EMI.</p>
 				</li>
-				<li>
-					<p style="font-size: 17px;">Prepay of loan a zero Penalty Charge.</p>
+				<li style="font-size: 17px;">
+					<p>Prepay of loan a zero Penalty Charge.</p>
 				</li>
-				<li>
-					<p style="font-size: 17px;">Maintain a good track and top &ndash; up with us higher amount in 48 Hours.</p>
+				<li style="font-size: 17px;">
+					<p>Maintain a good track and top &ndash; up with us higher amount in 48 Hours.</p>
 				</li>
 			</ul>
-		</div>
-		<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 col-lg-offset-5 center text-center">
 			
-			<div class="text-center testimonial-index">
+			<div class="text-center testimonial-index" style="margin-top: -40px;">
 				<a class="btn btn-black-index" href="signUpBorrower">Apply Now</a>
 			</div>
 		</div>
+		<div class="col-lg-3 col-md-3 col-sm-2 col-xs-12"></div>
+		
+			
+		
 	</div>
 	<section class="container-fluid cta-home1">
 
@@ -838,11 +851,11 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			$("#pieChart").drawPieChart([ {
 				title : "Total Interest",
 				value : 3,
-				color : "RED"
+				color : "ORANGE"
 			}, {
 				title : "Principal",
 				value : 97,
-				color : "#001528"
+				color : "#67f713"
 			} ]);
 			var url = document.location.toString();
 			if (url.match('#emi')) {
@@ -890,13 +903,13 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 								title : "Total Interest",
 								value : parseInt((total_interest * 100)
 										/ (total_amount)),
-								color : "RED"
+								color : "ORANGE"
 							},
 							{
 								title : "Principal",
 								value : 100 - (parseInt((total_interest * 100)
 										/ (total_amount))),
-								color : "#001528"
+								color : "#67f713"
 							} ]);
 		}
 
@@ -950,7 +963,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 														title : "Total Interest",
 														value : parseInt((total_interest * 100)
 																/ (total_amount)),
-														color : "#001528"
+														color : "#67f713"
 													},
 													{
 														title : "Principal",
