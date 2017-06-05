@@ -85,51 +85,52 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				<p class="new-section-subheading">India's best P2P platform
 					covered on different medias</p>
 			</div>
-			<div class="col-sm-12">
+					<div class="col-sm-12">
 				<div class="row container">
 
 					<div class="col-sm-3">
 
+						<a href="https://www.thomsonreuters.com/" target="_blank">
 						<img src=<c:url value="/resources/images/partners/p1.png"/>
 							class="img-responsive center-block p1"></img>
+						</a>
 
 					</div>
 					<div class="col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p2.png"/>
-							class="img-responsive center-block p2"></img>
+						<a href="http://economictimes.indiatimes.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p2.png"/>
+							class="img-responsive center-block p2"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p3.png"/>
-							class="img-responsive center-block p3"></img>
+						<a href="http://www.deccanchronicle.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p3.png"/>
+							class="img-responsive center-block p3"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p4.png"/>
-							class="img-responsive center-block p4"></img>
+						<a href="http://timesofindia.indiatimes.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p4.png"/>
+							class="img-responsive center-block p4"></img></a>
 					</div>
 
 				</div>
 				<div class="row container">
 
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p5.png"/>
-							class="img-responsive center-block p5"></img>
+						<a href="https://www.bloomberg.com/asia" target="_blank"><img src=<c:url value="/resources/images/partners/p5.png"/>
+							class="img-responsive center-block p5"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p6.png"/>
-							class="img-responsive center-block p6"></img>
+						<a href="http://www.livemint.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p6.png"/>
+							class="img-responsive center-block p6"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p7.png"/>
-							class="img-responsive center-block p7"></img>
+						<a href="http://www.financialexpress.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p7.png"/>
+							class="img-responsive center-block p7"></img></a>
 					</div>
 					<div class=" col-sm-3">
-						<img src=<c:url value="/resources/images/partners/p8.png"/>
-							class="img-responsive center-block p8"></img>
+						<a href="http://www.business-standard.com/" target="_blank"><img src=<c:url value="/resources/images/partners/p8.png"/>
+							class="img-responsive center-block p8"></img></a>
 					</div>
 
 				</div>
 			</div>
-
 		</div>
 	</div>
 
@@ -138,11 +139,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		</section>
 	<jsp:include page="../footer.jsp" flush="true"></jsp:include>
 	</div>
-	<script
-		src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-
-	<script
-		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	
 
 	<script src=<c:url value="/resources/js/app.min.js"/>
 		type="text/javascript"></script>

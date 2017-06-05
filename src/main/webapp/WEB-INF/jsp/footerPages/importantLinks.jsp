@@ -71,102 +71,164 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			
 			<h2 class="text-center">IMPORTANT LINKS</h2>
 			<p>&nbsp;</p>
-				<div class="col-lg-6 col-md-6">
-				<p>
-					MY GOV &ndash; <a href="https://www.mygov.in/" target="_blank">https://www.mygov.in/</a>
-				</p>
-				<p>
-					RBI &ndash; <a href="https://www.rbi.org.in/" target="_blank">https://www.rbi.org.in/</a>
-				</p>
-				<p>
-					SEBI &ndash; <a href="http://www.sebi.gov.in/" target="_blank">http://www.sebi.gov.in/</a>
-				</p>
-				<p>
-					IRDA &ndash; <a href="http://www.irdaindia.org/" target="_blank">http://www.irdaindia.org/</a>
-				</p>
-				<p>
-					MCA &ndash; <a href="http://mca.gov.in/" target="_blank">http://mca.gov.in/</a>
-				</p>
-				<p>
-					CLB &ndash; <a href="http://www.clb.nic.in/" target="_blank">http://www.clb.nic.in/</a>
-				</p>
-				<p>
-					ICIA(C.A.) &ndash; <a href="http://www.icai.org/" target="_blank">http://www.icai.org/</a>
-				</p>
-				<p>
-					ICSI(C.S.) &ndash; <a href="http://www.icsi.edu/" target="_blank">http://www.icsi.edu/</a>
-				</p>
-				<p>
-					ICAI(CMA) &ndash; <a href="http://icmai.in/icmai/index.php" target="_blank">http://icmai.in/icmai/index.php</a>
-				</p>
-				<p>
-					GST &ndash; <a href="https://www.gst.gov.in/" target="_blank">https://www.gst.gov.in/</a>
-				</p>
+				<div class="col-lg-4 col-md-4"></div>
+				<div class="col-lg-8 col-md-8">
+				<table>
+					<tr>
+						<td><p>MY GOV</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="https://www.mygov.in/" target="_blank">https://www.mygov.in/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>RBI</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="https://www.rbi.org.in/" target="_blank">https://www.rbi.org.in/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>SEBI</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.sebi.gov.in/" target="_blank">http://www.sebi.gov.in/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>IRDA</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.irdaindia.org/" target="_blank">http://www.irdaindia.org/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>MCA</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://mca.gov.in/" target="_blank">http://mca.gov.in/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>CLB</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.clb.nic.in/" target="_blank">http://www.clb.nic.in/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>ICIA(C.A.)</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.icai.org/" target="_blank">http://www.icai.org/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>ICSI(C.S.)</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.icsi.edu/" target="_blank">http://www.icsi.edu/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>ICAI(CMA)</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://icmai.in/icmai/index.php" target="_blank">http://icmai.in/icmai/index.php</a></p></td>
+					</tr>
+					<tr>
+						<td><p>GST</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="https://www.gst.gov.in/" target="_blank">https://www.gst.gov.in/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>INCOME TAX</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.incometaxindia.gov.in/Pages/default.aspx" target="_blank">http://www.incometaxindia.gov.in/Pages/default.aspx</a></p></td>
+					</tr>
+					<tr>
+						<td><p>SERVICE TAX</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="https://www.aces.gov.in/" target="_blank">https://www.aces.gov.in/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>NSE</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.nseindia.com/" target="_blank">https://www.nseindia.com/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>BSE</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.bseindia.com/" target="_blank">http://www.bseindia.com/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>MCX</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="https://www.mcxindia.com/" target="_blank">https://www.mcxindia.com/</a></p></td>
+					</tr>
 				
-				<p>
-					INCOME TAX &ndash; <a href="http://www.incometaxindia.gov.in/Pages/default.aspx" target="_blank">http://www.incometaxindia.gov.in/Pages/default.aspx</a>
-				</p>
-				<p>
-					SERVICE TAX &ndash; <a href="https://www.aces.gov.in/" target="_blank">https://www.aces.gov.in/</a>
-				</p>
-				<p>
-					NSE &ndash; <a href="http://www.nseindia.com/" target="_blank">https://www.nseindia.com/</a>
-				</p>
-				<p>
-					BSE &ndash; <a href="http://www.bseindia.com/" target="_blank">http://www.bseindia.com/</a>
-				</p>
-				<p>
-					MCX &ndash; <a href="https://www.mcxindia.com/" target="_blank">https://www.mcxindia.com/</a>
-				</p>
+					<tr>
+						<td><p>CDSL</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="https://www.cdslindia.com/index.html" target="_blank">https://www.cdslindia.com/index.html</a></p></td>
+					</tr>
+					<tr>
+						<td><p>NCDEX</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.ncdexspot.com/" target="_blank">http://www.ncdexspot.com/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>AMFI</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.amfiindia.com/" target="_blank">http://www.amfiindia.com/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>NASSCOM</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.nasscom.in/" target="_blank">http://www.nasscom.in/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>DSCI</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="https://www.dsci.in/" target="_blank">https://www.dsci.in/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>GOOGLE</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="https://www.google.co.in" target="_blank">https://www.google.co.in</a></p></td>
+					</tr>
+					<tr>
+						<td><p>CGFL</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.cgfl.org/home.html" target="_blank">http://www.cgfl.org/home.html</a></p></td>
+					</tr>
+					<tr>
+						<td><p>FINANCIALPOWER</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="https://www.financialpower.co.in/visitors/welcome/visitor/home" target="_blank">https://www.financialpower.co.in/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>TCM</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://tcmservices.co.in/index.php" target="_blank">http://tcmservices.co.in/index.php</a></p></td>
+					</tr>
+					<tr>
+						<td><p>SCDWC</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://scdwc.com/" target="_blank">http://scdwc.com/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>CIBIL</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="https://www.cibil.com/" target="_blank">https://www.cibil.com/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>EXPERIAN</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.experian.com/" target="_blank">http://www.experian.com/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>CRIF HIGHMARK</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.crifhighmark.com/Pages/default.aspx" target="_blank">http://www.crifhighmark.com/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>EQUIFAX</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="https://www.equifax.com/personal/" target="_blank">https://www.equifax.com/personal/</a></p></td>
+					</tr>
+					<tr>
+						<td><p>CONSUMER FORUM</p></td>
+						<td><p>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;</p></td>
+						<td><p><a href="http://www.consumerforums.in/" target="_blank">http://www.consumerforums.in/</a></p></td>
+					</tr>
+				</table>
+				
 				</div>
-				<div class="col-lg-6 col-md-6">
-				<p>
-					CDSL &ndash; <a href="https://www.cdslindia.com/index.html" target="_blank">https://www.cdslindia.com/index.html</a>
-				</p>
-				<p>
-					NCDEX &ndash; <a href="http://www.ncdexspot.com/" target="_blank">http://www.ncdexspot.com/</a>
-				</p>
-				<p>
-					AMFI &ndash; <a href="http://www.amfiindia.com/" target="_blank">http://www.amfiindia.com/</a>
-				</p>
-				<p>
-					NASSCOM &ndash; <a href="http://www.nasscom.in/" target="_blank">http://www.nasscom.in/</a>
-				</p>
-				<p>
-					DSCI &ndash; <a href="https://www.dsci.in/" target="_blank">https://www.dsci.in/</a>
-				</p>
-						
-				<p>
-					GOOGLE &ndash; <a href="https://www.google.co.in" target="_blank">https://www.google.co.in</a>
-				</p>
-				<p>
-					CGFL &ndash; <a href="http://www.cgfl.org/home.html" target="_blank">http://www.cgfl.org/home.html</a>
-				</p>
-				<p>
-					FINANCIALPOWER &ndash; <a href="https://www.financialpower.co.in/visitors/welcome/visitor/home" target="_blank">https://www.financialpower.co.in/</a>
-				</p>
-				<p>
-					TCM &ndash; <a href="http://tcmservices.co.in/index.php" target="_blank">http://tcmservices.co.in/index.php</a>
-				</p>
-				<p>
-					SCDWC &ndash; <a href="http://scdwc.com/" target="_blank">http://scdwc.com/</a>
-				</p>
-				<p>
-					CIBIL &ndash; <a href="https://www.cibil.com/" target="_blank">https://www.cibil.com/</a>
-				</p>
-				<p>
-					Experian &ndash; <a href="http://www.experian.com/" target="_blank">http://www.experian.com/</a>
-				</p>
-				<p>
-					CRIF HIGHMARK &ndash; <a href="http://www.crifhighmark.com/Pages/default.aspx" target="_blank">http://www.crifhighmark.com/</a>
-				</p>
-				<p>
-					EQUIFAX &ndash; <a href="https://www.equifax.com/personal/" target="_blank">https://www.equifax.com/personal/</a>
-				</p>
-				<p>
-					CONSUMER FORUM &ndash; <a href="http://www.consumerforums.in/" target="_blank">http://www.consumerforums.in/</a>
-				</p>
-				</div>
+				
 			</div>
 		</section>
 	<jsp:include page="../footer.jsp" flush="true"></jsp:include>

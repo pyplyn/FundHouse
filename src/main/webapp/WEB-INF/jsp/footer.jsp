@@ -155,7 +155,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					<strong>Repayment and APR: </strong>The minimum and maximum repayment period for loans is 6 months and 36 months respectively, and the minimum and maximum APR for a loan is 12% and 30% respectively.
 				</div>
 				<div class="text-justify">
-					<strong>DISCLAIMER: </strong>I authorize Fundhouse.co.in / Bank / Financial Institution to call/SMS/email me to discuss my loan application. I am aware that my loan approval is at sole discretion of the financial institution/lenders.
+					<strong>DISCLAIMER: </strong>I authorize Fundhouse.co.in / Bank / Financial Institution to call / SMS / email me to discuss my loan application. I am aware that my loan approval is at sole discretion of the financial institution / lenders.
 				</div>	
 			</div>
 		</div>
@@ -196,20 +196,30 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			
 					<h4>JOIN US</h4>
 					<ul class="social list-inline">
-						<li><a target="_blank"
-							href="https://twitter.com/fundhouse_india"><i
-								class="fa fa-twitter"></i></a></li>
-						<li><a target="_blank"
-							href="https://www.facebook.com/FundHouse.India/"><i
-								class="fa fa-facebook"></i></a></li>
-						<li><a target="_blank"
-							href="https://plus.google.com/u/0/111105658134157160870"><i
-								class="fa fa-google-plus"></i></a></li>
-						<li><a target="_blank"
-							href="https://www.instagram.com/"><i
-								class="fa fa-instagram"></i></a></li>
-						<li><a target="_blank" href="https://www.linkedin.com/">
-							<i class="fa fa-linkedin"></i></a>
+						<li>
+							<a target="_blank" href="https://twitter.com/fundhouse_india">
+								<i class="fa fa-2x fa-twitter"></i>
+							</a>
+						</li>
+						<li>
+							<a target="_blank" href="https://www.facebook.com/FundHouse.India/">
+								<i class="fa fa-2x fa-facebook"></i>
+							</a>
+						</li>
+						<li>
+							<a target="_blank" href="https://plus.google.com/u/0/111105658134157160870">
+								<i class="fa fa-2x fa-google-plus"></i>
+							</a>
+						</li>
+						<li>
+							<a target="_blank" href="https://www.instagram.com/fundhouse2002/">
+								<i class="fa fa-2x fa-instagram"></i>
+							</a>
+						</li>
+						<li>
+							<a target="_blank" href="https://www.linkedin.com/in/fundhouse-6752b2144/">
+								<i class="fa fa-2x fa-linkedin"></i>
+							</a>
 						</li>
 						<li class="row-end"><a href="blogs"><i class="fa fa-rss"></i></a></li>
 					</ul>
@@ -242,9 +252,9 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		</div>
 		
 		<div class="row">
-			<div class="col-lg-12 col-md-12 col-sm-12">
+			<div class="col-lg-9 col-md-9 col-sm-8">
 				<h4>IMPORTANT WEB LINKS</h4>
-		
+			
 			
 			<div class="nav">
 				<a href="https://www.mygov.in/" target="_blank">MY GOV | </a>
@@ -279,14 +289,15 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					<a href="http://www.consumerforums.in/" target="_blank">CONSUMER FORUM</a>
 			</div>
 			</div>
-			<!-- <div class="col-lg-3 col-md-3 col-sm-4">
-				<div id="google_translate_element"></div>
-			</div> -->
+			<div class="col-lg-3 col-md-3 col-sm-4">
+				<h4>CHANGE WEBSITE LANGUAGE</h4>
+				<div class="text-justify"id="google_translate_element"></div>
+			</div>
 		</div>
 		
 		<div class="footer-botom container">
 			<div class="row">
-
+				<hr align="center"></hr>
 				<div class="col-lg-12 col-md-12  col-sm-12  column">
 					<div class="text-center">
 						Fundhouse is a Trade Name of Truealliance Consultancy Management India Limited. 
@@ -305,13 +316,15 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 	</div>
 	</footer>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+</script>
 <script type="text/javascript">
 function googleTranslateElementInit() 
 {
 	new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages:'en,bn,gu,hi,kn,ml,mr,nl,pa,ta,te,ur,sd,fr,de,es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 }
 </script>
-	 <script type="text/javascript">
+<script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function()
 {

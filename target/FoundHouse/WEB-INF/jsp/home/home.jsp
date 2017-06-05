@@ -89,7 +89,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<div class="wrapper">
 		<header class="main-header"> <nav class=" navbar-static-top "
 			style="min-height: 61px;">
-		<div class="	container">
+		<div class="container">
 			<div class="navbar-header" style="padding-top: 3px; padding-left: 2%;">
 
 				<a href="home" class="navbar-brand" style="padding: 0px;"> <img
@@ -333,10 +333,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 										d="M 125 18 A 107 107 0 0 1 182.33346083348104 34.65690801806872 L 125 125 Z"></path></g>
 									<g data-order="1" class="pieSegmentGroup"> <path
 										stroke-width="1" stroke="#fff" stroke-miterlimit="2"
-										fill="#5d80a1" class="pieSegment"
+										fill="#ff9900" class="pieSegment"
 										d="M 175.90353999234298 44.78884356744419 A 95 95 0 1 1 124.99992721809437 30.00000000002788 L 125 125 Z"></path>
 									<path stroke-width="1" stroke="#fff" stroke-miterlimit="2"
-										fill="#5d80a1" opacity="0.3" class="lightPie"
+										fill="#ff9900" opacity="0.3" class="lightPie"
 										d="M 182.33346083348104 34.65690801806872 A 107 107 0 1 1 124.9999180245905 18.000000000031392 L 125 125 Z"></path></g></g></svg>
 								</div>
 							</div>
@@ -496,8 +496,8 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<!-- process -->
 	<section>
 	<div class="col-sm-12" style="padding-right: 34px;">
-		<div class="title">
-			<u><b>Our Process</b></u>
+		<div class="text-center new-section-heading">
+			<b>OUR PROCESS</b>
 		</div>
 
 		<div class="col-sm-1 pad solide">
@@ -969,7 +969,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 														title : "Principal",
 														value : 100 - (parseInt((total_interest * 100)
 																/ (total_amount))),
-														color : "#5d80a1"
+														color : "#ff9900"
 													} ]);
 						});
 
