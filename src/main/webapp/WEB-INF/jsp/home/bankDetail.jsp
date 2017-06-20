@@ -242,7 +242,7 @@ label.error {
 		<!-- BAck Img -->
 		<div class="handle-bg container about-handle-bg"></div>
 		<section class="setion-how-it-works">
-		<div class="title container text-center">
+		<div class="title container cushycms text-center">
 			<strong>A CLEVER NEW WAY TO INVEST IN YOUR PEERS AND GAIN UP-MARKET RETURNS</strong>
 		</div>
 		</section>
@@ -250,8 +250,8 @@ label.error {
 	<div class="container">
 	
 		
-		<div class="title container text-center">BANK DETAIL</div>
-		<div class="setion-how-it-works-inner container">
+		<div class="title container cushycms text-center">BANK DETAIL</div>
+		<div class="setion-how-it-works-inner container cushycms">
 			<form:form action="bankDetail" method="POST" modelAttribute="bank" enctype = 'multipart/form-data'>
 				<div class="row">
 					<div class="col-xs-6 col-sm-4 col-md-4">

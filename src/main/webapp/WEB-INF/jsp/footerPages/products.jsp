@@ -67,11 +67,12 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	
 	<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
 		<section class="section">
-			<div class="container">
+			<div class="container cushycms">
 			
 			<h2 class="text-center">PRODUCTS</h2>
 			<p>&nbsp;</p>
 				<h4><strong>Types of Loans</strong></h4>
+				<h5>Fundhouse endeavor is to provide personal and working capital finance products to its customers at just a click away. The credit facilities will be in the form of personal or business loan without any collateral. </h5>
 				<p>
 					Products
 				</p>

@@ -79,10 +79,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	
 		<section class="setion-how-it-works section-bg">
 		
-		<div class="container">
+		<div class="container cushycms">
 		<h2 class="text-center">Our Story, Our Value</h2>
 		</div>
-		<div class="setion-how-it-works-inner container"
+		<div class="setion-how-it-works-inner container cushycms"
 			style="margin-bottom: 0px;">
 			<div class="row">
 				<!-- Section 1 -->

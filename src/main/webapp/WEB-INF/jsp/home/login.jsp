@@ -109,7 +109,7 @@ access-section .divider {
 		<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
 		<!-- ******Login Section****** -->
 		<section class="login-section access-section section">
-		<div class="container">
+		<div class="container cushycms">
 			<div class="row">
 				<div
 					class="form-box col-md-8 col-sm-12 col-xs-12 col-md-offset-2 col-sm-offset-0 xs-offset-0">
@@ -150,7 +150,7 @@ access-section .divider {
 									<!--//checkbox-->
 								</form:form>
 							</div>
-							<!--//form-container-->
+							<!--//form-container cushycms-->
 							<div
 								class="social-btns col-md-5 col-sm-12 col-xs-12 col-md-offset-1 col-sm-offset-0 col-sm-offset-0">
 								<div class="divider">
@@ -174,7 +174,7 @@ access-section .divider {
 			</div>
 			<!--//row-->
 		</div>
-		<!--//container--> </section>
+		<!--//container cushycms--> </section>
 <jsp:include page="../footer.jsp" flush="true"></jsp:include>
 	</div>
 	<!-- Js File 		  -->

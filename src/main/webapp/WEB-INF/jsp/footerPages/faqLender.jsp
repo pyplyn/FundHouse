@@ -75,7 +75,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				
 		<section class="section2">
 		<div class="content">
-			<div class="container">
+			<div class="container cushycms">
 				<h2 class="new-section-heading text-center">Frequently Asked Questions &ndash; Lenders</h2>
 				<div class="row">
 					<div class="col">

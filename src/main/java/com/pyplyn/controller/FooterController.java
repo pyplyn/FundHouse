@@ -53,6 +53,11 @@ public class FooterController {
 	{
 		return "footerPages/products";
 	}
+	@RequestMapping(value="alliedEntity")
+	public String alliedEntity()
+	{
+		return "footerPages/alliedEntity";
+	}
 	
 	//ELIGIBIITY CRITERIA
 	@RequestMapping(value="borrowerEligibilityCriteria")
@@ -186,6 +191,13 @@ public class FooterController {
 	public String support()
 	{
 		return "footerPages/support";
+	}
+	
+	//PAY U MONEY
+	@RequestMapping(value="pay")
+	public String pay()
+	{
+		return "footerPages/pay";
 	}
 	
 	

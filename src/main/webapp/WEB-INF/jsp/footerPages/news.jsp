@@ -67,7 +67,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	
 	<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
 		<section class="section">
-			<div class="container">
+			<div class="container cushycms">
 			
 			<h2 class="text-center">NEWS ABOUT FUNDHOUSE</h2>
 			<p>&nbsp;</p>
@@ -76,7 +76,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				</p>
 					<!-- Simple-Box -->
 	<section class="content section-simple-box">
-	<div class="container">
+	<div class="container cushycms">
 		<div class="row">
 			<div class="col-sm-12 text-center">
 				<center>
@@ -86,7 +86,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					covered on different medias</p>
 			</div>
 					<div class="col-sm-12">
-				<div class="row container">
+				<div class="row container >
 
 					<div class="col-sm-3">
 

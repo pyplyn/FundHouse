@@ -257,7 +257,7 @@ label.error {
 		<!-- Sing up borrower -->
 		
 		<section class="section-signup container">
-		<div class="container">
+		<div class="container cushycms">
 			<div
 				class="otp-section  col-md-10 col-sm-12 col-xs-12 col-md-offset-1">
 				<section

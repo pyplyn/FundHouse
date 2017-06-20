@@ -111,7 +111,7 @@
 	color: black;
 }
 
-.profile-container {
+.profile-container cushycms {
 	padding: 100px 0px;
 }
 
@@ -154,7 +154,7 @@ label .checkbox {
 
 		<div class="content-wrapper body-wrapper">
 
-			<div class="container profile-container">
+			<div class="container cushycms profile-container cushycms">
 
 				<div class="row">
 					<div id="changed" class="col-sm-2 color">

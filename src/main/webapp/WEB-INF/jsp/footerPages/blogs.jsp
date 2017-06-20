@@ -50,7 +50,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
 		<!-- Blogs -->
 	<!-- 	<section class="artical-section">
-		<div class="container content">
+		<div class="container cushycms content">
 			<div class="row">
 				<div class="pad col-sm-6 col-md-4 col-xs-4">
 					<artical>
@@ -88,7 +88,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		</section> -->
 		
 		<section class="section">
-			<div class="container">
+			<div class="container cushycms">
 			
 			<h2 class="text-center">Blogs</h2>
 			<p>&nbsp;</p>

@@ -67,7 +67,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	
 	<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
 		<section class="section">
-			<div class="container">
+			<div class="container cushycms">
 			
 			<div class="container satisfied-customers">
 		<div class="col-md-12 text-center">

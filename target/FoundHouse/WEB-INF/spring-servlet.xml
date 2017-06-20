@@ -43,9 +43,9 @@
 		destroy-method="close">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
 		<property name="url"
-			value="jdbc:mysql://aa1b1wkjat2pcfs.cwsvzjo5tfx9.ap-south-1.rds.amazonaws.com:3306/ebdb" />
-		<property name="username" value="admin" />
-		<property name="password" value="admin123" />
+			value="jdbc:mysql://www.fundhouse.co.in:3306/fund_" />
+		<property name="username" value="fndhsedbusr" />
+		<property name="password" value="rrp8rylBE33yoEnB" />
 
 	</bean>
 

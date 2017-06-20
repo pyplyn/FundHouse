@@ -67,7 +67,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<!-- Nav Bar -->
 				<header class="main-header"> 
 				<nav class="navbar navbar-static-top ">
-		<div class="container">
+		<div class="container cushycms">
 <div class="navbar-header" style="padding-top: 3px; padding-left: 2%;">
 
 				<a href="home" class="navbar-brand" style="padding: 0px;"> <img
@@ -87,30 +87,30 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 
 			<!-- Collect the nav links, forms, and other content for toggling -->
-			<div class="collapse navbar-collapse " id="navbar-collapse">
+			<div class="collapse navbar-collapse " id="navbar-collapse" style="width: 105%;">
 				<ul class="nav navbar-nav navbar-right">
 
 					<li><a href="home">HOME</a></li>
 					<li><a href="howItWorks">HOW IT WORKS</a></li>
 					<li><a href="borrowers">NEED A LOAN</a></li>
 					<li><a href="investors">WANT TO INVEST</a></li>
-					<li><a href="blogs">BLOGS</a></li>
+					<li><a href="https://fundhouseindia.wordpress.com/" target="_blank">BLOGS</a></li>
 					<li><a href="aboutUs">ABOUT US</a></li>
 					<li><a href="contactUs">CONTACT US</a></li>
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
-						data-toggle="dropdown">SIGN UP <span class="caret"></span></a>
+						data-toggle="dropdown">SIGN UP / LOGIN <span class="caret"></span></a>
 						<ul class="dropdown-menu " role="menu">
-							<li><a href="signUpInvestor">Lender</a></li>
-							<li><a href="signUpBorrower">Borrower</a></li>
-
+							<li><a href="signUpInvestor">SIGN UP AS A LENDER</a></li>
+							<li><a href="signUpBorrower">SIGN UP AS A BORROWER</a></li>
+							<li><a href="login">LOGIN</a></li>
 						</ul></li>
-					<li><a href="login">LOGIN</a></li>
-					<li><img alt="IndiaFlag" src="./resources/images/IndiaFlag.png" class="img-responsive" align="middle" /></li>
+					<li><a href="profile">MY PROFILE</a></li>
+					<li><img alt="IndiaFlag" src="./resources/images/india-flag-animation.gif" class="img-responsive" style="margin-left: 4%; max-height: 51px; margin-top: 2%; margin-bottom: 2%;" align="bottom" /></li>
 				</ul>
 
 				<!-- /.navbar-custom-menu -->
 			</div>
-			<!-- /.container-fluid -->
+			<!-- /.container cushycms-fluid -->
 		</div>
 		</nav> </header>
 		<!-- END -->

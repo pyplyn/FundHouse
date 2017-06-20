@@ -89,7 +89,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<div class="wrapper">
 		<header class="main-header"> <nav class=" navbar-static-top "
 			style="min-height: 61px;">
-		<div class="container">
+		<div class="container cushycms">
 			<div class="navbar-header" style="padding-top: 3px; padding-left: 2%;">
 
 				<a href="home" class="navbar-brand" style="padding: 0px;"> <img
@@ -101,7 +101,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 				<button type="button" class="navbar-toggle collapsed"
 					data-toggle="collapse" data-target="#navbar-collapse">
-					<i class="fa fa-2x fa-bars"></i>
+					<i class="fa fa-2x fa-bars" style="color: orange;"></i>
 
 				</button>
 
@@ -109,30 +109,33 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 			<!-- Collect the nav links, forms, and other content for toggling -->
 
-			<div class="collapse navbar-collapse " id="navbar-collapse">
+			<div class="collapse navbar-collapse " id="navbar-collapse" style="width: 105%; background-color: white;">
 
-				<ul class="nav navbar-nav navbar-right" style="font-size: 17px; color: white;">
+				<ul class="nav navbar-nav navbar-right" style="color: orange; background-color: white;">
 					<li><a href="borrowers">NEED A LOAN</a></li>
 					<li><a href="investors">WANT TO INVEST</a></li>
 
-					<li class="dropdown"><a href="" class="dropdown-toggle"
+					<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown">SIGN UP & LOGIN <span class="caret"></span></a>
 						<ul class="dropdown-menu " role="menu">
 							<li><a href="signUpInvestor">Sign Up As A Lender</a></li>
 							<li><a href="signUpBorrower">Sign Up As A Borrower</a></li>
 							<li><a href="login">Login</a></li>
-						</ul></li>
-					<li><img alt="IndiaFlag" src="./resources/images/IndiaFlag.png" class="img-responsive" align="middle" /></li>
+						</ul>
+					</li>
+					<li>
+						<img alt="IndiaFlag" src="./resources/images/india-flag-animation.gif" class="img-responsive" style="margin-left: 4%; max-height: 51px; margin-top: 2%; margin-bottom: 2%;" align="bottom" />
+					</li>
 
 				</ul>
 
 				<!-- /.navbar-custom-menu -->
 			</div>
-			<!-- /.container-fluid -->
+			<!-- /.container cushycms-fluid -->
 		</div>
 		</nav> </header>
 		<!-- Full Width Column -->
-		<!-- <div class="container-fluid"> -->
+		<!-- <div class="container cushycms-fluid"> -->
 
 
 
@@ -225,14 +228,13 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
                           </div>
                         </div>
 <section class="container-fluid cta-home" style="margin-top: 0px;">
-	<div class="container">
+	<div class="container cushycms">
 		<div class="col-md-9">
 			<p class="font-white h3 bold">
 				Get Free <span class="light-green-text">Consultation</span>
 			</p>
 			<p class="h4 font-white ">
-				Contact  us at <a class="light-green-text  contact"
-					href="mailto:info@fundhouse.co.in">info@fundhouse.co.in</a> to know	more about us.
+				Contact  us at <a href="mailto:info@fundhouse.co.in" style="color: white;">info@fundhouse.co.in</a> to know	more about us.
 			</p>
 		</div>
 		<div class="col-md-3 call-button">
@@ -245,15 +247,15 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	</section>
 	<!-- Emi Section -->
 	<!-- Collapse Code -->
-	<div>
-	<section>
-	<div class="box box-bg-investors-investors">
+	
+	
+	<div class="box box-bg-investors-investors" style="border-color: #67f713;">
 							<div class="box-header with-border" style="background-color: #67f713; color: white; text-align:center;">
-								<h1	class="box-title-calculator"><strong>EMI CALCULATOR</strong></h1>
+								<h1	class="box-title-calculator">EMI CALCULATOR</h1>
 								<div class="box-tools pull-right">
 									<button type="button" class="btn btn-box-tool"
 										data-widget="collapse">
-										<i class="fa fa-3x fa-minus" style="color: navy;"></i>
+										<i class="fa fa-2x fa-minus" style="color: orange;"></i>
 									</button>
 								</div>
 								<!-- /.box-tools --> 
@@ -264,7 +266,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<li class="container-toggle-home" align="center" style="margin-top: 0px;">
 			<ul class="ul-toggle-list ul-toggle-list-home"	style="padding: 0 !important;">
 				<section class="emi-background" id="emi">
-				<div class="container" style="padding: 60px 0;">
+				<div class="container cushycms" style="padding: 60px 0;">
 					<div class="row">
 						<div class="col-md-7">
 							<div class="row">
@@ -413,11 +415,11 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	</div>
 	<!-- /.box-body -->
 	</div>
-	</section>
-	</div> <!-- Collapse Code End -->
+
+	
 	<!-- END -->
 	<section>
-	<div class="container">
+	<div class="container cushycms">
 		<div class="full_section_border wow fadeInDown">
 			<div class="col-md-4 first_area wow slideInDown">
 
@@ -476,7 +478,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 	<section>
 	<div class="container-fluid index-callback-cta">
-		<div class="container text-center">
+		<div class="container cushycms text-center">
 			<div class="font-white row">
 				<div class="col-md-1">
 					<img role="presentation"
@@ -484,7 +486,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				</div>
 				<div class="col-md-10" style="padding-top: 25px;"><strong>Get free
 					advice from our Relationship Managers for becoming a Lender or
-					Borrower.<br> Email us at <a href="mailto:info@fundhouse.co.in">info@fundhouse.co.in</a></strong></div>
+					Borrower.<br> Email us at <a href="mailto:info@fundhouse.co.in" style="color: white;">info@fundhouse.co.in</a></strong></div>
 					<div class="text-center testimonial-index">
 						<a class="btn btn-black-index" href="contactUs">CONTACT US</a>
 			</div>
@@ -542,7 +544,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 
 	<section class="container-fluid cta-home1"> 
 	<!-- <img class="img-responsive center-block" src="./resources/images/Layer 12.png"> -->
-	<div class="container">
+	<div class="container cushycms">
 		<center>
 			<p class="new-section-heading"><strong>FINSIGHT</strong></p>
 		</center>
@@ -597,14 +599,14 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	</div>
 	<section class="container-fluid cta-home1">
 
-	<div class="container satisfied-customers">
+	<div class="container cushycms satisfied-customers">
 		<div class="col-md-12 text-center">
 			<p class="new-section-heading">Satisfied Customers</p>
 			<p class="new-section-subheading">Let's hear our customers' review
 				about Fund House</p>
 		</div>
 	</div>
-	<div class="container">
+	<div class="container cushycms">
 		<div class="index-testimonial-card">
 			<div class="col-md-6">
 				<div class="index-testimonial-card-div">
@@ -670,10 +672,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	</div>
 
 	</section>
-	<!-- /.container END navi -->
+	<!-- /.container cushycms END navi -->
 	<!-- Simple-Box -->
 	<section class="content section-simple-box">
-	<div class="container">
+	<div class="container cushycms">
 		<div class="row">
 			<div class="col-sm-12 text-center">
 				<center>
@@ -735,7 +737,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	</section>
 	<!-- END simple-Blogs  -->
 	<!-- <section class="secion-static-content">
-	<div class="container">
+	<div class="container cushycms">
 
 		<h1 class="text-center">About Fundhouse</h1>
 		<p>In this growing global market getting in touch with potential

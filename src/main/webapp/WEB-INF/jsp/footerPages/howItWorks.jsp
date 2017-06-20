@@ -50,10 +50,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<section class="setion">
 
 
-		<div class="title container text-center">
+		<div class="title container cushycms text-center">
 			<h2 class="text-center">HOW IT WORKS?</h2>
 		</div>
-		<div class="setion-how-it-works-inner container">
+		<div class="setion-how-it-works-inner container cushycms">
 			<div class="row">
 				<!-- Section 1 -->
 				<div class="col">

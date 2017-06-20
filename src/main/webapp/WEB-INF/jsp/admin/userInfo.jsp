@@ -84,7 +84,7 @@ li a:hover {
 
 	<header class="main-header"> <nav
 		class="navbar navbar-static-top ">
-	<div class="container">
+	<div class="container cushycms">
 		<div class="navbar-header">
 			<a href="" class="navbar-brand"><b style="color: orange;">F</b>UNDHOUSE ADMIN PANEL</a>
 			<button type="button" class="navbar-toggle collapsed"
@@ -95,9 +95,9 @@ li a:hover {
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse " id="navbar-collapse">
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="deshbord" name="investor" id="investor">Dashboard</a></li>
-				<li><a href="#" name="borrowers" id="borrowers">Active Proposal</a></li>
-				<li><a href="documents">Risk factor</a></li>
+				<li><a href="../deshbord" name="investors" id="investors">Dashboard</a></li>
+				<li><a href="../proposalList" name="borrowers" id="borrowers">Active Proposal</a></li>
+				<li><a href="../documents">Risk factor</a></li>
 				<!-- <li class="dropdown"><a href="" class="dropdown-toggle"
 					data-toggle="dropdown">Logout<span class="caret"></span></a>
 					<ul class="dropdown-menu " role="menu">
@@ -110,12 +110,12 @@ li a:hover {
 
 			<!-- /.navbar-custom-menu -->
 		</div>
-		<!-- /.container-fluid -->
+		<!-- /.container cushycms-fluid -->
 	</div>
 	</nav> </header>
 
 	<div class="wrapper" style="background: #e0e0e0">
-		<div class="container">
+		<div class="container cushycms">
 			<div style="padding: 100px 0px">
 				<div class="row">
 					<div class="col-md-2 col-sm-12 col-xs-12 ">

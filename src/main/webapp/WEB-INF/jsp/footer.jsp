@@ -68,7 +68,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 <body>
 <footer class="main-footer"> <!-- ROW 1 -->
 
-	<div class="container">
+	<div class="container cushycms">
 		<div class ="row">	
 			<div class="nav">
 				<h4>COMPANY</h4>
@@ -81,7 +81,8 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					<a href="advisoryBoard">Advisory Board | </a>
 					<a href="products">Products | </a>
 					<a href="services">Services | </a>
-					<a href="services">Upcoming Services</a>
+					<a href="services">Upcoming Services |</a>
+					<a href="alliedEntity">Allied Entity</a>
 			</div>
 		</div>
 		<div class="row">
@@ -130,7 +131,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					<a href="contactUs">Contact us | </a>
 					<a href="knowledgeCenter">Knowledge Center | </a>
 					<a href="news">News | </a>
-					<a href="blogs">Blogs | </a>
+					<a href="https://fundhouseindia.wordpress.com/" target="_blank">Blogs | </a>
 					<a href="sitemap">Sitemap | </a>
 					<a href="mediaCenter">Media Center</a>
 			</div>
@@ -162,13 +163,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<div class="row">
 		
 		 <div class="text-center column">
-             <a href="https://www.payumoney.com/paybypayumoney/#/284043" target="_blank">
+             <a href="pay">
               	<span class="align-middle"><img src="./resources/images/payu1.JPG" alt="PayUmoney" class="img-responsive center-block"/></span>		
              </a>
          </div>
-          <!-- <div class="col-md-6 col-lg-6 text-center column">
-          	<span class="align-middle"><img alt="SSL" src="./resources/images/SSL_1.png" class="img-responsive"></span>
-          </div> -->
 			
 		</div>
 		<div class="row text-center">
@@ -294,6 +292,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				<div class="text-justify"id="google_translate_element"></div>
 			</div>
 		</div>
+	
 		
 		<div class="footer-botom container">
 			<div class="row">

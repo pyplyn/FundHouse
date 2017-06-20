@@ -130,7 +130,7 @@ li a:hover {
 	
 	<div class="wrapper" style="background: #e0e0e0">
 		<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
-		<div class="container">
+		<div class="container cushycms">
 			<div style="padding: 100px 0px">
 				<div class="row">
 					<div class="col-md-2 col-sm-12 col-xs-12 ">
@@ -140,7 +140,7 @@ li a:hover {
 							<li class="list-group-item" id="content_2"><a
 								href="#proposal">Proposal</a></li>
 							<li class="list-group-item" id="content_3"><a
-								href="#conformation">Conformation</a></li>
+								href="#conformation">Confirmation</a></li>
 						</ul>
 					</div>
 					<div class="col-md-8 col-sm-12 col-xs-12 ">
@@ -199,7 +199,7 @@ li a:hover {
 											<table class="table">
 												<tr>
 													<th>Name</th>
-													<th>isApprive</th>
+													<th>isApproved</th>
 												</tr>
 												<tbody id="documentDetail">
 												</tbody>
@@ -233,7 +233,7 @@ li a:hover {
 										<div class="bdr col-md-2 col-sm-2 col-xs-2 panel2">Risk
 											Factor</div>
 										<div class="bdr col-md-2 col-sm-2 col-xs-2 ">Status</div>
-										<div class="bdr col-md-2 col-sm-2 col-xs-2 panel1">nill</div>
+										<div class="bdr col-md-2 col-sm-2 col-xs-2 panel1">Nil</div>
 
 
 										<div id="proposal"></div>
@@ -257,7 +257,7 @@ li a:hover {
 											<div class="bdr col-md-2 col-sm-2 col-xs-2 panel2">Risk
 												Factor</div>
 											<div class="bdr col-md-2 col-sm-2 col-xs-2 ">Status</div>
-											<div class="bdr col-md-2 col-sm-2 col-xs-2 panel1">nill</div>
+											<div class="bdr col-md-2 col-sm-2 col-xs-2 panel1">Nil</div>
 											<div id="sentproposal"></div>
 
 

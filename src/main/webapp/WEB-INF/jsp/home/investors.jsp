@@ -70,14 +70,14 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<!-- BAck Img -->
 		<div class="handle-bg container about-handle-bg"></div>
 		<section class="setion-how-it-works">
-		<div class="title container text-center">
+		<div class="title container cushycms text-center">
 			<strong>A CLEVER NEW WAY TO INVEST IN YOUR PEERS AND GAIN UP-MARKET RETURNS</strong>
 		</div>
 		</section>
 		<!-- END -->
 		<!-- Tab bar  -->
 		<section class="section">
-		<div class="container">
+		<div class="container cushycms">
 
 			<div class="content investor-contenet" style="padding-left: 0px;padding-right: 0px;">
 				<div class="row">
@@ -404,7 +404,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<!--  Section 2 -->
 		<section class="section2">
 		<div class="content">
-			<div class="container">
+			<div class="container cushycms">
 				<h2 class="title text-center">Frequently Asked Questions</h2>
 				<div class="row">
 					<div class="col">

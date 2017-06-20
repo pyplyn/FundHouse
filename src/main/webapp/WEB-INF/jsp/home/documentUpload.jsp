@@ -37,8 +37,8 @@
 	
 	<section class="setion-how-it-works section-bg">
 	<form action="#" enctype="multipart/form-data" method="POST">
-		<div class="title container text-center">Document Upload</div>
-		<div class="setion-how-it-works-inner container">
+		<div class="title container cushycms text-center">Document Upload</div>
+		<div class="setion-how-it-works-inner container cushycms">
 			<div class="row">
 				<div class="col-sm-12">
 					<h2 class="text-center">${sessionScope.sessionLogin.userType}</h2>

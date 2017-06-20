@@ -67,7 +67,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	
 	<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
 		<section class="section">
-			<div class="container">
+			<div class="container cushycms">
 			
 			<h2 class="text-center">CAREERS</h2>
 			<p>&nbsp;</p>
@@ -85,7 +85,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					Kindly send your latest resumes to <a href="mailto:career@fundhouse.co.in">career@fundhouse.co.in</a>.
 				</p>
 				
-					<div class="clearfix " id="12227">
+					<div class="clearfix " id="12227"></div>
 	
 					<div class="page-content clearfix">
 	
@@ -119,6 +119,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				<div class="link-pages"></div>
 				
 								
+			</div>
 			</div>
 			</div>
 		</section>

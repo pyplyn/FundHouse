@@ -67,37 +67,34 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	
 	<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
 		<section class="section">
-			<div class="container">
-			
-			<h2 class="text-center">BANKING PARTNERS</h2>
-			<p>&nbsp;</p>
+			<div class="container cushycms">
 				<div class="row text-center">
+				<h1 class="text-center"><strong>BANKING PARTNERS</strong></h1>
 				<div class="col-lg-6 col-md-6">
-				<!-- <h4><strong>ICICI Bank</strong></h4> -->
-				<img src=<c:url value="/resources/images/ICICI_Bank_Logo.png"/>
-							class="img-responsive"></img>
+				<a href="https://www.icicibank.com/" target="_blank"><img src=<c:url value="/resources/images/ICICI_Bank_Logo.png"/>
+							class="img-responsive"></img></a>
 				</div>
 				<div class="col-lg-6 col-md-6">
 				<!-- <h4><strong>IDBI Bank</strong></h4> -->
-					<img src=<c:url value="/resources/images/idbi_logo.png"/>
-							class="img-responsive"></img>
+					<a href="https://www.idbi.com/index.asp" target="_blank"><img src=<c:url value="/resources/images/idbi_logo.png"/>
+							class="img-responsive"></img></a>
 				</div>
 				</div>
-				<div class="row text-center">
-					<h2 class="text-center">FUNDING PARTNER</h2>
+				<div class="col-lg-6 col-md-6">
+				<div class="row text-center" style="padding-top:35px;">
+					<h1 class="text-center"><strong>FUNDING PARTNER</strong></h1>
 					<p>&nbsp;</p>
-					<!-- <h4><strong>CHHATTISGARH FIN-CORP LENDING PVT.LTD.</strong></h4> -->
-					<p>&nbsp;</p>
-						<img src=<c:url value="/resources/images/CGFL_Logo.jpg"/>
-							class="img-responsive center-block"></img>
+						<a href="http://www.cgfl.org/" target="_blank"><img src=<c:url value="/resources/images/CGFL_Logo.jpg"/>
+							class="img-responsive center-block"></img></a>
 				</div>
-				<div class="row text-center">
-					<h2 class="text-center">TECHNOLOGY PARTNER</h2>
+				</div>
+				<div class="col-lg-6 col-md-6">
+				<div class="row text-center" style="padding-top:35px;">
+					<h1 class="text-center"><strong>TECHNOLOGY PARTNER</strong></h1>
 					<p>&nbsp;</p>
-					<!-- <h4><strong>CHHATTISGARH FIN-CORP LENDING PVT.LTD.</strong></h4> -->
-					<p>&nbsp;</p>
-						<img src=<c:url value="/resources/images/FinancialPowerLogo.png"/>
-							class="img-responsive center-block"></img>
+						<a href="http://www.financialpower.co.in/" target="_blank"><img src=<c:url value="/resources/images/FinancialPowerLogo.png"/>
+							class="img-responsive center-block"></img></a>
+				</div>
 				</div>
 			</div>
 		</section>

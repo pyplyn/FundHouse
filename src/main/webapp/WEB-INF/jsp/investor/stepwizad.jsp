@@ -364,7 +364,7 @@ label.error {
 	<div class="wrapper">
 		<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
 		<section class="section-signup container">
-		<div class="container">
+		<div class="container cushycms">
 			<div
 				class="input-box mdl-card mdl-cell mdl-cell--12-col-desktop mdl-cell--8-col-tablet mdl-cell--4-col-phone form-box">
 				<form method="POST" class="f1">

@@ -67,7 +67,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	
 	<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
 		<section class="section">
-			<div class="container">
+			<div class="container cushycms">
 			
 			<h2 class="text-center">ABOUT FUNDHOUSE</h2>
 			<p>&nbsp;</p>
@@ -85,7 +85,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 				<p>
 					Fundhouse provides a Peer to peer lending (or P2P lending) platform which is one of the most innovative financial products of recent times. It enables creditworthy borrowers lower their cost of loans and individual lenders/investors to lend directly to their peers and community thereby earning higher returns. 
 				</p>
-				<div class="setion-how-it-works-inner container">
+				<div class="setion-how-it-works-inner container cushycms">
 					<div class="row">
 				<!-- Section 1 -->
 				<div class="col">

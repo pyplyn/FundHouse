@@ -34,7 +34,7 @@
 <body class="hold-transition skin-blue layout-top-nav">
 	<header class="main-header"> <nav
 		class="navbar navbar-static-top ">
-	<div class="container">
+	<div class="container cushycms">
 		<div class="navbar-header">
 			<a href="" class="navbar-brand"><b style="color: orange;">F</b>UNDHOUSE ADMIN PANEL</a>
 			<button type="button" class="navbar-toggle collapsed"
@@ -65,10 +65,10 @@
 	</nav> </header>
 
 	<div class="wrapper" style="background: #FFF">
-		<div class="container">
+		<div class="container cushycms">
 
 			<section class="section">
-			<div class="container">
+			<div class="container cushycms">
 
 				<div class="content investor-contenet">
 					<div class="row">

@@ -158,7 +158,7 @@ label {
 	border: 2px solid rgb(71, 201, 175);
 }
 
-.mdl-checkbox__ripple-container .mdl-ripple {
+.mdl-checkbox__ripple-container cushycms .mdl-ripple {
 	background: rgba(71, 201, 175, 0.8);
 }
 
@@ -213,7 +213,7 @@ label.error {
 	background: #47C9AF;
 }
 
-.mdl-radio__ripple-container .mdl-ripple {
+.mdl-radio__ripple-container cushycms .mdl-ripple {
 	background: #47C9AF;
 }
 
@@ -255,8 +255,8 @@ label.error {
 		<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
 		<!-- Sing up borrower -->
 		
-		<section class="section-signup container">
-		<div class="container">
+		<section class="section-signup container cushycms">
+		<div class="container cushycms">
 			<div
 				class="otp-section  col-md-10 col-sm-12 col-xs-12 col-md-offset-1">
 				<section

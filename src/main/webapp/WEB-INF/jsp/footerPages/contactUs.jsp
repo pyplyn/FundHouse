@@ -92,7 +92,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<div class="wrapper">
 	<jsp:include page="../mainHeader.jsp" flush="true"></jsp:include>
 	
-	<div class="container">
+	<div class="container cushycms">
 		<section class="section">
 		<center>
 			
@@ -161,7 +161,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 			</div>
 		</div> -->
 
-	<div class="container">
+	<div class="container cushycms">
 		<div class="row">
 			<div class="col-md-6">
 				<div class="well well-sm">

@@ -49,7 +49,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 		<!--  Box -->
 		<section class="section">
 
-		<div class="container">
+		<div class="container cushycms">
 		<h2 class="text-center">THE PROCESS</h2>
 				<p>
 					You may avail a loan for a wedding, to buy a car or any other personal use. Fundhouse presently does not deal in commercial or corporate finance.
@@ -72,7 +72,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 					These are few of our everyday life needs and this list is not exhaustive, there can be many other valid circumstances which may require an individual to avail a personal loan.
 				</p>
 		</div>
-		<div class="setion-how-it-works-inner container">
+		<div class="setion-how-it-works-inner container cushycms">
 			<div class="row">
 				<!-- Section 1 -->
 				<div class="col">

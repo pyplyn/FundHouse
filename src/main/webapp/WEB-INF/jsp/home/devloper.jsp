@@ -69,13 +69,13 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover,
 	<!-- BAck Img -->
 		<div class="handle-bg container about-handle-bg"></div>
 		<section class="setion-how-it-works">
-		<div class="title container text-center">
+		<div class="title container cushycms text-center">
 			<strong>A CLEVER NEW WAY TO INVEST IN YOUR PEERS AND GAIN UP-MARKET RETURNS</strong>
 		</div>
 		</section>
 		<!-- END -->
 		<section class="section">
-			<div class="container">
+			<div class="container cushycms">
 			
 			<h2 class="text-center">Developer</h2>
 			<p>&nbsp;</p>

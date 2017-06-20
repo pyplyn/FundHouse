@@ -39,7 +39,7 @@
 
 	<header class="main-header"> <nav
 		class="navbar navbar-static-top ">
-	<div class="container">
+	<div class="container cushycms">
 		<div class="navbar-header">
 			<a href="" class="navbar-brand"><b style="color: orange;">F</b>UNDHOUSE ADMIN PANEL</a>
 			<button type="button" class="navbar-toggle collapsed"
@@ -66,12 +66,12 @@
 
 			<!-- /.navbar-custom-menu -->
 		</div>
-		<!-- /.container-fluid -->
+		<!-- /.container cushycms-fluid -->
 	</div>
 	</nav> </header>
 
 	<div class="wrapper" style="background: #FFF">
-		<div class="container">
+		<div class="container cushycms">
 
 			<div class="row">
 				<div class="col-sm-3">
@@ -98,7 +98,8 @@
 
 					</table>
 					<button id="calculate" value="Calculate">Calculate</button>
-					<div>Risk Factor::out of (<span id="review"></span>/5)</div>
+					<div class="text-center">
+					<h3><strong>Risk Factor: (<span id="review"></span> OUT OF 5)</strong></h3></div>
 					
 
 				</div>
@@ -205,6 +206,7 @@
 								}
 								var ans;
 								ans=risk/dat.length;
+								ans = ans.toFixed(2);
 								$("#review").html(ans);
 							});
 							$(document)

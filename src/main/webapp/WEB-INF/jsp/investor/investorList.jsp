@@ -156,7 +156,7 @@ label .checkbox {
 		<!-- Full Width Column -->
 		<div class="content-wrapper body-wrapper">
 
-			<div class="container profile-container">
+			<div class="container cushycms profile-container">
 
 				<div class="row">
 					<div id="changed" class="col-sm-2 color">
